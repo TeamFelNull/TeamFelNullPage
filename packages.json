@@ -2,19 +2,6 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "FruitServer (Fruit Interactions)",
-      "thumb" : "https://i.gyazo.com/e684a4f7bfbdf80cbb8a52f91b21fee7.png",
-      "name" : "Pack13",
-      "version" : "2020-03-05-17-59-05",
-      "key" : null,
-      "server" : {
-        "serverHost" : "teamfruit.net",
-        "serverPort" : 25565
-      },
-      "location" : "pack13.json",
-      "priority" : 2
-    },
-    {
       "title" : "MuscariServerS8.5",
       "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
       "name" : "Pack10",
