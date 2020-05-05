@@ -2,19 +2,6 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "FruitServer (ProjectOzone3)",
-      "thumb" : "https://i.gyazo.com/568bc8ae2444149f65e8d20b853938d1.jpg",
-      "name" : "Pack16",
-      "version" : "2020-03-05-18-09-07",
-      "key" : null,
-      "server" : {
-        "serverHost" : "teamfruit.net",
-        "serverPort" : 25519
-      },
-      "location" : "pack16.json",
-      "priority" : 3
-    },
-    {
       "title" : "FruitServer (Fruit Interactions)",
       "thumb" : "https://i.gyazo.com/e684a4f7bfbdf80cbb8a52f91b21fee7.png",
       "name" : "Pack13",
