@@ -26,6 +26,19 @@
       },
       "location" : "pack101.json",
       "priority" : 2
+    },
+    {
+      "title" : "ProjectOzone3",
+      "thumb" : "https://i.gyazo.com/933ae526ab881980197054dd3d4c84f4.png",
+      "name" : "Pack103",
+      "version" : "2020-05-12-23-47-18",
+      "key" : null,
+      "server" : {
+        "serverHost" : "play.servg.red",
+        "serverPort" : 25560
+      },
+      "location" : "pack101.json",
+      "priority" : 2
     }
   ]
 }

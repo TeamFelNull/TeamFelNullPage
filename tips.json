@@ -2,14 +2,6 @@
     "minimumVersion": 1,
     "tips": [
         {
-            "desc": "栗目には気をつけよう。",
-            "thumb": "https://i.gyazo.com/be0fe8e8949ff5c83b8bff0d2ee208b7.png"
-        },
-        {
-            "desc": "SignPictureを使ってお家を飾ろう。",
-            "thumb": "https://i.gyazo.com/4303f75edbad3edeff82deee11bf54f9.jpg"
-        },
-        {
             "desc": "工夫をこらして自動化してみよう。",
             "thumb": "https://i.gyazo.com/4c1f41afeac77c9b3556e93878391496.png"
         },
@@ -21,9 +13,5 @@
             "desc": "30億のデバイスで走る栗目",
             "thumb": "https://i.gyazo.com/e451f072c2ae091d9162fb2e4bd81978.png"
         },
-        {
-            "desc": "新たな冒険へ",
-            "thumb": "https://i.gyazo.com/158b0746297a484468c243b95d7f2d5e.png"
-        }
     ]
 }
