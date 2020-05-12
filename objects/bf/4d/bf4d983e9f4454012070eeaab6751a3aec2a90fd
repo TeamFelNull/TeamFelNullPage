@@ -1,0 +1,24 @@
+{
+    "machine": "magica_converter",
+    "registryName": "magica_converter_mana4",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:dragon_breath",
+            "amount": 1
+        },
+		{
+			"type": "mana",
+			"io-type": "output",
+			"mana": 750
+		},
+				{
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "purpleslime",
+            "amount": 150
+        }
+    ]
+}

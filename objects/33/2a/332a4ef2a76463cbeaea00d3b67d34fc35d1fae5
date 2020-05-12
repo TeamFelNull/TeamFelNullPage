@@ -1,0 +1,128 @@
+# Configuration file
+
+##########################################################################################################
+# materials
+#--------------------------------------------------------------------------------------------------------#
+# Tinkers' Construct Materials
+##########################################################################################################
+
+materials {
+    # Set to false to disable aluminum material [default: true]
+    B:aluminum=true
+
+    # Set to false to disable amethyst material [default: true]
+    B:amethyst=true
+
+    # Set to false to disable ancient wood material [default: true]
+    B:ancient_wood=true
+
+    # Set to false to disable astral star metal material [default: true]
+    B:astral_starmetal=true
+
+    # Set to false to disable certus quartz material [default: true]
+    B:certus_quartz=true
+
+    # Set to false to disable cyanite material [default: true]
+    B:cyanite=true
+
+    # Set to false to disable enderium material [default: true]
+    B:enderium=true
+
+    # Set to false to disable fluix crystal material [default: true]
+    B:fluix_crystal=true
+
+    # Set to false to disable infused iron material [default: true]
+    B:infused_iron=true
+
+    # Set to false to disable invar material [default: true]
+    B:invar=true
+
+    # Set to false to disable iridium material [default: true]
+    B:iridium=true
+
+    # Set to false to disable khnumite material [default: true]
+    B:khnumite=true
+
+    # Set to false to disable limestone material [default: true]
+    B:limestone=true
+
+    # Set to false to disable ludicrite material [default: true]
+    B:ludicrite=true
+
+    # Set to false to disable lumium material [default: true]
+    B:lumium=true
+
+    # Set to false to disable platinum material [default: true]
+    B:platinum=true
+
+    # Set to false to disable runestone material [default: true]
+    B:runestone=true
+
+    # Set to false to disable signalum material [default: true]
+    B:signalum=true
+
+    # Set to false to disable yellorium material [default: true]
+    B:yellorium=true
+}
+
+
+##########################################################################################################
+# modules
+#--------------------------------------------------------------------------------------------------------#
+# Modules
+##########################################################################################################
+
+modules {
+    # Set to false to disable Applied Energistic 2 Module [default: true]
+    B:appliedenergistics2=true
+
+    # Set to false to disable Astral Sorcery Module [default: true]
+    B:astralsorcery=true
+
+    # Set to false to disable Atum Module [default: true]
+    B:atum=true
+
+    # Set to false to disable Mystical World Module [default: true]
+    B:mysticalworld=true
+
+    # Set to false to disable Natures Aura Module [default: true]
+    B:naturesaura=true
+
+    # Set to false to disable Astral Sorcery Module [default: true]
+    B:roots=true
+
+    # Set to false to disable Thermal Foundation Module [default: true]
+    B:thermalfoundation=true
+}
+
+
+##########################################################################################################
+# tools
+#--------------------------------------------------------------------------------------------------------#
+# Tools
+##########################################################################################################
+
+tools {
+    # Set to false to Remove the Atum Requirement for the tools [default: true]
+    B:atum_requirement_for_tools=true
+
+    # Set to false to disable the weapon Club [default: true]
+    B:toolClub=true
+
+    # Set to false to disable the weapon Gladius [default: true]
+    B:toolGladius=true
+
+    # Set to false to disable the weapon Greatsword [default: true]
+    B:toolGreatsword=true
+
+    # Set to false to disable the weapon Khopesh [default: true]
+    B:toolKhopesh=true
+
+    # Set to false to disable the weapon Runed Knife [default: true]
+    B:toolRunedKnife=true
+
+    # Set to false to disable Tinkers' Tools Added by this mod [default: true]
+    B:tools=true
+}
+
+

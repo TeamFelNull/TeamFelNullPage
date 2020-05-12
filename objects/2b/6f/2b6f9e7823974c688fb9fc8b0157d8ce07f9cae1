@@ -1,0 +1,1108 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 252
+    },
+    {
+      "item": "magneticraft:light_plates|0",
+      "emc": 252
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 756
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 756
+    },
+    {
+      "item": "minecraft:bucket|0",
+      "emc": 756
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:light_plates|2",
+      "emc": 128
+    },
+    {
+      "item": "magneticraft:light_plates|3",
+      "emc": 512
+    },
+    {
+      "item": "magneticraft:light_plates|5",
+      "emc": 512
+    },
+    {
+      "item": "magneticraft:ingots|5",
+      "emc": 512
+    },
+    {
+      "item": "landcore:item_ingot|1",
+      "emc": 512
+    },
+    {
+      "item": "magneticraft:light_plates|1",
+      "emc": 2048
+    },
+    {
+      "item": "immersiveengineering:metal|8",
+      "emc": 252
+    },
+    {
+      "item": "mekanism:ingot|4",
+      "emc": 252
+    },
+    {
+      "item": "armorplus:steel_ingot|0",
+      "emc": 252
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 252
+    },
+    {
+      "item": "magneticraft:ingots|6",
+      "emc": 252
+    },
+    {
+      "item": "magneticraft:light_plates|6",
+      "emc": 252
+    },
+    {
+      "item": "ceramics:clay_bucket|0",
+      "emc": 0
+    },
+    {
+      "item": "embers:ingot_dawnstone|0",
+      "emc": 2176
+    },
+    {
+      "item": "tconstruct:ingots|5",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:controlcircuit|1",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:controlcircuit|2",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:controlcircuit|3",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 252
+    },
+    {
+      "item": "mekanism:reinforcedalloy|0",
+      "emc": 252
+    },
+    {
+      "item": "mekanism:atomicalloy|0",
+      "emc": 252
+    },
+    {
+      "item": "mekanism:ingot|3",
+      "emc": 384
+    },
+    {
+      "item": "mekanism:otherdust|6",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:otherdust|5",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:compressedcarbon|0",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:compressedredstone|0",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:compresseddiamond|0",
+      "emc": 8192
+    },
+    {
+      "item": "mekanism:compressedobsidian|0",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:energycube|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basicblock|6",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:enchanted_book|0",
+      "emc": 0
+    },
+    {
+      "item": "exnihilocreatio:block_dust|0",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 512
+    },
+    {
+      "item": "magneticraft:ingots|14",
+      "emc": 128
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 136
+    },
+    {
+      "item": "tconstruct:materials|0",
+      "emc": 10
+    },
+    {
+      "item": "lordcraft:crystal_basic_neutral|0",
+      "emc": 128
+    },
+    {
+      "item": "magneticraft:dusts|1",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|2",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|3",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|4",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|5",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|6",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|7",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|9",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|10",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|11",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|12",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|13",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:dusts|14",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|1",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|2",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|3",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|4",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|5",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|7",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|9",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|10",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|11",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|12",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|13",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:chunks|14",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|1",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|2",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|3",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|4",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|5",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|7",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|8",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|9",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|10",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|11",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|12",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|13",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:rocky_chunks|14",
+      "emc": 0
+    },
+    {
+      "item": "lordcraft:tile|0",
+      "emc": 448
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 4096
+    },
+    {
+      "item": "bigreactors:ingotyellorium|0",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:machineblock2|11",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|5",
+      "emc": 512
+    },
+    {
+      "item": "nuclearcraft:ingot|7",
+      "emc": 512
+    },
+    {
+      "item": "nuclearcraft:ingot|6",
+      "emc": 512
+    },
+    {
+      "item": "modularmachinery:itemmodularium|0",
+      "emc": 934
+    },
+    {
+      "item": "embers:plate_dawnstone|0",
+      "emc": 2176
+    },
+    {
+      "item": "minecraft:coal|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "projectred-core:resource_item|105",
+      "emc": 64
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 50000
+    },
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 50000
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 50000
+    },
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 100000
+    },
+    {
+      "item": "projecte:condenser_mk2|0",
+      "emc": 1000000
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 500000
+    },
+    {
+      "item": "magneticraft:steam_engine|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:solar_tower|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:solar_mirror|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:oil_heater|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftplanets:item_basic_asteroids|0",
+      "emc": 4096
+    },
+    {
+      "item": "exnihilocreatio:item_ore_titanium|3",
+      "emc": 4096
+    },
+    {
+      "item": "thermalsolars:itemtitaniumingot|0",
+      "emc": 4096
+    },
+    {
+      "item": "extraplanets:tier4_items|5",
+      "emc": 2048
+    },
+    {
+      "item": "extraplanets:ingot_mercury|0",
+      "emc": 2048
+    },
+    {
+      "item": "extraplanets:tier5_items|12",
+      "emc": 2048
+    },
+    {
+      "item": "extraplanets:tier6_items|5",
+      "emc": 2048
+    },
+    {
+      "item": "extraplanets:tier7_items|5",
+      "emc": 2048
+    },
+    {
+      "item": "extraplanets:tier5_items|5",
+      "emc": 4096
+    },
+    {
+      "item": "extraplanets:tier8_items|6",
+      "emc": 4096
+    },
+    {
+      "item": "extraplanets:tier7_items|7",
+      "emc": 4096
+    },
+    {
+      "item": "extraplanets:tier5_items|8",
+      "emc": 4096
+    },
+    {
+      "item": "extraplanets:tier11_items|0",
+      "emc": 6144
+    },
+    {
+      "item": "extraplanets:tier11_items|1",
+      "emc": 6144
+    },
+    {
+      "item": "extraplanets:tier11_items|2",
+      "emc": 6144
+    },
+    {
+      "item": "extraplanets:tier11_items|3",
+      "emc": 6144
+    },
+    {
+      "item": "extraplanets:tier11_items|4",
+      "emc": 6144
+    },
+    {
+      "item": "extraplanets:tier9_items|5",
+      "emc": 512
+    },
+    {
+      "item": "extraplanets:tier8_items|5",
+      "emc": 128
+    },
+    {
+      "item": "openblocks:generic|4",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|0",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|1",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|3",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|4",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|5",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|6",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|7",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|8",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|9",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|10",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|11",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:singularity|2",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|47",
+      "emc": 0
+    },
+    {
+      "item": "simplyjetpacks:itemjetpack|0",
+      "emc": 0
+    },
+    {
+      "item": "simplyjetpacks:itemfluxpack|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:gastank|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abytinore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abynitore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abyiroore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abygolore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abydiaore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abycorore|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abycopore|0",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:voxelprojector|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|12",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:animal_independence_selector|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:animal_resource_harvester|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:animal_growth_increaser|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:animal_stock_increaser|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:animal_byproduct_recolector|0",
+      "emc": 0
+    },
+    {
+      "item": "botania:cosmetic|1",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:ore_map_empty|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:charger|0",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal_device1|5",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock|14",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|12",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:machine|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_coal_generator|0",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:combustion_chamber|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:machine2|4",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|9",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|9",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:dynamo|2",
+      "emc": 0
+    },
+    {
+      "item": "openblocks:generic|1",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|13",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|3",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|4",
+      "emc": 0
+    },
+    {
+      "item": "immersivepetroleum:metal_device|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_feeder|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_breaker|0",
+      "emc": 0
+    },
+    {
+      "item": "botania:cosmetic|12",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:wither_builder|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:water_condensator|0",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|8",
+      "emc": 0
+    },
+    {
+      "item": "natura:overworld_doors|7",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:sewage_composter_solidifier|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|11",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:water_resources_collector|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:resourceful_furnace|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|1",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:protein_generator|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:protein_reactor|0",
+      "emc": 0
+    },
+    {
+      "item": "openblocks:generic_unstackable|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:crop_enrich_material_injector|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:crop_recolector|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:plant_interactor|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:crop_sower|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|4",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|1",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:mob_detector|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:mob_slaughter_factory|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:dynamo|5",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|1",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:oredictionary_converter|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:ore_processor|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock3|3",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abypcorore|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:mob_relocator|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:mob_duplicator|0",
+      "emc": 34252
+    },
+    {
+      "item": "appliedenergistics2:security_station|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:chest|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:materializer|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:dynamo|1",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:cwater|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_item_repairer|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|10",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|5",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|11",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|9",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|10",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|6",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|8",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:lava_fabricator|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:antiwater|0",
+      "emc": 0
+    },
+    {
+      "item": "abyssalcraft:abylcorore|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:latex_processing_unit|0",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:laser_base|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|5",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|15",
+      "emc": 0
+    },
+    {
+      "item": "mekanismgenerators:generator|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|12",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|2",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:dynamo|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|14",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|7",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|3",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|8",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:device|7",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|6",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:dynamo|3",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:machine|2",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock|6",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock|8",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|6",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|13",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|10",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|7",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|2",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|3",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|4",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|5",
+      "emc": 0
+    },
+    {
+      "item": "betterbuilderswands:wandunbreakable|13",
+      "emc": 0
+    },
+    {
+      "item": "betterbuilderswands:wandiron|0",
+      "emc": 0
+    },
+    {
+      "item": "betterbuilderswands:wanddiamond|0",
+      "emc": 0
+    },
+    {
+      "item": "betterbuilderswands:wandunbreakable|12",
+      "emc": 0
+    },
+    {
+      "item": "betterbuilderswands:wandunbreakable|14",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|17",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|18",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|19",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|20",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|21",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|1",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|2",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|3",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:crafting|4",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumpickaxe|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumsword|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumspade|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumaxe|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumhoe|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniummultitool|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumhammer|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemtitaniumexcavator|0",
+      "emc": 0
+    }
+  ]
+}

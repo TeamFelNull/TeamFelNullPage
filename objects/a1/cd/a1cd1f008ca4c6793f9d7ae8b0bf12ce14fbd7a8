@@ -1,0 +1,750 @@
+# Configuration file
+
+~CONFIG_VERSION: 1
+
+##########################################################################################################
+# Global
+#--------------------------------------------------------------------------------------------------------#
+# Global settings.
+##########################################################################################################
+
+Global {
+    B:"Event Entities Enabled"=true
+
+    # The chance of Fluid Cows spawning versus other entities. (8 is the same chance as normal Cows)
+    I:"Fluid Cow Global Spawn Rate"=8
+
+    "Fluid Filter" {
+        # If true, cows that match this list won't spawn.
+        # If false, ONLY cows that match this list will spawn.
+        # This overrides the "Is Spawnable?" setting on the individual cows below.
+        B:Blacklist=true
+
+        # This will compare against the internal name, unlocalized name, and localized name of a fluid.
+        # If any of those contain an entry on this list, it will be filtered.
+        S:Fluids <
+         >
+    }
+
+}
+
+
+##########################################################################################################
+# Individual Fluids
+#--------------------------------------------------------------------------------------------------------#
+# Settings for each type of Fluid Cow.
+##########################################################################################################
+
+"Individual Fluids" {
+
+    "Zephyrean Aerotheum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Biocrude Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Brine Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Clean Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquifacted Coal Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Constantan Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Creosote Oil Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Crude Oil Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Gelid Cryotheum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Electrical Steel Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Resonant Ender Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Enderium Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Essence of Knowledge Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Frozen Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Energized Glowstone Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Glowstone Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Heavy Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Infected Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Invar Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Iridium Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Lava Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Caramel Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Chocolate Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Hydrocarbon Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Antimatter Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Coralium Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Lithium Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Lumium Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Magma Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Primal Mana Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Methane Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Mushroom Stew Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Nitrogen Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Nitrogen Ice Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Tectonic Petrotheum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Platinum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Potion Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=false
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Lingering Potion Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=false
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Splash Potion Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=false
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Blazing Pyrotheum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Radioactive Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Destabilized Redstone Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Grassoline Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Refined Fuel Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Naphtha Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Resin Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Crystallized Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Sap Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Seed Oil Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Molten Signalum Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Steam Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Syrup Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Tree Oil Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Liquid Void Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Water Cow" {
+        S:"Can Damage Other Entities"=true
+        S:"Can Damage Player"=true
+        S:"Fire Damage Amount"=0
+        S:"Grow Up Time"=8000
+        S:"Is Spawnable?"=true
+        S:"Max Use Cooldown"=4000
+        S:"Normal Damage Amount"=0
+        S:"Spawn Rate"=100
+    }
+
+    "Canola Oil Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Crystallized Oil Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=false
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Empowered Oil Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=false
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Refined Canola Oil Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=false
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Liquefacted Coal Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Molten Cryotheum Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Molten Ender Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Molten Glowstone Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+    "Molten Redstone Cow" {
+        B:"Can Damage Other Entities"=true
+        B:"Can Damage Player"=true
+        I:"Fire Damage Amount"=0
+        I:"Grow Up Time"=8000
+        B:"Is Spawnable?"=true
+        I:"Max Use Cooldown"=4000
+        I:"Normal Damage Amount"=0
+        I:"Spawn Rate"=100
+    }
+
+}
+
+
+fluid {
+}
+
+

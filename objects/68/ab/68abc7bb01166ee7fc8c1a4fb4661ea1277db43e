@@ -1,0 +1,137 @@
+{
+    "machine": "auto_sieve",
+    "registryName": "auto_sieve_dust",
+    "recipeTime": 10,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1256
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:dye@15",
+            "amount": 1,
+			"chance": 0.08
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:material@2",
+            "amount": 1,
+            "chance": 0.16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:material@45",
+            "amount": 1,
+            "chance": 0.12
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_gold@0",
+            "amount": 1,
+            "chance": 0.2
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_iron@0",
+            "amount": 1,
+            "chance": 1.0
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_copper@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_osmium@0",
+            "amount": 1,
+            "chance": 0.16
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_tin@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_silver@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_lead@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_nickel@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "exnihilocreatio:item_ore_platinum@0",
+            "amount": 1,
+            "chance": 0.22
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "actuallyadditions:item_dust@5",
+            "amount": 1,
+            "chance": 0.26
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:redstone",
+            "amount": 1,
+            "chance": 0.25
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:glowstone_dust",
+            "amount": 1,
+            "chance": 0.12
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:blaze_powder",
+            "amount": 1,
+            "chance": 0.1
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:gunpowder",
+            "amount": 1,
+            "chance": 0.07
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "exnihilocreatio:block_dust",
+            "amount": 1
+        }
+    ]
+}

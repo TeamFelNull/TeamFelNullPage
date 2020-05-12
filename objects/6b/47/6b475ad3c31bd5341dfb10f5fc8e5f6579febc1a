@@ -1,0 +1,24 @@
+{
+    "machine": "magica_converter",
+    "registryName": "magica_converter_mana",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:ember_cluster",
+            "amount": 1
+        },
+		{
+			"type": "mana",
+			"io-type": "output",
+			"mana": 500
+		},
+		{
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "lifeessence",
+            "amount": 100
+        }
+    ]
+}

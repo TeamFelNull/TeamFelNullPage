@@ -1,0 +1,12 @@
+# Configuration file
+
+general {
+    S:acceptedModes <
+        normal
+        titan
+        kappa
+     >
+    S:packMode=normal
+}
+
+

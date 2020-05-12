@@ -1,0 +1,1841 @@
+3.3.57 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Added Mods:
+# 
+§6Removed Mods:
+# 
+§6Updated Mods:
+# ItemPhysics
+# Tinkers Reforged
+§6Features:
+# 
+§6Fixes All modes:
+# Fixed Quantum Compressor quest description
+§6Fixes Normal mode:
+# Fixed WoA recipe
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# Fixed creative modifier recipe
+# Fixed aluminum seed recipe
+§6WTF:
+# Some energy storages reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in by hand or restart the pack
+# OC spamming some error in the logs in first load of a world
+§6Notes:
+# Every pack update the packmode config will reset to normal
+# Disabled Waiting Time mod (Pong) you may re-enable by removing .disabled from the jar file or unlock the pack profile then click the slider on the left of the mod on twitchapp
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.3.56 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Added Mods:
+# Wireless Pattern Terminal
+# AE2 Wireless Interface Terminal
+# AE2 Wireless Fluid Terminal
+# Tinkers' Reforged
+# Materialis
+§6Removed Mods:
+# Plustic
+# LandCore
+# LandCraft
+§6Updated Mods:
+# /Dank/Null
+# Abyssalcraft / Integration
+# ArmorPlus
+# AromaCore
+# Astral Sorcery
+# Better Questing
+# Building Gadgets
+# Chisel
+# COFH Core/World
+# CTM
+# Controlling
+# Corail Tombstone
+# CraftTweaker
+# Creative Core
+# CyclopsCore
+# Epic Siege Mod
+# Extra Planets
+# Galacticraft
+# Grue
+# Hammer Core
+# JourneyMap
+# Magneticraft
+# MysticalLib
+# NetherEndingOres
+# NuclearCraft
+# OpenModularTurrets
+# Pneumaticcraft
+# Quark
+# Randompatches
+# RebornCore
+# RedstoneArsenal
+# Redstone Flux
+# Thermal Series
+# Tweakers Construct
+# Wawla
+§6Features:
+# Added Neutral Steel of the First Degree - Eleventh Degree
+# FTBUtilitiesBackups will now backup every 30 minutes rather than 2 hours
+# Added chisel blocks to microblocks config (This took way too long)
+# Adjust armor progression to be able to craft some armors into the next tier even if its damaged
+§6Fixes All modes:
+# Blacklisted depth ghouls and robit in mob duplicator
+# Applied fix: Added all ForgeMultipart blocks to the mekanism Box Blacklist
+# Removed some chance cube rewards
+# Changed Extended Crafting Ender ingot into Void ingot
+# Fixed a lot of recipes in all modes
+§6Fixes Normal mode:
+# 
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# 
+§6WTF:
+# Some energy storages reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in by hand or restart the pack
+# OC spamming some error in the logs in first load of a world
+§6Notes:
+# Every pack update the packmode config will reset to normal
+# Disabled Waiting Time mod (Pong) you may re-enable by removing .disabled from the jar file or unlock the pack profile then click the slider on the left of the mod on twitchapp
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.55 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Removed Mods:
+# 
+§6Updated Mods:
+# Corail Tombstone
+# CreativeCore
+# Furnace Overhaul
+# Galacticraft
+# NuclearCraft
+§6Features:
+# 
+§6Fixes All modes:
+# Removed broken lunar singularity recipe because extended crafting doesn't like to work correctly
+# Fixed liquid infinity to ingot recipe
+# Items and blocks will no longer instant unify in the GUI
+# Adjusted nuclearcraft fission power generation between different fuels
+§6Fixes Normal mode:
+
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# 
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+# OC spamming some error in the logs in first load of a world
+# Waiting for Modular Diversity to update
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.54 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Removed Mods:
+# 
+§6Updated Mods:
+# CreativeCore
+# Furnace Overhaul
+# NuclearCraft
+# Pneumaticcraft
+§6Features:
+# Added EMC to a few items and blocks
+# Changed Alloy Transformer to use items rather than liquids
+§6Fixes All modes:
+# Added recipes for compressed magnesium
+# Fixed recipes using extra planets magnesium
+# Fixed molten abyssalnite recipe in melter
+# Fixed crystal matrix ingot recipe
+# Fixed lunar singularity to use blocks of lunar
+§6Fixes Normal mode:
+
+§6Fixes Titan mode:
+# Probably fixed WoA recipe
+§6Fixes Kappa mode:
+# "Adjusted" ToK recipe
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+# OC spamming some error in the logs in first load of a world
+# Waiting for Modular Diversity to update
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.53 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Removed Mods:
+# 
+§6Updated Mods:
+# AbyssalCraft
+# Apotheosis
+# Building Gadgets
+# Corail Tombstone
+# CreativeCore
+# Integration Foregoing
+# ItemPhysics
+# Modular Diversity
+# Open Modular Turrets
+# Ore Excavation
+# Pams HarvestCraft
+# Pneumaticcraft
+# Random Things
+# RebornCore
+# Simple Sponge
+# Tconstruct
+# Added GunpowderLib
+§6Features:
+# Added Tomatillo and Juniperberry seeds to market
+# Added more Chance Cube rewards
+# Added molten abyssalnite recipe to melter
+§6Fixes All modes:
+# Turned off weed plant in agricraft
+# Changed recipe of water and fire crystals in the Arcane Construct because buckets
+# Fixed disabled chance cube reward json
+# Fixed latex processing unit removal location
+# Fixed location of matrix ingot recipe removal
+# Fixed some recipes
+# Slightly moved coordinates that the end cake sends you to
+§6Fixes Normal mode:
+# Fixed some recipes
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# Probably fixed chaos catalyst recipe
+# Replaced ram chip with time absorber in chaos catalyst recipe
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+# OC spamming some error in the logs in first load of a world
+# Waiting for Modular Diversity to update
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.52 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Removed Mods:
+# TickProfiler
+§6Updated Mods:
+# Better Questing
+# Building Gadgets
+# Chance Cubes
+# Corail Tombstone
+# CyclopsCore
+# DarknessLib
+# FTBLib
+# Grue
+# Hammer Core
+# ItemPhysics
+# JourneyMap
+# Modtweaker
+# Overloaded
+# Pneumaticcraft
+# Quark
+# SolarFluxReborn
+# Storage Drawers
+# Tesla Core Lib
+# TConstruct
+# Unidict
+# Wawla
+§6Features:
+# Changed textures of 3 landia blocks
+§6Fixes All modes:
+# Adjusted instantunify and unidict
+# Removed all ExUtils transfer nodes due to potential lag
+# Removed extra steel armors
+# Removed extra lapis armor
+# Removed extra knightslime armor
+# Changed bucket cast recipe
+# Fixed some things with MPUtils
+# Halved the ESM boss kill modifier again because players getting one shot by mobs
+# Turned off Expanded Equivalence Botania config
+# Liveroot can no longer be used with the builder wands
+# Fixed issue with a voidcraft entry in Apotheosis config
+# Fixed recipe dupes involving tungsten and coal
+# Fixed some biometweaker scripts
+§6Fixes Normal mode:
+# 
+§6Fixes Titan mode:
+# Adjusted some recipes to hopefully fix them
+§6Fixes Kappa mode:
+# Changed recipe of overloaded energy core
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+# OC spamming some error in the logs in first load of a world
+# Waiting for Modular Diversity to update
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.51 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Updated Mods:
+# Epic Siege Mod
+§6Features:
+# 
+§6Fixes All modes:
+# Attempt to fix loot chest loot
+§6Fixes Normal mode:
+# Fixed diamond essence to diamonds recipe
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# 
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.50 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Updated Mods:
+# AbyssalCraft
+# ArmorPlus
+# Astral Sorcery
+# Chance Cubes
+# Epic Siege Mod
+# HammerCore
+# JourneyMap
+# OMLib
+# OpenModularTurrets
+# Pneumaticcraft
+§6Features:
+# Released Kappa Mode
+§6Fixes All modes:
+# Adjusted mana generation in some magica converter recipes
+# Made 3 more Laser Cutter recipes
+# Changed desh laser cutter recipe
+# Changed a Skylandsforge config
+§6Fixes Normal mode:
+# 
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode:
+# 
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.49 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Updated Mods:
+# BrandonsCore/Draconic Evolution
+# Chance Cubes
+# HammerCore
+# JourneyMap
+# MysticalLib
+# Unidict
+§6Features:
+# 
+§6Fixes All modes:
+# Fixed mana shard recipe in Arcane Construct
+§6Fixes Normal mode:
+# 
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode (currently in testing):
+# 
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.2.48 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+§6Removed Mods:
+# Unloader
+# XCPatch
+# Void Craft 
+# TamModized
+§6Updated Mods:
+# AbyssalCraft
+# ArmorPlus
+# Astral Sorcery
+# Aroma1997sCore
+# Better Questing
+# Standard Expansion
+# Chance Cubes
+# Controlling
+# CookingForBlockheads
+# CreativeCore
+# Custom Main Menu
+# ElecCore
+# EnderIO/Endergy
+# Ender Tweaker
+# ExtraCells2
+# ExtraPlanets
+# HammerCore
+# Lost Cities
+# MysticalLib
+# NuclearCraft
+# Pneumaticcraft
+# Randompatches
+# RebornCore
+# RFTools
+# SimpleTrophies
+# Tombstone
+# Tweakers Construct
+# Waystones
+§6Features:
+# Added the Arcane Construct
+# Added Alloy Transformer
+# Added plustic alloys to Alloy Transformer
+# Added Lord Craft recipes to Extended Crafting and Arcane Construct
+§6Fixes All modes:
+# Messed with Ozone theme in BQ
+# Added a tooltip for Ore Processing upgrade to clarify what it does
+# Fixed kelline and garfax quests
+# Change a config in Randompatches
+# Fixed 2 quests 
+# Halved ESM boss kill modifier
+# Blacklisted wolves from AI modifications by ESM
+# Added dragon scales to woot custom drops list
+# Made woot spawn ticks the same for Ender Dragon, Wither, and Big Brother
+§6Fixes Normal mode:
+#
+§6Fixes Titan mode:
+# 
+§6Fixes Kappa mode (currently in testing):
+# Probably fixed Creative mill recipe
+# Fixed aluminum rod crafting recipe
+# Fixed fluix seed recipe
+# Added recipes to magneticraft items/blocks
+# Redone the Alchemy and conjuration recipes a little
+# Split kappa_recipes.zs into kappa_recipes_2.zs because it was too large for crafttweaker
+# Changed Irradiant star in Chaos Catalyst recipe
+# Probably fixed overloaded energy core recipe
+# Possibly fixed Staff of Power recipe
+§6WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in or restart the pack
+§6Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.1.47 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# Actually Additions
+# ArmorPlus
+# Better Questing
+# Bonsai Trees
+# Botania
+# Corail Tombstone
+# CraftTweaker
+# CreativeCore
+# FastWorkbench
+# Foamfix
+# HammerCore
+# JEI
+# JourneyMap
+# NuclearCraft
+# Tinkers' Complement
+Features:
+# Added two recipes to make the bucket cast from a clay bucket
+# Added recipe for the dreadlands infused powerstone because servers
+# Added quests
+Fixes All modes:
+# Fixed creative fluid tank quest
+# Fixed titanium compression recipe
+# Oredicted enderman and frienderman skulls to itemSkull
+# Slightly fixed RAK texture
+# All storage drawers will now drop its contents upon breaking because framed drawers would void contents if broken with the keep contents config on
+# Adjusted quest descriptions
+# Laser Cutter meteoric iron recipe is now 1 to 1
+# Fixed netherex basalt registry names in chisel.zs
+# Halved the cooling of cryotheum in Fission Reactors
+# Removed ESM dimension changing resistance effect
+Fixes Normal mode:
+# 
+Fixes Titan mode:
+# 
+Fixes Kappa mode (currently in testing):
+# Removed some Enderio recipes from TConstruct smeltery
+# Fixed recipe for Quantum storage unit
+# Adjusted RFTools storage scanner recipe
+# Removed ingot to block recipes that have singularities (left a few out)
+# Added more factorizer recipes
+# Removed and added a recipe for blutonium
+# Changed dynamo recipes
+# Fixed Aluminumbrass seed recipe
+# Changed recipe for fiery ingots
+# Fixed issue with lunar singularity
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in
+Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.1.46 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# /Dank/Null
+# AbyssalCraft
+# ActuallyAdditions
+# AE2WTLib
+# Apotheosis
+# Better Questing/Standard Expansion
+# Bookshelf
+# Building Gadgets
+# CreativeCore
+# CTM
+# CyclopsCore
+# DarkUtils
+# Enderman Evolution
+# Erebus
+# Everlasting Abilities
+# Extra Planets
+# Foamfix
+# FTBLib
+# FTBUtilities
+# Grue
+# Hunting Dimension
+# ItemPhysics
+# Lordcraft
+# Mekanism
+# OpenComputers
+# P455w0rd's Library
+# Project Intelligence
+# Random Patches
+# Wireless Crafting Terminal
+Features:
+# Void Stars should stack now
+# Added 49 more singularities
+# Ultimate singularities will now stack to 64
+Fixes All modes:
+# Removed lush caves
+# Patient bags will no longer drop nether stars they will drop diamond blocks instead
+# Added another recipe for buckets (its the same recipe just moved up)
+# Changed some embers stamper to Tconstruct recipes to use correct fluid values
+# Fixed a bunch of quest descriptions
+# Added a few ores to the orechid
+# Re-added EMC to Constantan
+# Removed extra diamond essence to diamonds recipe
+# Milk, lava, and water buckets will no longer stack to 64
+# Adjusted BQ loot chest weighting
+# All singularities will use blocks instead of ingots in their recipes
+Fixes Normal mode:
+# 
+Fixes Titan mode:
+# Added missing nbt data for ITB recipe and WoA recipe
+Fixes Kappa mode (currently in testing):
+# Changed energetic silver alloy to use electrotine dust instead of redstone solving the recipe conflict
+# Removed redstone ore star infusion recipe into redstone block
+# Changed recipe for block based essences to use Landia's metal blocks
+# Changed redstone block factorizer recipe
+# Added an electrotine factorizer recipe
+# Electrotine kiln recipe is now faster
+# Changed some recipes for random things' items
+# Fixed agricraft seeds not crafting because nbt data
+# Changed recipe of thermalsolars upgrades
+# Changed quantum quarry recipe
+# Changed manasteel block recipe
+# Fixed issue with shapeless recipe for electrotine block
+# Agricraft seeds that have a crafting recipe now require 10/10/10 seeds to make said seeds
+# Imported titan modes storage drawer upgrade recipes
+# Changed tier 6 MA seed recipes
+# Removed alloy recipes in the nuclearcraft alloy furnace
+# Changed the recipe of the blocks used for the quantum storage multiblock
+# Adjusted energy condenser recipes
+# Removed manasteel block to elementium block recipe
+# Changed WoA recipe to use mirion singularity instead of ingots
+# Changed Garden Cloche recipe
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in
+Notes:
+# Every pack update the packmode config will reset to normal
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.1.45 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# Forge 2847
+# AbyssalCraft
+# Apotheosis
+# ArmorPlus
+# Better Questing/Standard Expansion (things may get weird)
+# Blood Magic
+# Broken Wings
+# Chisel
+# Corail Tombstone
+# CreativeCore
+# CTM
+# CyclopsCore
+# EnderIO/Endergy/Core
+# Exnihilocreatio
+# ExtraCells2
+# ExtraPlanets
+# Foamfix
+# FTBLib/Utilities/Backups
+# Grue
+# HammerCore
+# Immersive Engineering
+# ItemPhysics
+# JEI
+# LibraryEx
+# Lordcraft
+# Magneticraft
+# Mekanism
+# MJRLegends Lib
+# Modular Diversity
+# MysticalLib
+# NuclearCraft
+# Ore Excavation
+# Pneumaticcraft
+# Progressive Bosses
+# Random Patches
+# RebornCore
+# TConstruct
+# Twilight Forest
+# Unidict
+# WanionLib
+# YABBA
+# Disabled XCPatch
+# Removed Avaritia Tweaks
+# Added Avaritia's Complement
+Features:
+# 
+Fixes:
+# Added missing RAK for Enderium Upgrade Kit quest
+# Removed oreSilver oredict from Galena ore
+# Fixed Astral Sorcery book quest
+# Fixed messed up crushed netherrack recipe
+# Item despawn lowered to 6 mins with ItemPhysics
+# Fixed misspelling of the word "by"
+# Removed emc value from extra planet tungsten armor and hid it from JEI
+# Changed tier 1 armor progression to make a little more sense
+# Mobs will no longer spawn with mekanism armor
+# Changed steel alloy rate in Tinker's Contruct
+# Changed diamond blocks to get to the lost cities dimension to the armorplus lava crystal blocks
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in
+Notes:
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.1.44 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# 
+Features:
+# 
+Fixes:
+# Fixed energy condenser recipe in Titan mode
+# Fixed server files because Cazador forgot to put /Dank/Null in it...
+# Fixed pregenerated EMC file
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in
+Notes:
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.1.43 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# AbyssalCraft
+# ActuallyAdditions
+# Blood Magic
+# Botania
+# Building Gadgets
+# CodeChickenLib
+# Corail Tombstone
+# EnderCore
+# Exnihilocreatio
+# Extended Crafting
+# FTBLib/Utilities
+# Galacticraft
+# Immersive Engineering
+# JEE
+# Magneticraft
+# MysticalLib
+# NetherEx
+# Nuclearcraft
+# Pam's HarvestCraft
+# Plustic
+# Random Patches
+# RebornCore
+# Shadowfacts Forgelin
+# Simply Jetpacks
+# SolarFluxReborn
+# Storage Drawers
+# /Dank/Null returns
+Features:
+# Improved mekanism energy cubes and cables energy capacity
+# Improved Quantum Entangloporter's energy, gas, and fluid capabilities
+# Improved some quest book info concerning the last bit of Lordcraft's research
+# Added /Dank/Null quests back
+# Added embers stamper recipes to other mods (may have forgotten some let me know)
+# Added Titan mode
+Fixes:
+# Added mules to IF mob duplicator blacklist
+# Fixed Ghast Queen quest
+# Fixed issue with an untextured blood sapling in sieving tainted soil
+# Fixed Epeolatry V quest
+# Fixed description in transmutator quest
+# Fixed crushed netherrack issue with hammers
+# Enabled Astral Sorcery structure generation on super flat worlds
+# Fixed misspelling of the word "done"
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 upon reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this
+# Crafting certain extended crafting recipes gets wonky so if it doesn't work take the items out then put them back in
+Notes:
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.0.42 Changelog (Always Backup your world before updating and "/bq_admin default load" after updating)
+Updated Mods:
+# Abyssalcraft
+# AbyssalCraft Integration
+# ActuallyAdditions
+# AE2
+# Apotheosis
+# Astral Sorcery
+# AutoRegLib
+# BrandonsCore
+# Building Gadgets
+# Chance Cubes
+# Chicken Chunks
+# CodeChickenLib
+# CreativeCore
+# Cyclops Core
+# Draconic Evolution
+# EnderIO/Endergy/Core
+# Enderman Evolution
+# Ender Storage
+# Epic Siege Mod
+# ExNihiloCreatio
+# Expanded Equivalence
+# Extended Crafting
+# ExtraPlanets
+# Forge Multipart
+# FTBLib
+# FTBUtilities
+# FTBUtilitiesBackups
+# Galacticraft
+# HammerCore
+# Industrial Foregoing
+# Iron Chests
+# JEI
+# JourneyMap
+# LibEx
+# Lostcities
+# Magneticraft
+# McJtyLib
+# Mekanism
+# ModelLoader
+# Mod Name Tooltip
+# Modular Diversity
+# More Overlays
+# MrTJPCore
+# MysticalLib
+# NetherEx
+# Nuclearcraft
+# P455w0rd's Lib
+# Pam's HarvestCraft
+# Phosphor
+# Pneumaticcraft
+# Progressive Bosses
+# Project Intelligence
+# Projectred
+# ProjectEX
+# Quantum Storage
+# Quark
+# Random Things
+# Random Patches
+# RebornCore
+# Reliquery
+# RFTools
+# Simply Jetpacks
+# SolarFluxReborn
+# Thermal Solars
+# Translocators
+# XNet
+# Removed Unforgiving Void
+# Removed Dank/Null/
+Features:
+# Did 2 things in BQ (probably won't be noticed)
+# Added some info for embers' borer quest
+# Passive mobs will spawn in ocean, deep ocean and nuclear wasteland biomes
+Fixes:
+# Some hostile mobs will spawn in the nuclear_wasteland biome
+# Adjusted frog spawn weight
+# Made nether cakes have custom coordinates so everyone will spawn in the same place instead if randomly
+# Fixed some titan mode things for beta testers
+# Fixed Arcane Forge quests
+# Fixed Draconic Evolution items having EMC
+# Fixed Constantan not having EMC
+# Fixed nether brick not having EMC 
+# Fixed Frienderman item/block dupe
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 once reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this
+Notes:
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.0.41 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2838
+# /Dank/Null/
+# Abyssalcraft
+# ActuallyAdditions
+# AE2WTLib2
+# Apotheosis
+# ArmorPlus
+# Astral Sorcery
+# AutoRegLib
+# B.A.S.E
+# Baubly Heart Canisters
+# Better Questing
+# Better Questing - Standard Expansion
+# Blockcraftery
+# Blood Magic
+# BrandonsCore
+# Bonsai Trees
+# Bookshelf
+# Chance Cubes
+# ChiselsandBits
+# COFH Core
+# COFH World
+# Controlling
+# CookingForBlockheads
+# Corail Tombstone
+# Crafttweaker
+# Creative Core
+# CyclopsCore
+# DarkUtils
+# Draconic Evolution
+# Ender IO
+# Endergy
+# Enderman Evolution
+# Ender Tweaker
+# EnderCore
+# Epic Siege Mod
+# Erebus
+# Equivalent Integration
+# Everlasting Abilities
+# Ex Nihilo Creatio
+# Expanded Equivalence
+# Extra Planets
+# Extreme Reactors
+# FarmingForBlockheads
+# Fastworkbench
+# FTBLib/Utilities
+# FTBUtilitiesBackups
+# HammerCore
+# Hunting Dimension
+# Industrial Foregoing
+# Iron Chests
+# ItemPhysic
+# JEE
+# JEI
+# Kleeslabs
+# LandCraft
+# Lord Craft
+# Lostcities
+# Magneticraft
+# Mantle
+# McJtyLib
+# Mekanism
+# Mike's Mods Library
+# Modular Diversity
+# Modular Machinery
+# MysticalLib
+# Mystical Agriculture/Agradditions
+# Natura
+# NuclearCraft
+# Open Modular Lib
+# Open Modular Passive Defense
+# OpenModularTurrets
+# Ore Excavation
+# Overloaded
+# Overloaded Armor Bar
+# Pam's Harvestcraft
+# Plustic
+# Pneumaticcraft
+# Portality
+# Progressive Bosses
+# ProjectE
+# ProjectEX
+# Projectred
+# Quantumflux
+# Quark
+# Random Patches
+# Redstone Arsenal
+# RFTools/Control/Dimensions
+# Simple Trophies
+# Simply Jetpacks
+# Shadowfact's Forgelin
+# Thermal Foundation/Dynamics/Innovation/Expansion
+# Tinkers Construct
+# Tinkers Complement
+# Tiny Progressions
+# Toast Control
+# Tweakers Construct
+# Waystones
+# Wawla
+# Wireless Crafting Terminal
+# Woot
+# XNet
+# YABBA
+# Ynot
+# Added Project Intelligence
+Features:
+# Thermal Foundation saw dust can now be composted into dirt
+# Added combination crafting for awakened core and chaotic core
+# Added a few Apex mobs 2 are untested, lol goodluck
+# Changed the Magica Converter multiblock to be simpler and smaller
+Fixes:
+# Fixed some quests that has a chargable item as a requirement
+# Removed mekanism recipes from Industrial Foregoing
+# Fixed Quori Fragment recipe concerning Hell-Infused Bookshelves
+# Regenerated Riteclicker's config
+# Adjusted somethings concerning Extended Crafting such as crafting speed, energy capacity, and energy requirement
+# Fixed miss information in quest book for some quests because changed configs
+# Changed description of Apex simple achievement
+# Zombie Villagers are now blacklisted from the mob duplicator
+# Fixed not being able to obtain capturing IV and V through enchanter
+# Fixed capturing in enchanter taking too many levels
+# Removed Thermal Solar tool recipes
+# Regenerated Everlasting Abilities Config
+# Power Stare now requires sneak to be activated (rip jade armor)
+# Fixed enchanter capturing recipe for some reason golden eggs was in the script instead of spores
+WTF:
+# Disabled Unforginving Void because issues with teleportation on servers, so don't fall off the platform.
+# Passive mobs not spawning like they're suppose to, leaving the biometweaker script in however
+# Random Things spectre energy nodes cause some energy storages to reset to 0 once reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this
+Notes:
+§6# Thank you to all of TheCazadorSniper's patrons on Patreon.
+------------------------------------------------------------------
+3.0.40 Changelog (Always Backup your world before updating) */bq_admin default load* to fix quests
+Updated Mods:
+# Forge 2836
+# Apotheosis
+# ArmorPlus
+# Astral Sorcery
+# BrandonsCore
+# Baubly Heart Canisters
+# Ceramics
+# Chance Cubes
+# CookingForBlockheads
+# Crafttweaker
+# CreativeCore
+# Dimensional Edibles
+# Draconic Evolution
+# Embers Rekindled
+# EnderCore
+# Enderman Evolution
+# Ender Tweaker
+# Equivalent Integration
+# Everlasting Abilities
+# ExNihiloCreatio
+# Extended Crafting
+# ExtraPlanets
+# Foamfix
+# FTBLib/Utilities/Backups
+# Hammer Core
+# Industrial Foregoing
+# JEI
+# Land Core
+# Land Craft
+# Mantle
+# Mekanism
+# Modtweaker
+# NotEnoughIDs
+# OpenModsLib/blocks
+# Overloaded
+# Overloaded Armor Bar
+# P455w0rd's Library
+# Placebo
+# Pneumaticcraft
+# Project EX
+# Random Things
+# RebornCore
+# Soot
+# TComplement
+# TConstruct
+# YABBA
+# Downgraded Dank/Null/
+Features:
+# Added new quest to Lambda 
+# Can now silktouch chance cubes using the silktouch pendent
+Fixes:
+# Changed wither and ender dragon killing tasks to retrieval tasks
+# Gave a Titanium to Titanium recipe because galacticraft
+# Fixed issues with Epeolatry quests
+# Removed sound mufflers because crash
+# Fixed orange heart canister quest because its now a yellow heart
+# Removed EMC from Builder's Wands because crash
+WTF:
+# Random Things spectre energy nodes cause some energy storages to reset to 0 once reaching 2.14B
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.39 Changelog (Always Backup your world before updating) */bq_admin default load* to fix quests
+Updated Mods:
+# Forge 2815
+# ExNihiloCreatio
+# EnderIO/Endergy/Core
+# Land Craft
+# CreativeCore
+# Corail Tombstone
+# Chance Cubes
+# Aroma1997sCore
+# Botania
+# Broken Wings
+# Apple Core
+# YABBA
+# NuclearCraft
+# FTBLib/Utilities
+# AutoRegLib
+# Equivalent Integration
+# Quark
+# Modular Machinery
+# Lordcraft
+# Fastworkbench
+# Lostcities
+# Loot Bags
+# CyclopsCore
+# ChiselsandBits
+# Simply Jetpacks
+# Industrial Foregoing
+# Abyssalcraft Integration
+# Immersive Engineering
+# Industrial Foregoing
+# Integration Foregoing
+# Abyssalcraft
+# CyclopsCore
+# Everlasting Abilities
+# B.A.S.E
+# Mekanism
+# ExtraPlanets
+# Tweakers Construct
+# Baubly Heart Canisters
+# Mystical Agriculture
+# MPUtils
+# RebornCore
+# Furnace Overhaul
+# Unforgiving Void
+# Better Questing
+# Standard Expansion
+# Pneumaticcraft
+# Aroma1997s Mining Dimension
+# Overloaded Armor Bar
+# Land Craft
+# Plustic
+# Blockcraftery
+# Crafttweaker
+# MysticalLib
+# Overloaded
+# Tinkers Complement
+# Woot
+# TipTheScales
+# Added Apotheosis, ReAuth, Random Patches, Building Gadgets, Wasaila
+# Removed Ichunutils, Exchangers, Bloodmoons (yes, its removed because its not needed)
+Features:
+# Increased speed of wooden crucible
+# Astral Sorcery Ores now spawn in the Deep Dark
+# Added a recipe for Solidified Exp from Bottles O' Enchanting
+Fixes:
+# Fixed crucible heat sources
+# Removed antibarrel
+# Adjusted the nether a bit
+# Changed quest requirement for To Landia
+# Changed Alpha questline a little bit
+# Changed the nether quest (now you have 3 choices of getting to the nether)
+# Fixed typo in Neutronium crux quest
+# Translocators will attach filtering mode using whole diamonds
+# Changed gem armor fusion recipe to use inert klein star
+# Changed COFH World jsons from using metadata to using properties
+WTF:
+# FTB chunkloading is off, use chicken chunks
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.38 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Astral Sorcery
+# Blood Magic
+# Draconic Evolution
+# ExNihiloCreatio
+# ArmorPlus
+# CreativeCore
+# Lordcraft
+# CyclopsCore
+# RebornCore
+# Iron Chests
+# ZeroCore
+# Plustic
+# Corail Tombstone
+# Ender Tweaker
+# Industrial Foregoing
+# Botania
+# Better Builder's Wands
+# Extreme Reactors
+# FTBLib
+# FTBUtilities
+# RedstoneArsenal
+# Aroma1997sCore
+# Aroma1997s Dimensional World
+# Thermal Expansion/Foundation/Dynamics/Innovation
+# Mystical Agradditions
+# YABBA
+# CoFHCore
+# Lost Cities
+# ActuallyAdditions
+# OpenComputers
+# HammerCore
+# Reliquery
+# Mouse Tweaks
+# Mantle
+# Abyssalcraft
+# NetherEndingOres
+# Removed RoughMobs2 becuase mobs were too OP and no giant swords you monster
+# Added Project Ex
+Features:
+# Added Neutronium seed and crux quests
+# Added Darksteel armor into armor Progression
+# Added more reward "quests" and rewards in loot crates
+Fixes:
+# Adjusted Simply Jetpacks
+# Nuclearcraft ores shall now spawn in the Quantum Quarry dimension and Deep Dark
+# Fixed an "issue" with the Grue
+# Fixed Quest description for Shibuichi Alloy
+# Fixed steel alloying recipe in TC smeltery
+# Fixed some BQ loot entries
+# Fixed missing boron seed quest 
+# Shoggoths should no longer break blocks
+# Shoggoths will no longer spawn in the Overworld
+# Blacklisted entities from mob duplicator
+# Added neutronium seed Agricraft Support
+# Fixed bq typos
+# Adjusted recipe for steel casing
+# Added fluid cows to friendly mobs whitelist for everlasting abilities
+# Adjusted Everlasting Abilities hunger value back to it's default value
+WTF:
+# Do not attempt to over-fill any Extra Utils. inventories.
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.37 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Standard Expansion
+# Random Things
+# Tweakers Construct
+# Downgraded Plustic
+# Removed Thermal Cultivation
+Features:
+# Added a BQ reload quest in the Rewards questline, please tell me if it works.
+Fixes:
+# Fixed typo in Black Quartz Quest
+# Removed a few watering can quests
+# Changed EnderIO.cfg to enderio.cfg because linux
+# Voidlichs should not spawn in vanilla swamps now only in erebus swamps and voidcraft dimensions.
+WTF:
+# Do not attempt to over-fill any Extra Utils. inventories.
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.36 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2808
+# ChiselsandBits
+# Clumps
+# Abyssalcraft
+# CreativeCore
+# ItemPhysic
+# Quantum Flux
+# Everlasting Abilities
+# FTBLib/Utilities
+# NuclearCraft
+# YABBA
+# Waiting Time
+# Lordcraft
+# Modtweaker
+# TinyProgressions
+# Ender IO
+# Endergy
+# Plustic
+# ProjectE
+# JEI
+# Modular Machinery
+# CyclopsCore
+# Bookshelf
+# DarkUtils
+# Morpheus
+# Better Questing
+# Standard Expansion
+# Extended Crafting
+# Furnace Overhaul
+# Enderman Evolution
+# Added JEE, Akashic Tomes, Morph-O-Tools
+# Removed IKWID, Debug Server Info, World Tooltips, Uppers, Un-grab Mouse, TinkerIO, SonarCore, XTones, Twitch Chat Integration, Chat Tweaks
+# Also removed Quick Leaf Decay, Eiramoticons, FastFurnace, RFToolsPower, Projectred fabrication/illumination/Integration, Portal Gun, Ranged pump
+# Even removed TorchMaster, Storage Drawers Extras, OreBerries, Tinkers JEI, Nether Portal Fix, Noodle
+Features:
+# The maximum amount of abilities a player can have has been increased to 6
+# Added text on how to obtain black quartz in black quartz quest
+# Increased resistance timer when changing dimensions
+Fixes:
+# Fixed some other things I probably forgot about
+# Removed trashcan icon in player inventory
+# Adjusted Everlasting Abilities
+# Adjusted Simply Jetpacks to be more like how PO2 has it
+# Adjusted amplification rod recipes
+# Removed bag of holding
+# Blacklisted TP cobblegens from crafting station
+# Fixed typo in Magnesium Diboride Alloy quest
+# Removed Wire Cutter quest
+# Changed fire charge recipe
+# Slime islands "should" have less chance at spawning
+# Added missing recipe for the laser acceptor
+# Remove Tome of Alkahestry
+# Fixed Diamond Horse armor exploit
+WTF:
+# Do not attempt to over-fill any Extra Utils. inventories.
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.35 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Quark
+Features:
+# Normal mode release
+Fixes:
+# 
+WTF:
+# Do not use the ultimate energy input hatch it will eat power
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.34 Changelog (Always Backup your world before updating)
+Updated Mods:
+# TorchMaster
+# SolarFluxReborn: 1
+# Dank/Null
+# ArmorPlus: 2
+# Audio Death (sounds were added by Gooderness; however, don't think we use them)
+# Better Advancements
+# Better Builder's Wands
+# Better Questing: 1
+# Standard Expansion
+# Cooking For Blockheads
+# Enderman Evolution
+# FTBLib/Utilities: 2
+# MJRLegends Lib
+# Mystical Agriculture
+# Natura
+# Nuclearcraft: 1
+# Quantum Flux
+# Quantum Storage: 1
+# Quark
+# Random Things
+# RebornCore: 1
+# RoughMobs2
+# Tinkers Construct: 1
+# Tinkers Complement
+# Twerk Simulator 2k16
+# YABBA: 1
+# RFTools/Control/Dimensions/Power
+# XNet
+# Lost Cities
+# McJtyLib: 1
+# Avaritia: 2 (Fixes something we don't use)
+# Dimensional Edibles (can make custom cakes/apples to send to other dimensions now)
+# Wither Skeleton Tweaks
+# Forge Multipart CBE
+# Cyclops Core: 1
+# Toast Control
+# Placebo
+# Progressive Bosses
+# Extra Planets
+# Galacticraft
+# Pneumaticcraft
+# Craftweaker
+# Iron Chests
+Features:
+# Added oredict to friender pearls
+# Began work on Kappa mode
+# Added the rest of Titan recipes for ALPHA testing
+# The Auto Dissolver and Auto Siever should now change color when structure is completed
+Fixes:
+# Fixed WCT infinity booster placeholder in BQ
+# Removed irrelevant terminals from the wireless terminal quest
+# Removed EMC from singularity, won't say which ones because there were 2 of them
+# Fixed Auto Dissolver mob spawning (just place water "source" blocks in the machine)
+# Blacklisted some creative blocks from being animated
+# Removed icosahedron requirement from chance cube achievement
+# Fixed some IE quests
+# Fixed cobalt seed recipe to accept any cobalt (did the same for ardite too)
+# Fixed Jaded Amaranthus quest (NBT data sucks to deal with sometimes)
+# Changed name of quest from Enederium Upgrade to Enderium Upgrade
+# Changed dimension ids to be closer to 0 except for spectre dimension (warning: worlds may explode)
+# GC oil should now spawn in more dimensions
+WTF:
+# Do not use the ultimate energy input hatch it will eat power
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.33 Changelog (Always Backup your world before updating)
+Updated Mods:
+# AE2: 2
+# AE2WTLib: 2
+# Aroma1997s Dimensional World
+# Aroma1997s Core
+# Astral Sorcery: 2
+# Avaritia
+# Base
+# Better Questing: 3
+# Contenttweaker: 1
+# Standard Expansion: 1
+# BrandonsCore/Draconic Evolution
+# ZeroCore/Extreme Reactors
+# FTBUtilities
+# Industrial/Integration Foregoing: 2
+# Iron Chests
+# downgraded JEI
+# MATC
+# NuclearCraft: 2
+# Pam's HarvestCraft
+# Reborn Core: 1
+# SolarFlux
+# TipTheScales: 1
+# WanionLib: 1
+# Wireless Crafting Terminal: 2
+# Ender IO
+# Ender IO Endergy
+# Immersive Engineering
+# P455w0rd's Lib
+# Lordcraft
+# AutoRegLib
+# Unidict
+# Quark: 2
+# Grue
+# Extended Crafting
+# ExtraCells2
+# Plustic
+# Bonsai Trees
+# MobGrindingUtils
+# Woot
+# MJRLegends Lib
+# Embers Rekindled
+# Pneumaticcraft
+# TorchMaster
+# Added Unloader
+# Added OpenComputers
+# Removed Corail Pillar
+# Removed JEI Integration
+# Removed ViewEMC
+# Removed IGW
+# Removed GottaGoFast
+# Removed Computercraft
+Features:
+# Added Laser Cutter
+# Added Laser Cutter recipes
+# Added zinc to ex nihilo
+# Added other netherrack to be crushed by ex nihilo hammers
+# Super Reactor and Laser Cutter will now change color when constructed
+# Added the rest of Pam's Harvestcraft seeds to Agricraft
+Fixes:
+# Fixed natura seeds in agricraft, probably
+# Changed position of Lordcraft quests
+# Did some adjustments to the Nether
+# Disabled ExtraPlanets radiation
+# Fixed elder mushroom sieve registry
+# Added jade to Agricraft
+# Removed Thorium ore from generation
+# Removed irrelevant enchants from every Epeolatry
+# Fixed some loot chest rewards
+WTF:
+# Ignore chaotic solar panel fusion recipe
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.32 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2795
+# FTBLib: 5/Utilities:2
+# ArmorPlus
+# AttributeFix
+# Better Questing: 2
+# Botania
+# Bookshelf
+# DarkUtils
+# Everlasting Abilities
+# Industrial Foregoing: 3
+# Industrial Integration
+# Moofluids
+# JEI: 3
+# JETIF
+# Plustic
+# Quark: 3
+# RebornCore: 2
+# SonarCore: 2
+# Wawla
+# BrandonsCore
+# HammerCore
+# Embers Rekindled
+# Mystical Agriculture/Agradditions: 2
+# Quantum Storage: 2
+# Dimensional Edibles
+# CucumberLib
+# Guide-API
+# ActuallyAdditions
+# Immersive Engineering
+# Natura
+# MobGrindingUtils
+# WanionLib
+# Galacticraft Tweaker
+# Erebus
+# Temporarily disabled Waiting Time
+# Removed Rocky Core
+# Added TickProfiler and LagGoggles and Metallurgy....
+Features:
+# Improved Thermal Expansion machines
+# Added Bonsai pot Simple Achievement
+# Increased Ender Storage chest size
+# Added some text on Lordcraft in order to better understand the mod
+# Add a new chance cube reward
+Fixes:
+# Fixed Ender Crafter recipe for grains of infinity
+# Fixed a few conflicting recipes
+# Fixed typos in hunting dimension quest
+# Fixed wire cutters quest
+# Falling into nether now only works in the overworld and should no longer give obsidian
+# Adjusted Biometweaker
+# Adjusted simplyjetpacks GUI position
+# Fixed MATC repair duplication Thanks Radient_Sora
+# Fixed recipe issue with chaos fragments
+# Removed Spectre Coils from Loot Bags
+# Did some adjustments to Everlasting Abilities
+# Nuclearcraft metals will now spawn properly in mining dimension
+WTF:
+# Some Mekanism machine textures have disppeared but machines are still there, probably due to JEI update.
+# Ignore chaotic solar panel fusion recipe
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.31 Changelog (Always Backup your world before updating)
+Updated Mods:
+# FTBLib
+Features:
+# 
+Fixes:
+# Fixed slime island rarity
+# Fixed last quests not opening
+WTF:
+# Ignore chaotic solar panel fusion recipe
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.30 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2784
+# Cucumber Library
+# FTBLib/Utilities: 2
+# RFTools
+# AutoRegLib
+# Embers Rekindled
+# Quark
+# CTM
+# Storage Drawers
+# ProjectE
+Features:
+# Added new chaotic solar panel recipe
+Fixes:
+# Fixed chaos plank recipe
+# Fixed Creative Chest configs
+# Attempt to fix last quests not opening
+WTF:
+# Ignore chaotic solar panel fusion recipe
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.29 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Dimensional Edibles: 2
+# EnderIO/Endergy
+# FTBLib/Utilities: 2
+# Lordcraft
+# Ore Excavation
+# Forgelin
+# Pneumaticcraft
+# Portality
+Features:
+# Added Liquid Chaos
+Fixes:
+# Fixed chaos planks crashing the client when standing on top of them
+# Attempt to fix last 3 quests
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.28 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Better Questing: 2
+# Craftweaker
+# FastFurnace
+# FTBLib/Utilities: 2
+# JEI: 2
+# Plustic
+# Random Things
+# YABBA
+# DarkUtils
+# Thermal Solars: 2
+# Woot
+# JourneyMap
+# SolarFlux
+# ProjectE
+# ChiselsandBits
+Features:
+# Added 1 quest
+# Added chaos blocks
+# Added animated RAK texture (smoothed out by KriNon)
+Fixes:
+# Removed EMC from singularities 
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.27 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2775
+# Ceramics
+# RoughMobs2
+# Abyssalcraft
+# ChiselsandBits
+# ExtraPlanets
+# FastFurnace
+# Fastworkbench
+# RFTools/Dims/Ctrl
+# AE2
+# Custom Main Menu
+# Industrial Foregoing
+# Iron Chests
+# JEHC
+# RebornCore
+# McJtyLib
+# Foamfix
+# WanionLib
+# HammerCore
+# Removed Power Adapters
+Features:
+# Improved powergen of lunar panels
+# Slime islands will now spawn slightly more rarely
+# Added 1 quest
+# Adjusted 2 quests
+# Can now see all abyssalcraft item names
+# Added more magica converter recipes
+Fixes:
+# Fixed Astral Sorcery deprecated recipes
+# Fixed pam's rice and coffee seeds, turns out it was just a conflict with actually additions coffee and rice
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.26 Changelog (Always Backup your world before updating)
+Updated Mods:
+# ActuallyAdditions
+# AE2
+# Bookshelf: 2
+# Botania
+# CTM
+# Corail Pillar
+# Corail Tombstone: 2
+# DarkUtils
+# ExtraUtils2
+# ExtraPlanets
+# HammerCore
+# Industrial Foregoing
+# ItemPhysic
+# Mantle
+# Modtweaker
+# Pam's Harvestcraft
+# Placebo
+# Portality
+# Random Things: 3
+# RFToolsDims
+# RockyCore
+# RoughMobs2
+# SimpleTrophies
+# Solarflux
+# TinkerIO
+# Tinker's Construct
+# Tinkers' Tool Leveling
+# XNet
+# ArmorPlus
+# Astral Sorcery
+# Better Questing: 2
+# Blockcraftery
+# ChiselsandBits
+# EnderCore/EnderIO/Endergy
+# Hunting Dimension
+# Mouse Tweaks
+# MPUtils Basic Tools
+# MysticalLib
+# NuclearCraft
+# Plustic: 2
+# Pneumaticcraft: 2
+# Progressive Bosses
+# Forgelin
+# WanionLib: 2
+# BrandonsCore
+# HammerCore: 3
+# RebornCore: 2
+# Draconic Evolution
+# Cyclops Core
+# FTBLib/Utilities
+# Ceramics
+# Equivalent Integration
+# JEI
+# Chance Cubes
+# Simply Jetpacks
+# Lordcraft
+# Wither Skeleton Tweaks
+Features:
+# Redesigned the Magica Coverter
+# Added more recipes for the Magica Converter
+# Added 2 simple achievements
+# Added some missing mystical agriculture seed quests
+Fixes:
+# Removed all potion type fluid cows
+# Fixed wearing Ultimate Armor crashing pack
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.25 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2770
+# ModelLoader
+# FTBLib
+# Craftweaker
+# RebornCore
+# Immersive Engineering
+# Pneumaticcraft
+# Added EnderIO Endergy
+# AE2
+# ChatTweaks
+# Tombstone: 2
+# ExtraUtils2: 2
+# Magneticraft
+# Unidict
+# Better Questing: 2
+# NuclearCraft
+# Forge Multipart CBE
+# McJtyLib
+# Bonsai Trees
+# Equivalent Integration
+# Iron Chests
+# Woot
+# Lordcraft
+Features:
+# Added new quests
+# Added a Questline
+Fixes:
+# Epeolatry is now consumed for the greater Epeolatry
+# Fixed red matter chest armor recipe
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.24 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Forge 2765
+# Aroma's mining dimension: 3
+# Cooking For Blockheads
+# Chat Tweaks: 2
+# Farming For Blockheads
+# Actually Additions: 2
+# Exchangers
+# Modular Diversity
+# Foamfix
+# Hunting Dimension
+# Modelloader
+# Bookshelf: 5
+# JEI : 3
+# AromaCore: 2
+# Wireless Crafting Terminal
+# AE2 RV6
+# Better Questing: 2
+# Woot
+# ExtraUtils2
+# ExtraCells2
+# /Dank/Null: 2
+# Wawla: 2
+# Embers Rekindled: 3
+# Extended Crafting
+# Thermal Series: 4
+# RedstoneArsenal: 1
+# COFH Core/World: 2
+# OpenModsLib
+# Portality
+# Unidict
+# NuclearCraft: 2
+# Tombstone
+# Lostcities
+# ChiselsandBits: 2
+# Craftweaker
+# FTBLib/Utilities: 2
+# Industrial Foregoing
+# Iron Chests: 2
+# Reliquery
+# YABBA
+# EnderCore
+# EnderIO: 3
+# MJRLegends Lib
+# Clienttweaks
+# CreativeCore
+# FastFurnace
+# NotEnoughIDs
+# Waystones
+Features:
+# Changed texture of Epeolatry
+# Replaced Placeholder metal with EddieRuckusite Metal
+# Added Epeolatry progression in BQ
+# Added EI to Rho
+# Added 2 new Simple Achievements
+# Added simple trophies to all simple achievements except 1
+# Messed with Progressive Bosses configs
+Fixes:
+# Corrected ID for grains_of_infinity_plant.json
+# Removed slime islands from quite a few dimensions for new worlds(maybe it might fix the nexus?)
+# Moved Ingameinfo a little lower in order to see lordcraft spell focus GUI more clearly
+# Removed EE from Rho
+# Fixed chicken quest in Delta
+# Fixed Tier 6 seeds growing on any crux
+# Fixed Twilight Forest portal creation item
+# Moved around waila and simplyjetpacks so you can see Ingameinfo more clearly
+# Fixed NuclearCraft Fission Reactor quest in Kappa questline
+# Decreased boss kill modifier further
+# Increased Quantum Compressor power storage and consumption.
+WTF:
+# 
+Note:
+# Ignore neutronium solar panel dire crafting table recipe.
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.23 Changelog (Always Backup your world before updating)
+Added Mods:
+# JETIF Just Enough Throwing In Fluids
+Updated Mods:
+# Cooking For Blockheads : 2
+# ExtraUtils2
+# FTBLib/Utilities : 2
+# Hunting Dimension : 3
+# Pneumaticcraft Repressurized
+# Twilight Forest
+# YABBA
+# CodeChicken Lib
+# TinyProgressions
+# Enderman Evolution
+# Reborn Core
+# Brandon'sCore/Draconic Evolution
+# Better Questing
+# Corail Tombstone
+# Chisel
+# OpenModsLib/blocks
+# Exnihilocreatio
+# SolarFlux
+# Simply Jetpacks
+# Portality
+# Quark
+# Chance Cubes
+Features:
+# Increased power output of fission and fusion reactors
+# Made recipe for antimatter
+# Added more items in the MM Auto Sieve for crushed netherrack
+Fixes:
+# 
+WTF:
+# Arist0tleite Metal is unobtainable
+# /bq_admin default load might crash the pack, just reload the pack after
+# Ignore neutronium solar panel dire crafting table recipe
+Note:
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.22 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Memorytester
+# MCMultiPart
+# ExtraUtils2
+# FTBLib/Utilities
+# McJtyLib
+# Modtweaker
+# NuclearCraft
+# P455w0rd's Library
+# Pam's Harvestcraft
+# RFTools/Dims
+# Lost Cities
+# XNet
+# Abyssalcraft
+# ArmorPlus
+# Chisels and Bits
+# Cooking For Blockheads
+# Corail Tombstone
+# Epic Siege Mod
+# EnderCore
+# EnderIO
+# ExNihiloCreatio
+# Expanded Equivalence
+# SonarCore
+# SolarFlux
+# YABBA
+Features:
+# Created 2 new quests for solarflux
+# Created the Magica Converter (didn't know what to name it)
+Fixes:
+# Fixed Solarflux entirely
+# Hopefully fixed fosic resonator quest
+# Fixed something in contenttweaker's lang file
+WTF:
+# Arist0tleite Metal is unobtainable
+# /bq_admin default load might crash the pack, just reload the pack after
+# Ignore neutronium solar panel dire crafting table recipe
+Note:
+# Lordcraft's npcs will sometimes ignore you entirely, don't know what causes this.
+------------------------------------------------------------------
+3.0.21 Changelog (Always Backup your world before updating)
+Updated Mods:
+# Updated a bunch of mods
+Features:
+# Oil can now be created
+# ALMOST all Beta tester metals are done
+# Adjusted farming for blockheads market
+Fixes:
+# Fixed issues with extra planets' recipes by working around them
+# Removed casting of infinity ingot and block from liquid infinity
+# Resonating Wand quest will now recognize as complete
+# Fixed voidcraft lich not spawning in submerged swamp
+# Rho move up to Nu and shifted other questlines down
+# Vindicator mobs and his asshole brothers should now only spawn in Abyssalcraft, Dreadlands, and Omethol biomes
+WTF:
+# Arist0tleite Metal is unobtainable
+# /bq_admin default load might crash the pack, just reload the pack after.
+Note:
