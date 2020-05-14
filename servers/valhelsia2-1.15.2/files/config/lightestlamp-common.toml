@@ -1,0 +1,17 @@
+
+#World Generation settings
+[worldgen]
+	#Generation of Krypton Glowstone in nether
+	base_krypton_gen = false
+	#Generation of Boron Ore in nether
+	boron_gen = true
+	#Generation of Argon Glowstone in nether
+	base_argon_gen = false
+	#Generation of Neon Glowstone in nether
+	base_neon_gen = false
+
+#Resources settings
+[resources]
+	#Gas Centrifuge Glowstone fuel multiplier (Bigger multiplier less fuel used) Min: 2, Max: 20, IntValue
+	glowstone_multiplier = 4
+
