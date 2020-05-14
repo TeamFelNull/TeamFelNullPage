@@ -1,0 +1,2 @@
+#packmode normal titan kappa
+mods.pneumaticcraft.pressurechamber.addRecipe([<thermalexpansion:florb>.withTag({Fluid: "liquidcoralium"}), <thermalexpansion:florb>.withTag({Fluid: "formic_acid"}), <lordcraft:crystal_basic_cosmic:0>, <randomthings:ingredient:1>], 2.0, [<thermalexpansion:florb>.withTag({Fluid: "liquidantimatter"})]);

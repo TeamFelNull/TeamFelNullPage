@@ -1,19 +1,19 @@
 {
-  "version": "1.1.0",
-  "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+  "version": "1.0.0",
+  "rss": "<FILL IN MANUALLY>",
   "servers": [
     {
       "id": "ProjectOzone3-1.12.2",
-      "name": "ProjectOzone3",
-      "description": "TeamFelNull-TestServer",
-      "icon": "https://teamfelnull.github.io/TeamFelNullPage/icon_256x256.png",
-      "version": "21.1.0",
-      "address": "play.servg.red:25560",
+      "name": "<FILL IN MANUALLY>",
+      "description": "<FILL IN MANUALLY>",
+      "icon": "<FILL IN MANUALLY>",
+      "version": "1.0.0",
+      "address": "<FILL IN MANUALLY>",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "709790494020075551",
-        "largeImageText": "TeamFelNullLauncher",
-        "largeImageKey": "general"
+        "shortId": "<FILL IN MANUALLY OR REMOVE>",
+        "largeImageText": "<FILL IN MANUALLY OR REMOVE>",
+        "largeImageKey": "<FILL IN MANUALLY OR REMOVE>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -36602,18 +36602,18 @@
     },
     {
       "id": "kim-1.15.2",
-      "name": "KimNaruTree",
-      "description": "CustomModServer",
-      "icon": "https://teamfelnull.github.io/TeamFelNullPage/icon_256x256.png",
-      "version": "21.0.0",
-      "address": "play.servg.red",
+      "name": "<FILL IN MANUALLY>",
+      "description": "<FILL IN MANUALLY>",
+      "icon": "<FILL IN MANUALLY>",
+      "version": "1.0.0",
+      "address": "<FILL IN MANUALLY>",
       "minecraftVersion": "1.15.2",
       "discord": {
-        "shortId": "709790494020075551",
-        "largeImageText": "TeamFelNullLauncher",
-        "largeImageKey": "general"
+        "shortId": "<FILL IN MANUALLY OR REMOVE>",
+        "largeImageText": "<FILL IN MANUALLY OR REMOVE>",
+        "largeImageKey": "<FILL IN MANUALLY OR REMOVE>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {

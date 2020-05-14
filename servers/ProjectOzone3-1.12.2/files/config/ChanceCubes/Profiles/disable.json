@@ -1,0 +1,21 @@
+{
+"disable": {
+    "name": "disable",
+    "description": "Disabled chance cube rewards.",
+	"rewards_to_disable": [
+            "chancecubes:clear_inventory",
+            "chancecubes:inventory_bomb",
+			"chancecubes:wait_for_it",
+			"chancecubes:traveller",
+			"thermalexpansion:florbs",
+			"chancecubes:random_teleport",
+			"chancecubes:skyblock",
+			"chancecubes:sky_block",
+			"chancecubes:monty_hall",
+			"chancecubes:item_of_destiny",
+			"chancecubes:fluid_sphere",
+			"chancecubes:mixed_fluid_sphere",
+			"extrautils2:Golden_Bag"
+        ]
+	}
+}
