@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "hmggirlfront:items/b_goods_ibc01_break"
+}
+}

@@ -1,0 +1,5 @@
+{
+"variants": {
+"normal": { "model": "gvcr2:gvcr2_block_flag_ge_snowcastle" }
+}
+}

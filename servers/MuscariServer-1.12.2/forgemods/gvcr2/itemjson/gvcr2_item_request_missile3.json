@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "gvcr2:items/item/gvcr2_item_request_missile3"
+}
+}

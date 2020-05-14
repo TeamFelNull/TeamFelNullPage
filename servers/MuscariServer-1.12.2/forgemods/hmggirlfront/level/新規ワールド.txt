@@ -1,0 +1,3 @@
+#
+level,1
+doll_kazu,2

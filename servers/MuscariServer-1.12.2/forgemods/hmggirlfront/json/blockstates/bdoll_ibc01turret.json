@@ -1,0 +1,16 @@
+{
+"forge_marker": 1,
+"defaults": {
+"textures": {
+"particle": "hmggirlfront:blocks/bdoll_ibc01turret"
+},
+"model": "hmggirlfront:bdoll_ibc01turret",
+"uvlock": false
+},
+"variants": {
+"normal": [{
+}],
+"inventory": [{
+}]
+}
+}

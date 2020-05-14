@@ -1,0 +1,6 @@
+{
+"parent": "block/cube_all",
+"textures": {
+"all": "hmggirlfront:blocks/bdoll_ibc08"
+}
+}

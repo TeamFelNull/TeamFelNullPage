@@ -1,0 +1,16 @@
+{
+"forge_marker": 1,
+"defaults": {
+"textures": {
+"particle": "hmggirlfront:blocks/base_oil_complex"
+},
+"model": "hmggirlfront:base_oil_complex",
+"uvlock": false
+},
+"variants": {
+"normal": [{
+}],
+"inventory": [{
+}]
+}
+}

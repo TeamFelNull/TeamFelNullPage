@@ -1,0 +1,8 @@
+{
+"variants": {
+"facing=north": { "model": "gvcr2:gvcr2_block_vehiclecrafter_2" },
+"facing=south": { "model": "gvcr2:gvcr2_block_vehiclecrafter_2" },
+"facing=west": { "model": "gvcr2:gvcr2_block_vehiclecrafter_2" },
+"facing=east": { "model": "gvcr2:gvcr2_block_vehiclecrafter_2" }
+}
+}

@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "hmggirlfront:items/attachment/dollam_bullet_backshot"
+}
+}

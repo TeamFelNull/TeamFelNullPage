@@ -1,0 +1,67 @@
+{
+  "additional": [
+    "assets/minecraft/textures/entity/littlemaid/additional/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_45.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_55.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_00.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_01.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_02.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_03.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_04.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_05.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_06.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_07.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_08.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_09.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0a.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0b.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0d.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0e.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0f.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_3c.png"
+  ],
+  "alternative": [
+    "assets/minecraft/textures/entity/littlemaid/alternative/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/littlemaidinventory_20.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_3c.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_9.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_c.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_d.png"
+  ],
+  "default": [
+    "assets/minecraft/textures/entity/littlemaid/default/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_45.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_55.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_00.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_01.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_02.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_03.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_04.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_05.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_06.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_07.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_08.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_09.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0a.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0b.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0d.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0e.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0f.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_3c.png"
+  ],
+  "mmm_aug": [
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_02.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_08.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_0d.png"
+  ],
+  "mmm_sr2": [
+    "assets/minecraft/textures/entity/littlemaid/mmm_sr2/engageoctaver_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_sr2/engageoctaver_3c.png"
+  ]
+}

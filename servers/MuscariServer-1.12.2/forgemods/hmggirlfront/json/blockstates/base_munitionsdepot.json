@@ -1,0 +1,16 @@
+{
+"forge_marker": 1,
+"defaults": {
+"textures": {
+"particle": "hmggirlfront:blocks/base_munitionsdepot"
+},
+"model": "hmggirlfront:base_munitionsdepot",
+"uvlock": false
+},
+"variants": {
+"normal": [{
+}],
+"inventory": [{
+}]
+}
+}

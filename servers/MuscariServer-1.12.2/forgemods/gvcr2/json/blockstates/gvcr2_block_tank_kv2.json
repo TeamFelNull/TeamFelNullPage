@@ -1,0 +1,16 @@
+{
+"forge_marker": 1,
+"defaults": {
+"textures": {
+"particle": "gvcr2:blocks/gvcr2_block_tank_kv2"
+},
+"model": "gvcr2:gvcr2_block_tank_kv2",
+"uvlock": false
+},
+"variants": {
+"normal": [{
+}],
+"inventory": [{
+}]
+}
+}
