@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "<FILL IN MANUALLY>",
+  "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
   "servers": [
     {
       "id": "MuscariServer-1.12.2",
