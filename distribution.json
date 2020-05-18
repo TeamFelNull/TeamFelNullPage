@@ -13615,20 +13615,6 @@
           }
         },
         {
-          "id": "generated.forgemod:performant:2.10m@jar",
-          "name": "Performant",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": false
-          },
-          "artifact": {
-            "size": 130022,
-            "MD5": "d72769a571bc7e53facc11add75134ae",
-            "url": "https://teamfelnull.github.io/TeamFelNullPage/servers/valhelsia2-1.15.2/forgemods/performant-1.15-2.10m.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:phosphor:0.5.2+build.4@jar",
           "name": "Phosphor",
           "type": "ForgeMod",
@@ -16616,21 +16602,6 @@
             "MD5": "56724a53d6fab376accaa88481e3ccdd",
             "url": "https://teamfelnull.github.io/TeamFelNullPage/servers/valhelsia2-1.15.2/files/config/patchouli-common.toml",
             "path": "config/patchouli-common.toml"
-          }
-        },
-        {
-          "id": "performant-common.toml",
-          "name": "performant-common.toml",
-          "type": "File",
-          "required": {
-            "value": true,
-            "def": false
-          },
-          "artifact": {
-            "size": 3418,
-            "MD5": "a7d94b7c9969b9976ee1c25fb8ad2dc2",
-            "url": "https://teamfelnull.github.io/TeamFelNullPage/servers/valhelsia2-1.15.2/files/config/performant-common.toml",
-            "path": "config/performant-common.toml"
           }
         },
         {
