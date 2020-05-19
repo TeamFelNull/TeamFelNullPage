@@ -1,0 +1,31 @@
+
+#Place to toggle what mobs you want spawnable in the mod
+[mob-spawns]
+	#Enable Grizzly Bear spawns
+	grizzly_bear_spawns = true
+	#Enable Nether Phantom spawns
+	nether_phantom_spawns = true
+	#Enable Skeleton Bandit spawns
+	skeleton_bandit_spawns = true
+	#Enable Magma Creeper spawns
+	magma_creeper_spawns = true
+	#Enable Frog spawns
+	frog_spawns = true
+	#Enable Nameless One spawns
+	nameless_one_spawns = true
+
+#Place to toggle what feature gen you want in the mod
+[feature-gen]
+	#Enable Fossil Stone gen
+	fossil_stone_gen = true
+	#Enable Fossil Dirt gen
+	fossil_dirt_gen = true
+	#Enable Cobalt ore gen
+	cobalt_ore_gen = true
+	#Enable Fossil Gravel gen
+	fossil_gravel_gen = true
+	#Enable Fire Melon gen
+	fire_melon_gen = true
+	#Enable Mangrove tree gen
+	mangrove_tree_gen = true
+
