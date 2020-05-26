@@ -1,0 +1,36 @@
+# Configuration file
+
+general {
+    # Boolean: false
+    B:AutoCollect=true
+
+    # Boolean: true
+    B:DestroyUnder=false
+
+    # Boolean: false
+    B:DropGather=false
+
+    # Integer: 0
+    # 0:not decrease durability 1,2:decrease durability(1=until whole blocks 2=until break an item)
+    I:Durability=0
+
+    # String: "KEY_G"
+    S:Key=KEY_J
+
+    # Integer: 11
+    I:Limiter=10
+
+    # Boolean: true
+    B:StartMode=false
+
+    # String: "grass, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium"
+    S:blockIds=grass, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium
+
+    # String: "mod_DigAll"
+    S:channelName=mod_DigAll
+
+    # String: "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel"
+    S:itemIds=minecraft:iron_shovel, minecraft:wooden_shovel, minecraft:stone_shovel, minecraft:diamond_shovel, minecraft:golden_shovel, BiomesOPlenty:shovelMud, BiomesOPlenty:shovelAmethyst, ExtraUtilities:erosionShovel, GalacticraftCore:item.steel_shovel, GalacticraftMars:item.titanium_shovel, GalacticraftMars:item.deshSpade, IC2:itemToolBronzeSpade, IC2:itemToolDrill, IC2:itemToolDDrill, IC2:itemToolIridiumDrill, MekanismTools:WoodPaxel, MekanismTools:StonePaxel, MekanismTools:IronPaxel, MekanismTools:DiamondPaxel, MekanismTools:GoldPaxel, MekanismTools:ObsidianPaxel, MekanismTools:ObsidianShovel, MekanismTools:LapisLazuliShovel, MekanismTools:OsmiumPaxel, MekanismTools:OsmiumShovel, MekanismTools:BronzePaxel, MekanismTools:BronzeShovel, MekanismTools:GlowstonePaxel, MekanismTools:GlowstoneShovel, MekanismTools:SteelPaxel, MekanismTools:SteelShovel, Metallurgy:copper.shovel, Metallurgy:bronze.shovel, Metallurgy:hepatizon.shovel, Metallurgy:damascus.steel.shovel, Metallurgy:angmallen.shovel, Metallurgy:steel.shovel, Metallurgy:eximite.shovel, Metallurgy:desichalkos.shovel, Metallurgy:prometheum.shovel, Metallurgy:deep.iron.shovel, Metallurgy:black.steel.shovel, Metallurgy:oureclase.shovel, Metallurgy:astral.silver.shovel, Metallurgy:carmot.shovel, Metallurgy:mithril.shovel, Metallurgy:quicksilver.shovel, Metallurgy:haderoth.shovel, Metallurgy:orichalcum.shovel, Metallurgy:celenegil.shovel, Metallurgy:adamantine.shovel, Metallurgy:atlarus.shovel, Metallurgy:tartarite.shovel, Metallurgy:ignatius.shovel, Metallurgy:shadow.iron.shovel, Metallurgy:midasium.shovel, Metallurgy:vyroxeres.shovel, Metallurgy:ceruclase.shovel, Metallurgy:kalendrite.shovel, Metallurgy:vulcanite.shovel, Metallurgy:sanguinite.shovel, Metallurgy:shadow.steel.shovel, Metallurgy:inolashite.shovel, Metallurgy:amordrine.shovel, Metallurgy:silver.shovel, Metallurgy:platinum.shovel, Metallurgy:brass.shovel, Metallurgy:electrum.shovel, ProjRed|Exploration:projectred.exploration.shovelruby, ProjRed|Exploration:projectred.exploration.shovelsapphire, ProjRed|Exploration:projectred.exploration.shovelperidot, RotaryCraft:rotarycraft_item_bedshovel, RotaryCraft:rotarycraft_item_steelshovel, TConstruct:shovel, TConstruct:mattock, TConstruct:excavator, Thaumcraft:ItemShovelThaumium, Thaumcraft:ItemShovelElemental, Thaumcraft:ItemShovelVoid, ThaumicTinkerer:ichorShovelGem, ThaumicTinkerer:ichorShovel, ThermalExpansion:tool.shovelInvar, TwilightForest:item.ironwoodShovel, TwilightForest:item.steeleafShovel, appliedenergistics2:item.ToolCertusQuartzSpade, appliedenergistics2:item.ToolNetherQuartzSpade, mod_ecru_MapleTree:ShovelMapleDiamond, Railcraft:tool.steel.shovel
+}
+
+

@@ -1,0 +1,36 @@
+# Configuration file
+
+general {
+    # Boolean: false
+    B:AutoCollect=true
+
+    # Boolean: true
+    B:DestroyUnder=true
+
+    # Boolean: false
+    B:DropGather=false
+
+    # Integer: 0
+    # 0:not decrease durability 1,2:decrease durability(1=until whole blocks 2=until break an item)
+    I:Durability=0
+
+    # String: "KEY_M"
+    S:Key=KEY_N
+
+    # Integer: 0
+    I:Limiter=5
+
+    # Boolean: true
+    B:StartMode=true
+
+    # String: "gold_ore, iron_ore, coal_ore, lapis_ore, obsidian, diamond_ore, redstone_ore, lit_redstone_ore, glowstone, emerald_ore, quartz_ore"
+    S:blockIds=gold_ore, iron_ore, coal_ore, lapis_ore, obsidian, diamond_ore, redstone_ore, lit_redstone_ore, glowstone, emerald_ore, quartz_ore, IC2:blockOreCopper, IC2:blockOreTin, appliedenergistics2:tile.OreQuartz, appliedenergistics2:tile.OreQuartzCharged, ThermalFoundation:Ore, BigReactors:YelloriteOre, Thaumcraft:blockCustomOre, Forestry:resources, Railcraft:tile.railcraft.ore, TConstruct:SearedBrick, Metallurgy:base.ore, Metallurgy:ender.ore, Metallurgy:fantasy.ore, Metallurgy:nether.ore, Metallurgy:precious.ore, factorization:ResourceBlock, GalacticraftCore:tile.gcBlockCore, GalacticraftCore:tile.moonBlock, GalacticraftMars:tile.asteroidsBlock, GalacticraftMars:tile.mars, UltraTech:Ores_UT, emashercore:ore, Mekanism:OreBlock, IC2:blockOreLead, Railcraft:ore
+
+    # String: "mod_MineAll"
+    S:channelName=mod_MineAll
+
+    # String: "iron_pickaxe, wooden_pickaxe, stone_pickaxe, diamond_pickaxe, golden_pickaxe"
+    S:itemIds=BiomesOPlenty:pickaxeAmethyst, BiomesOPlenty:pickaxeMud, EnderIO:item.darkSteel_pickaxe, ExtraUtilities:destructionpickaxe, GalacticraftCore:item.steel_pickaxe, GalacticraftMars:item.deshPick, GalacticraftMars:item.deshPickSlime, GalacticraftMars:item.titanium_pickaxe, IC2:itemToolBronzePickaxe, IC2:itemToolDDrill, IC2:itemToolDrill, IC2:itemToolIridiumDrill, MekanismTools:BronzePaxel, MekanismTools:BronzePickaxe, MekanismTools:DiamondPaxel, MekanismTools:GlowstonePaxel, MekanismTools:GlowstonePickaxe, MekanismTools:GoldPaxel, MekanismTools:IronPaxel, MekanismTools:LapisLazuliPaxel, MekanismTools:LapisLazuliPickaxe, MekanismTools:ObsidianPaxel, MekanismTools:ObsidianPickaxe, MekanismTools:OsmiumPaxel, MekanismTools:OsmiumPickaxe, MekanismTools:SteelPaxel, MekanismTools:SteelPickaxe, MekanismTools:StonePaxel, MekanismTools:WoodPaxel, Metallurgy:adamantine.pickaxe, Metallurgy:amordrine.pickaxe, Metallurgy:angmallen.pickaxe, Metallurgy:astral.silver.pickaxe, Metallurgy:atlarus.pickaxe, Metallurgy:black.steel.pickaxe, Metallurgy:brass.pickaxe, Metallurgy:bronze.pickaxe, Metallurgy:carmot.pickaxe, Metallurgy:celenegil.pickaxe, Metallurgy:ceruclase.pickaxe, Metallurgy:copper.pickaxe, Metallurgy:damascus.steel.pickaxe, Metallurgy:deep.iron.pickaxe, Metallurgy:desichalkos.pickaxe, Metallurgy:electrum.pickaxe, Metallurgy:eximite.pickaxe, Metallurgy:haderoth.pickaxe, Metallurgy:hepatizon.pickaxe, Metallurgy:ignatius.pickaxe, Metallurgy:inolashite.pickaxe, Metallurgy:kalendrite.pickaxe, Metallurgy:midasium.pickaxe, Metallurgy:mithril.pickaxe, Metallurgy:orichalcum.pickaxe, Metallurgy:oureclase.pickaxe, Metallurgy:platinum.pickaxe, Metallurgy:prometheum.pickaxe, Metallurgy:quicksilver.pickaxe, Metallurgy:sanguinite.pickaxe, Metallurgy:shadow.iron.pickaxe, Metallurgy:shadow.steel.pickaxe, Metallurgy:silver.pickaxe, Metallurgy:steel.pickaxe, Metallurgy:tartarite.pickaxe, Metallurgy:vulcanite.pickaxe, Metallurgy:vyroxeres.pickaxe, ProjRed|Exploration:projectred.exploration.pickaxeperidot, ProjRed|Exploration:projectred.exploration.pickaxeruby, ProjRed|Exploration:projectred.exploration.pickaxesapphire, Railcraft:tool.steel.pickaxe, RotaryCraft:rotarycraft_item_bedpick, RotaryCraft:rotarycraft_item_steelpick, TConstruct:hammer, TConstruct:pickaxe, Thaumcraft:ItemPickThaumium, Thaumcraft:ItemPickVoid, Thaumcraft:ItemPickaxeElemental, ThaumicTinkerer:ichorPick, ThaumicTinkerer:ichorPickGem, ThermalExpansion:tool.pickaxeInvar, TwilightForest:item.giantPick, TwilightForest:item.ironwoodPick, TwilightForest:item.knightlyPick, TwilightForest:item.mazebreakerPick, TwilightForest:item.steeleafPick, appliedenergistics2:item.ToolCertusQuartzPickaxe, appliedenergistics2:item.ToolNetherQuartzPickaxe, minecraft:diamond_pickaxe, minecraft:golden_pickaxe, minecraft:iron_pickaxe, minecraft:stone_pickaxe, minecraft:wooden_pickaxe, mod_ecru_MapleTree:PickaxeMapleDiamond, witchery:kobolditepickaxe
+}
+
+

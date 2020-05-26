@@ -1,0 +1,41 @@
+# Configuration file
+
+general {
+    # Boolean: false
+    B:DestroyUnder=false
+
+    # Boolean: true
+    B:DropGather=true
+
+    # Integer: 0
+    # 0:not decrease durability 1,2:decrease durability(1=until whole blocks 2=until break an item)
+    I:Durability=0
+
+    # String: "KEY_C"
+    S:Key=KEY_N
+
+    # Integer: 0
+    I:Limiter=0
+
+    # Boolean: true
+    B:StartMode=true
+
+    # String: "log, brown_mushroom_block, red_mushroom_block, log2"
+    S:blockIds=log, brown_mushroom_block, red_mushroom_block, log2, BambooMod:sakuraLog, BiomesOPlenty:logs1,, BiomesOPlenty:logs2, BiomesOPlenty:logs3, BiomesOPlenty:logs4, MoCreatures:MoCLog, MineFactoryReloaded:rubberwood.log, Thaumcraft:blockMagicalLog, Forestry:log1, Forestry:log2, Forestry:log3, Forestry:log4, Forestry:log5, Forestry:log6, Forestry:log7, Forestry:fireproofLog1, Forestry:fireproofLog2, Forestry:fireproofLog3, Forestry:fireproofLog4, Forestry:fireproofLog5, Forestry:fireproofLog6, Forestry:fireproofLog7, TwilightForest:tile.TFLog, TwilightForest:tile.TFMagicLog, witchery:witchlog, mod_ecru_MapleTree:ecru_BlockMapleWood, IC2:blockRubWood
+    # String: "mod_CutAll"
+    S:channelName=mod_CutAll
+
+    # String: "iron_axe, wooden_axe, stone_axe, diamond_axe, golden_axe"
+    S:itemIds=iron_axe, wooden_axe, stone_axe, diamond_axe, golden_axe, mod_ecru_MapleTree:AxeMapleDiamond, IC2:itemToolBronzeAxe, appliedenergistics2:item.ToolCertusQuartzAxe, appliedenergistics2:item.NetherQuartzAxe, BiomesOPlenty:axeMud, BiomesOPlenty:axeAmethyst, ThermalExpansion:tool.axeInvar, EnderIO:item.darkSteel_axe, Thaumcraft:ItemAxeThaumium, Thaumcraft:ItemAxeVoid, Railcraft:tool.steel.axe, Metallurgy:copper.axe, Metallurgy:bronze.axe, Metallugry:hepatizon.axe, Metallurgy:damascus.steel.axe, Metallurgy:angmallen.axe, Metallurgy::steel.axe, Metallurgy:eximite.axe, Metallurgy:desichalkos.axe, Metallurgy:prometheum.axe, Metallurgy:deep.iron.axe, Metallurgy:black.steel.axe, Metallurgy:oureclase.axe, Metallurgy:astral.silver.axe, Metallurgy:carmot.axe, Metallurgy:mithril.axe, Metallurgy:quicksilver.axe, Metallurgy:haderoth.axe, Metallurgy:orichalcum.axe, Metallurgy:celenegil.axe, Metallurgy:adamantine.axe, Metallurgy:atlarus.axe, Metallurgy:tartarite.axe, Metallurgy:ignatius.axe, Metallurgy:shadow.iron.axe, Metallurgy:midsium.axe, Metallurgy:vyroxeres.axe, Metallurgy:ceruclase.axe, Metallurgy:kalendrite.axe, Metallurgy:vulcanite.axe, Metallurgy:sanguinite.axe, Metallurgy:shadow.steel.axe, Metallurgy:inolashite.axe, Metallurgy:amordrite.axe, Metallurgy:silver.axe, Metallurgy:platinum.axe, Metallurgy:brass.axe, electrum.axe, ExtraUtilities:defoliageAxe, GalacticraftCore:item.steel_axe, GalacticraftMars:item.titanium_axe, GalacticraftMars:item.deshAxe, TwilightForest:item.ironwoodAxe, TwilightForest:item.steeleafAxe, TwilightForest:item.knightlyAxe, ProjRed|Exploration:projectred.exploration.axeruby, ProjRed|Exploration:projectred.exploration.axesapphire, ProjRed|Exploration:projectred.exploration.axeperidot, IC2:itemToolChainsaw, TConstruct:hatchet, MekanismTools:OsmiumAxe
+
+    # String: ""
+    S:leavesIds=minecraft:leaves, minecraft:leaves2, mod_ecru_MapleTree:ecru_BlockMapleLeaves, IC2:blockRubLeaves, BambooMod:sakuraLeaves, BiomesOPlenty:appleLeaves, BiomesOPlenty:persimmonLeaves, BiomesOPlenty:leaves1, BiomesOPlenty:leaves2, BiomesOPlenty:leaves3, BiomesOPlenty:leaves4, BiomesOPlenty:colorizedLeaves1, BiomesOPlenty:colorizedLeaves2, MineFactoryReloaded:rubberwood.leaves, TwilightForest:tile.TFLeaves, TwilightForest:tileMagicLeaves, witchery:witchleaves
+
+    # Integer: 3
+    I:leavesRange=4
+
+    # String: ""
+    S:nondestructiveItemIDs=
+}
+
+

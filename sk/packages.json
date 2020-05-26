@@ -40,6 +40,33 @@
       },
       "location" : "pack10.json",
       "priority" : 3
+    },
+    {
+      "name" : "mpack-2",
+      "title" : "OldFeliServer",
+      "version" : "2020-05-26-21-36-21",
+      "thumb" : "https://cdn.discordapp.com/attachments/710337923379101817/714779576361943040/http3A252F252Fgreen.png",
+      "key" : null,
+      "gameVersion" : "1.7.10",
+      "server" : {
+        "serverHost" : "felnull.dip.jp",
+        "serverPort" : 25565
+      },
+      "features" : [ ],
+      "userFiles" : {
+        "include" : [
+          "options.txt",
+          "optionsshaders.txt"
+        ],
+        "exclude" : [ ]
+      },
+      "launch" : {
+        "flags" : [
+          "-Dfml.ignoreInvalidMinecraftCertificates=true"
+        ]
+      },
+      "location" : "mpack-2.json",
+      "priority" : 3
     }
   ]
 }
