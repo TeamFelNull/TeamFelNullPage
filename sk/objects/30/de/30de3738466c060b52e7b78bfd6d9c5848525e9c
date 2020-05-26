@@ -1,0 +1,24 @@
+DisplayName = SALINE05-Nolock
+Type = Rocket
+Power = 30
+Acceleration = 4.0
+Explosion = 5
+Sight = MissileSight 
+Delay = 100
+ModeNum = 1
+ModelBullet = wgmismodel2
+ModelBomblet = wgmismodel3
+Sound = missile_1_snd
+
+MaxAmmo = 24
+SuppliedNum = 4
+Item =  2, iron_ingot
+Item =  2, gunpowder
+Item =  2, redstone
+
+
+Bomblet = 8
+BombletSTime = 6
+BombletDiff = 0.2
+
+

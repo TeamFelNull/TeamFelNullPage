@@ -1,0 +1,17 @@
+DisplayName = LABIATA
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 28
+Acceleration = 9
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 7
+Round = 36
+ReloadTime = 19
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 360
+SuppliedNum = 72
+Item =  2, iron_ingot
+Item =  3, gunpowder

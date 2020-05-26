@@ -1,0 +1,119 @@
+DisplayName =  BCY-Stasis
+AddDisplayName = BCY-Stasis
+ItemID = 32293
+Speed = 1.5
+Sound = plane
+StepHeight = 2.5
+
+AddRecipe = "XXX",  "YXY",  "X X",  X, iron_block, Y, iron_ingot
+
+CameraPosition = 0.0, 11.70, -1.70, true
+HUD = heli
+SmoothShading = true
+
+AddSeat = 0.00,  8.30,  0.00
+HideEntity = true
+
+EnableGunnerMode = false
+EnableNightVision = false
+EnableEntityRadar = true
+
+
+MobilityYawOnGround = 10.0
+MobilityYaw = 30.0
+MobilityPitch = 10.0
+MobilityRoll = 1.0
+MinRotationPitch = -90
+MaxRotationPitch =  90
+MinRotationRoll  = -30
+MaxRotationRoll  =  30
+EnableVtol = true
+DefaultVtol = false
+VtolYaw = 30.0
+VtolPitch = 30.0
+ThrottleUpDown = 20.0
+
+EnableBack = true
+
+
+DamageFactor = 0.01
+ArmorDamageFactor = 0.1
+ArmorMinDamage = 1
+
+
+Float  = false
+MaxHp = 300
+
+MaxFuel         = 1200
+FuelConsumption = 1.0
+
+
+
+
+AddWeapon = stagun, -3.17, 8.93, -2.3125, -3, -2, true, 1, 0,-30,70, -30,80
+AddWeapon = stalaser,  3.17, 9.60, -2.3125,  3, -1, true, 1, 0,-70,30, -30,80
+
+AddPartWeapon = stagun, false, true, true,  -3.0466, 10.2084, -2.3125, 0.01
+AddPartWeapon = stalaser, false, true, true,   3.0466, 10.2084, -2.3125
+
+
+AddWeapon = stamis1,  -2.3673,  12.7213, -3.5699,  0, -45,  true,1
+AddWeapon = stamis1,  -2.9873,  12.7213, -3.5699,  5, -45,  true,1
+AddWeapon = stamis1,  -3.5873,  12.7213, -3.5699,  10, -45,  true,1
+AddWeapon = stamis1,  -4.1873,  12.7213, -3.5699,  15, -45,  true,1
+
+AddWeapon = stamis2,  -2.3673,  12.7213, -3.5699,  0, -45,  true,1
+AddWeapon = stamis2,  -2.9873,  12.7213, -3.5699,  5, -45,  true,1
+AddWeapon = stamis2,  -3.5873,  12.7213, -3.5699,  10, -45,  true,1
+AddWeapon = stamis2,  -4.1873,  12.7213, -3.5699,  15, -45,  true,1
+
+AddPartSlideWeaponBay = stamis1 / stamis2,  0.05, 0, 0
+AddPartWeaponBay = stamis1 / stamis2, -2.9873, 12.3358, -3.5699, 0, 0, 1, 5
+AddPartWeaponBay = stamis1 / stamis2, -3.5873, 12.3358, -3.5699, 0, 0, 1, 10
+AddPartWeaponBay = stamis1 / stamis2, -4.1873, 12.3358, -3.5699, 0, 0, 1, 15
+
+AddWeapon = aa2, 0, 9.5, 0,  0, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 0, true, 1
+
+
+AddPartLG = 0.7596, 6.20, -1.3904, 1, 0, 0, 80
+AddPartSlideRotLG = 0.061, -1.6672, -1.1889, 1.92, 5.91, 0.3164, 1, 0, 0, 20
+
+AddPartLG = -0.7596, 6.20, -1.3904, 1, 0, 0, 80
+AddPartSlideRotLG = -0.061, -1.6672, -1.1889, 1.92, 5.91, 0.3164, 1, 0, 0, 20
+
+
+AddPartWing = 0.0, 9.20, -1.96, 1, 0, 0, 20
+
+VariableSweepWing = true
+SweepWingSpeed = 10.0
+
+
+
+BoundingBox =  0.0, 7.76, 0.0,  3.5, 4.0
+BoundingBox =  2.7, 10.0, -2.0,  2.0, 1.0
+BoundingBox =  -2.7, 10.0, -2.0,  2.0, 1.0
+
+AddRack = bcy-vob,  0.0, 9.46, -1.92,  0.0, 9.46, -3.5043,  6.0, 100000,  0.0, 0.0

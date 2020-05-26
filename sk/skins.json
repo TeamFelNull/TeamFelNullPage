@@ -1,13 +1,13 @@
 {
     "minimumVersion": 1, 
     "skins": {
-        "finalcity": {
-            "title": "FINALCITY", 
-            "url": "https://finalcity.github.io/FinalcitySkin/skin.json"
-        },
-        "orangeserver": {
-            "title": "OrangeServer", 
-            "url": "https://teamorangeserver.github.io/OrangeServerSkin/skin.json"
-        }
+        //"finalcity": {
+        //    "title": "FINALCITY", 
+        //    "url": "https://finalcity.github.io/FinalcitySkin/skin.json"
+        //},
+        //"orangeserver": {
+        //    "title": "OrangeServer", 
+        //    "url": "https://teamorangeserver.github.io/OrangeServerSkin/skin.json"
+        //}
     }
 }

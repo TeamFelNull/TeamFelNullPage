@@ -1,0 +1,25 @@
+DisplayName = BCY-VOB
+AddDisplayName = BCY-VOB
+ItemID = 32292
+
+AddSeat = 0.00,  0.00,  0.00
+CanRide = false
+BoundingBox =  0.0, 0.82, -4.95,  2.0, 2.0
+
+MaxHp = 40
+
+AddRecipe = "YXY",  "XYX",  "YXY",  X, coal, Y, iron_ingot
+
+MinRotationPitch = 0
+MaxRotationPitch = 0
+
+
+FuelsupplyRange = 12
+
+Gravity = -0.5
+RideRack = bcywg / bcystasis / bcyfragile, 1
+
+
+
+
+

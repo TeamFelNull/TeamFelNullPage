@@ -1,0 +1,104 @@
+DisplayName =  BCY-Fragile
+AddDisplayName = BCY-Fragile
+ItemID = 32294
+Speed = 1.8
+Sound = plane
+StepHeight = 2.5
+
+AddRecipe = "XXX",  " Y ",  "YXY",  X, iron_block, Y, iron_ingot
+
+CameraPosition = 0.0, 13.70, -0.90, true
+HUD = heli,
+
+AddSeat = 0.00,  11.00,  -0.20
+HideEntity = true
+
+EnableGunnerMode = false
+EnableNightVision = false
+EnableEntityRadar = true
+
+
+MobilityYawOnGround = 10.0
+MobilityYaw = 30.0
+MobilityPitch = 10.0
+MobilityRoll = 1.0
+MinRotationPitch = -90
+MaxRotationPitch =  90
+MinRotationRoll  = -30
+MaxRotationRoll  =  30
+
+ThrottleUpDown = 20.0
+DamageFactor = 0.01
+ArmorDamageFactor = 0.1
+EnableBack = true
+
+Float  = false
+MaxHp = 224
+
+MaxFuel         = 190
+FuelConsumption = 1.0
+
+EnableVtol = true
+DefaultVtol = false
+VtolYaw = 30.0
+VtolPitch = 30.0
+
+
+AddWeapon = fragilegun, 4.3203, 9.8117, 0.6987, 5, -3, true, 1, 0,-30,70, -70,80
+AddWeapon = fragilegun, -4.3203, 9.8117, 0.6987, -5, -3, true, 1, 0,-30,70, -70,80
+
+AddPartWeapon = fragilegun, false, true, true,  3.5015, 11.2283, 0.6987
+AddPartWeapon = fragilegun, false, true, true,  -3.5015, 11.2283, 0.6987
+
+
+AddWeapon = fragilechain, 4.49, 14.2434, -2.3131, 3, 0, true, 1, 0,0,0, 0,0
+AddWeapon = fragilechain, -4.49, 14.2434, -2.3131, -3, 0, true, 1, 0,0,0, 0,0
+
+AddPartWeaponBay = fragilechain, 2.8648, 12.0079, -1.1759, 1, 0, 0, 45
+AddPartWeaponBay = fragilechain, -2.8648, 12.0079, -1.1759, 1, 0, 0, 45
+
+
+AddWeapon = aa2, 0, 9.5, 0,  0, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 0, true, 1
+
+
+AddPartLG = 1.5536, 8.6407, 0.5386, 1, 0, 0, 30
+AddPartLG = -1.5536, 8.6407, 0.5386, 1, 0, 0, 30
+
+
+
+AddPartWing = 0.2078, 10.1235, 0.5718, 0, 1, 0, -20
+AddPartWing = -0.2078, 10.1235, 0.5718, 0, 1, 0, 20
+
+VariableSweepWing = true
+SweepWingSpeed = 10.0
+
+
+
+BoundingBox =  0.0, 10.2, 0.0,  3.5, 4.0
+BoundingBox =  2.9, 11.5, -0.2,  2.5, 1.0
+BoundingBox =  -2.9, 11.5, -0.2,  2.5, 1.0
+
+AddRack = bcy-vob,  0.0, 11.46, -1.52,  0.0, 9.46, -3.5043,  6.0, 500

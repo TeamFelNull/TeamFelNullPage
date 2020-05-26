@@ -1,0 +1,22 @@
+DisplayName = GShG-7.62mm gun
+Type = MachineGun1
+Power = 7
+Acceleration = 8.0
+Explosion = 0
+Flaming = false
+Sight = MoveSight
+Delay = 0
+ReloadTime = 100
+Round = 100
+SoundDelay = 3
+Accuracy = 4.0
+; SetCartridge = model_name, Acceleration, Yaw, Pitch, ModelScale, Gravity, Bound
+SetCartridge = cartridge, 0.0, 0, 0, 2.00, -0.04, 0.40
+Sound = gun_l2_snd
+HeatCount = 1
+MaxHeatCount = 150
+
+MaxAmmo = 800
+SuppliedNum = 200
+Item =  3, iron_ingot
+Item =  3, gunpowder

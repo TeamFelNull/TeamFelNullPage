@@ -1,0 +1,10 @@
+# Configuration file
+
+general {
+    B:General.GenerateLead=true
+    B:General.GeneratePlutonium=true
+    B:General.GenerateUranium=true
+    B:LiquidSourceExplodesAfterCausticExplosion=true
+}
+
+

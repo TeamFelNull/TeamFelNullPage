@@ -1,0 +1,15 @@
+DisplayName = XCG-B050
+Type = MachineGun1
+ModelBullet = fragilechain4
+Power = 20
+Acceleration = 10
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 2
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 600
+SuppliedNum = 200
+Item =  2, iron_ingot
+Item =  2, gunpowder

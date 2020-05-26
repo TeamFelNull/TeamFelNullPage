@@ -1,0 +1,15 @@
+DisplayName = Gatling
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 30
+Acceleration = 13
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 0
+SoundDelay = 1
+Sound = gun_h1_snd
+
+MaxAmmo = 4000
+SuppliedNum = 1000
+Item =  5, iron_ingot
+Item =  4, gunpowder

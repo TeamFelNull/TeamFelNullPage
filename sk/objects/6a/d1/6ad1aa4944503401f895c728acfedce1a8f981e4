@@ -1,0 +1,18 @@
+DisplayName = XMG-A030
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 20
+Acceleration = 9
+AccelerationInWater = 5.0
+Sight = MoveSight
+Accuracy = 0.4
+Delay = 1
+Round = 192
+ReloadTime = 7
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 2304
+SuppliedNum = 192
+Item =  2, iron_ingot
+Item =  2, gunpowder

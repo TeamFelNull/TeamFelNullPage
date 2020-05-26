@@ -1,0 +1,15 @@
+DisplayName = KozimaCanon
+Type = MachineGun1
+ModelBullet = kcbull
+Power = 950
+Acceleration = 25
+AccelerationInWater = 0.0
+Sight = MoveSight
+Delay = 60
+ReloadTime = 60
+SoundDelay = 1
+Sound = missile_2_snd
+
+MaxAmmo = 20
+SuppliedNum = 10
+Item =  20, redstone

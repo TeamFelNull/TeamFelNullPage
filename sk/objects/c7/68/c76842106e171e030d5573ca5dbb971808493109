@@ -1,0 +1,17 @@
+DisplayName = SALINE05
+Type = ATMissile
+Power = 60
+Acceleration = 4.0
+Explosion = 9
+Sight = MissileSight 
+Delay = 100
+LockTime = 1
+ModeNum = 1
+ModelBullet = wgmismodel
+Sound = missile_1_snd
+
+MaxAmmo = 24
+SuppliedNum = 4
+Item =  2, iron_ingot
+Item =  2, gunpowder
+Item =  2, redstone

@@ -1,0 +1,15 @@
+DisplayName = ER-705
+Type = MachineGun1
+ModelBullet = omerlaser
+Power = 210
+Acceleration = 15
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 35
+ReloadTime = 30
+SoundDelay = 1
+Sound = missile_2_snd
+
+MaxAmmo = 32
+SuppliedNum = 8
+Item =  16, redstone

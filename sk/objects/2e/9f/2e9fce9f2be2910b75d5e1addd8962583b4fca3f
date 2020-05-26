@@ -1,0 +1,21 @@
+DisplayName = D-56TS 76mmGun
+Type = MachineGun2
+Power = 35
+ModelBullet = bullet76mm
+Acceleration = 7.0
+Explosion = 3
+Flaming = false
+Sight = MoveSight
+Delay = 25
+ModeNum = 2
+Round = 1
+ReloadTime = 25
+SoundVolume = 2.0
+SetCartridge = cartridge, 0.4,  0, 0, 5.00, -0.04, 0.40
+Sound = cannon_1_snd
+Gravity = -0.02
+
+MaxAmmo = 400
+SuppliedNum = 100
+Item =  3, iron_ingot
+Item =  3, gunpowder

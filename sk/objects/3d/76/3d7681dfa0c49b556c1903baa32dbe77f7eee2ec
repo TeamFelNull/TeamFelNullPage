@@ -1,0 +1,20 @@
+DisplayName = POPLAR01
+Type = ATMissile
+Power = 42
+Acceleration = 2.0
+Explosion = 2
+Sight = MissileSight 
+Delay = 6
+Round = 4
+ReloadTime = 160
+SoundDelay = 1
+LockTime = 0
+ModeNum = 1
+ModelBullet = lisamismodel
+Sound = missile_1_snd
+
+MaxAmmo = 80
+SuppliedNum = 8
+Item =  1, iron_ingot
+Item =  3, gunpowder
+Item =  4, redstone

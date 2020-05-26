@@ -1,0 +1,23 @@
+DisplayName = SAMPAGUITA
+Type = Rocket
+Power = 25
+Acceleration = 4.0
+Sight = MissileSight 
+Delay = 17
+ModeNum = 1
+ModelBullet = bullet76mm
+ModelBomblet = bullet76mm
+Sound = gun_h4_snd
+
+MaxAmmo = 90
+SuppliedNum = 10
+Item =  2, iron_ingot
+Item =  2, gunpowder
+
+
+
+Bomblet = 12
+BombletSTime = 2
+BombletDiff = 0.5
+
+

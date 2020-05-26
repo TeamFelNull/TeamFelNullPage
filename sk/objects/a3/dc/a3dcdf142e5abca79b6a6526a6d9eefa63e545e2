@@ -1,0 +1,103 @@
+DisplayName =  BCY00-ARETHA
+AddDisplayName = BCY00-ARETHA
+ItemID = 32297
+Speed = 1.0
+Sound = plane
+StepHeight = 4.5
+
+
+EnableVtol = true
+DefaultVtol = false
+VtolYaw = 30.0
+VtolPitch = 30.0
+
+Float  = false
+
+
+AddRecipe = "XYX",  "XXX",  "Y X",  X, iron_block, Y, iron_ingot
+
+
+CameraPosition = 0.0, 19.50, 0.0, true
+HUD = heli
+
+AddSeat = 0.00,  8.30,  0.00
+HideEntity = true
+
+EnableGunnerMode = false
+EnableNightVision = false
+EnableEntityRadar = true
+
+
+MobilityYawOnGround = 8.0
+MobilityYaw = 30.0
+MobilityPitch = 10.0
+MobilityRoll = 1.0
+MinRotationPitch = -80
+MaxRotationPitch =  80
+MinRotationRoll  = -30
+MaxRotationRoll  =  30
+
+ThrottleUpDown = 20.0
+
+EnableBack = true
+
+
+DamageFactor = 0.01
+ArmorDamageFactor = 0.1
+ArmorMinDamage = 1
+
+
+
+MaxHp = 380
+
+MaxFuel         = 1200
+FuelConsumption = 1.0
+
+
+
+
+AddWeapon = arethagatling, -7.9957, 2.7229, 7.2250, -4, -10, true, 1, 0,-20,20, -60,20
+AddWeapon = arethagatling, -9.6947, 2.7229, 7.2843, -4, -10, true, 1, 0,-20,20, -60,20
+AddWeapon = arethagatling, -11.3936, 2.7229, 7.3436, -4, -10, true, 1, 0,-20,20, -60,20
+AddWeapon = arethagatling, -8.8452, 1.7229, 7.2547, -4, -10, true, 1, 0,-20,20, -60,20
+AddWeapon = arethagatling, -10.5441, 1.7229, 7.3140, -4, -10, true, 1, 0,-20,20, -60,20
+
+AddWeapon = arethalaser,  8.8563, 11.2163, 27.5108,  2, -2, true, 1, 0,0,0, 0,0
+
+AddPartWeapon = arethagatling, false, true, true,  -3.7096, 14.6427, 0.2772
+
+AddPartWeaponBay = arethalaser, 3.7096, 14.6427, 0.2772, 1, 0, 0, -20
+
+
+
+AddWeapon = aaa, 0, 9.5, 0,  0, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  45, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -45, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  90, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -90, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  135, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -135, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  180, -35, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  0, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  45, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -45, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  90, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -90, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  135, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  -135, 0, true, 1
+AddWeapon = aaa, 0, 9.5, 0,  180, 0, true, 1
+
+
+AddPartLG = 1.8547, 9.9645, 0.017, 1, 0, 0, 50
+AddPartSlideRotLG = 0.0, 0.5, -1.6, 2.5036, 9.8904, -1.98, 1, 0, 0, 20
+
+AddPartLG = -1.8547, 9.9645, 0.017, 1, 0, 0, 50
+AddPartSlideRotLG = -0.0, 0.5, -1.6, -2.5036, 9.8904, -1.98, 1, 0, 0, 20
+
+
+
+
+
+BoundingBox =  0.0, 9.0, 0.0,  14.0, 18.0
+
+

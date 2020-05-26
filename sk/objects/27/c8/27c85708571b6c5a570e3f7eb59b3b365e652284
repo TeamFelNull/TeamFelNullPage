@@ -1,0 +1,22 @@
+DisplayName = AssaultArmor
+Type = MachineGun1
+ModelBullet = aa2
+Power = 100
+Explosion = 7
+ExplosionInWater = 0
+ExplosionBlock = 30
+Acceleration = 2
+AccelerationInWater = 0
+Sight = MoveSight
+Delay = 0
+ReloadTime = 300
+SoundDelay = 1
+Sound = bomb_snd
+TimeFuse = 10
+Piercing = 30
+
+Round = 24
+MaxAmmo = 240
+SuppliedNum = 24
+Item =  8, redstone
+

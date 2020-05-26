@@ -1,0 +1,17 @@
+DisplayName = 063ANAR
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 25
+Acceleration = 8
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 6
+Round = 50
+ReloadTime = 20
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 300
+SuppliedNum = 50
+Item =  1, iron_ingot
+Item =  2, gunpowder

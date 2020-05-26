@@ -1,0 +1,15 @@
+DisplayName = CGR-500
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 20
+Acceleration = 9
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 3
+SoundDelay = 1
+Sound = gun_h1_snd
+
+MaxAmmo = 600
+SuppliedNum = 200
+Item =  3, iron_ingot
+Item =  2, gunpowder

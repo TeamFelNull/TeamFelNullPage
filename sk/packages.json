@@ -2,43 +2,52 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "MuscariServerS8.5",
-      "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
-      "name" : "Pack10",
-      "version" : "2020-05-04-02-32-41",
+      "name" : "mpack-1",
+      "title" : "FeliNullServer",
+      "thumb" : "https://i.gyazo.com/933ae526ab881980197054dd3d4c84f4.png",
       "key" : null,
+      "gameVersion" : "1.7.10",
       "server" : {
-        "serverHost" : "muscari.fun",
+        "serverHost" : "play.24mod.red",
         "serverPort" : 25565
       },
-      "location" : "pack10.json",
-      "priority" : 0
+      "features" : [ ],
+      "userFiles" : {
+        "include" : [
+          "options.txt",
+          "optionsshaders.txt"
+        ],
+        "exclude" : [ ]
+      },
+      "launch" : {
+        "flags" : [
+          "-Dfile.encoding=utf-8"
+        ]
+      }
     },
     {
-      "title" : "FELNULLSERVER",
+      "name" : "mpack-1",
+      "title" : "TestFelNullServer",
       "thumb" : "https://i.gyazo.com/933ae526ab881980197054dd3d4c84f4.png",
-      "name" : "Pack101",
-      "version" : "2020-05-04-02-32-41",
       "key" : null,
+      "gameVersion" : "1.7.10",
       "server" : {
-        "serverHost" : "play.servg.red",
-        "serverPort" : 25565
+        "serverHost" : "play.24mod.red",
+        "serverPort" : 25570
       },
-      "location" : "pack101.json",
-      "priority" : 2
-    },
-    {
-      "title" : "ProjectOzone3",
-      "thumb" : "https://i.gyazo.com/933ae526ab881980197054dd3d4c84f4.png",
-      "name" : "Pack103",
-      "version" : "2020-05-12-23-47-18",
-      "key" : null,
-      "server" : {
-        "serverHost" : "play.servg.red",
-        "serverPort" : 25560
+      "features" : [ ],
+      "userFiles" : {
+        "include" : [
+          "options.txt",
+          "optionsshaders.txt"
+        ],
+        "exclude" : [ ]
       },
-      "location" : "pack103.json",
-      "priority" : 2
+      "launch" : {
+        "flags" : [
+          "-Dfile.encoding=utf-8"
+        ]
+      }
     }
   ]
 }

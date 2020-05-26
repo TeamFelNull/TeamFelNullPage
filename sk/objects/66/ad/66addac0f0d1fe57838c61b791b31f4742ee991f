@@ -1,0 +1,22 @@
+DisplayName = AssaultArmor-ARETHA
+Type = MachineGun1
+ModelBullet = aaa
+Power = 300
+Explosion = 10
+ExplosionInWater = 0
+ExplosionBlock = 0
+Acceleration = 2
+AccelerationInWater = 0
+Sight = MoveSight
+Delay = 0
+ReloadTime = 300
+SoundDelay = 1
+Sound = bomb_snd
+TimeFuse = 15
+Piercing = 30
+
+Round = 16
+MaxAmmo = 80
+SuppliedNum = 16
+Item =  4, redstone
+

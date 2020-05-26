@@ -1,0 +1,20 @@
+DisplayName = MP-0901
+Type = ATMissile
+Power = 40
+Acceleration = 4.0
+Explosion = 3
+Sight = MissileSight 
+Delay = 2
+Round = 4
+ReloadTime = 100
+SoundDelay = 1
+LockTime = 0
+ModeNum = 1
+ModelBullet = stapm
+Sound = missile_1_snd
+
+MaxAmmo = 96
+SuppliedNum = 8
+Item =  2, iron_ingot
+Item =  3, gunpowder
+Item =  2, redstone

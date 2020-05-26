@@ -1,0 +1,134 @@
+DisplayName =  BCY-WG
+AddDisplayName = BCY-WG
+ItemID = 32291
+Speed = 1.1
+Sound = plane
+StepHeight = 3.5
+
+AddRecipe = "YXY",  "XXX",  "XDX",  X, iron_block, Y, iron_ingot, D,dye,15
+
+
+
+
+CameraPosition = 0.0, 13.60, 0.00, true
+HUD = heli,
+
+AddPartCamera = 0, 10.4183, 2.3494, true, false
+
+AddSeat = 0.00,  10.60,  0.00
+HideEntity = true
+
+EnableGunnerMode = false
+EnableNightVision = false
+EnableEntityRadar = true
+
+
+MobilityYawOnGround = 10.0
+MobilityYaw = 20.0
+MobilityPitch = 10.0
+MobilityRoll = 1.0
+MinRotationPitch = -90
+MaxRotationPitch =  90
+MinRotationRoll  = -30
+MaxRotationRoll  =  30
+
+ThrottleUpDown = 20.0
+EnableBack = true
+DamageFactor = 0.01
+ArmorDamageFactor = 0.1
+ArmorMinDamage = 2
+
+
+Float  = false
+MaxHp = 383
+
+MaxFuel         = 1200
+FuelConsumption = 1.0
+
+EnableVtol = true
+DefaultVtol = false
+VtolYaw = 20.0
+VtolPitch = 20.0
+
+
+
+AddWeapon = acgun2, 1.8998, 11.74, -0.1802, 2, -2, true, 1, 0,-70,20, -80,80
+AddWeapon = acgun1,-2.0057, 11.74, -0.1802,  -2, -2, true, 1, 0,-20,70, -80,80
+
+AddPartWeapon        = acgun2, false, true, true,  1.8998, 11.74, -0.1802, -0.01
+AddPartWeapon        = acgun1, false, true, true,  -1.8998, 11.74, -0.1802, -0.01
+
+AddWeapon = wgmissle,  5.4414,  13.7897, -2.0797,  0, -45,  true,1
+AddWeapon = wgmissle3,  5.4414,  13.7897, -2.0797,  0, -45,  true,1
+AddWeapon = wgmissle2,  -5.4414,  13.7897, -2.0797,  -3, 0,  true,1, 0,-40,20, -70,70
+
+AddWeapon = aa2, 0, 9.5, 0,  0, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 0, true, 1
+
+AddPartSlideRotLG = 2.1782, 0.9148, -0.6192,  1.8893, 12.1037, -2.0062, 0, 0, 0, 0
+AddPartSlideRotLG = -2.1782, 0.9148, -0.6192,  -1.8893, 12.1037, 2.0062, 0, 0, 0, 0
+
+AddPartLG = 0, 10.1828, 0, 1, 0, 0, 10
+
+AddPartSlideRotLG = 0, 0.0247, -0.2836,  0.6984, 8.55, 0, 1, 0, 0, 80
+AddPartSlideRotLG = 0.0980, -0.9125, -3.3444,  1.5694, 5.7907, 0.5060, 1, 0, 0, 50
+
+
+AddPartSlideRotLG = 0, 0.0247, -0.2836,  -0.6984, 8.55, 0, 1, 0, 0, 80
+AddPartSlideRotLG = -0.0980, -0.9125, -3.3444,  -1.5694, 5.7907, 0.5060, 1, 0, 0, 50
+
+AddPartLG = 2.0117, 12.7974, -2.4389, 1, 0, 0, 160, 0, 0, 1, -24
+AddPartLG = 2.9223, 12.2725, -2.5619, 1, 0, 0, -160, 0, 0, 1, -24
+AddPartLG = 3.6066, 13.1265, -2.6626, 1, 0, 0, 160, 0, 0, 1, -24
+AddPartSlideRotLG = 2.1782, -0.7548, 0.8792,  2.3023, 11.4083, -2.4389, 1, 0, 0, -160
+AddPartSlideRotLG = 2.1782, -1.1148, 0.3192,  2.9205, 12.2589, -2.5363, 1, 0, 0, 160
+AddPartSlideRotLG = 2.1782, -0.7548, 0.8792,  3.8477, 11.7370, -2.6626, 1, 0, 0, -160
+AddPartSlideRotLG = 2.7782, 0.7148, -0.6192,  4.4348, 12.4669, -2.7669, 0, 0, 0, 0
+
+AddPartLG = -2.0117, 12.7974, -2.4389, 1, 0, 0, 160, 0, 0, 1, 24
+AddPartLG = -2.9223, 12.2725, -2.5619, 1, 0, 0, -160, 0, 0, 1, 24
+AddPartLG = -3.6066, 13.1265, -2.6626, 1, 0, 0, 160, 0, 0, 1, 24
+AddPartSlideRotLG = -2.1782, -0.7548, 0.8792,  -2.3023, 11.4083, -2.4389, 1, 0, 0, -160
+AddPartSlideRotLG = -2.1782, -1.1148, 0.3192,  -2.9205, 12.2589, -2.5363, 1, 0, 0, 160
+AddPartSlideRotLG = -2.1782, -0.7548, 0.8792,  -3.8477, 11.7370, -2.6626, 1, 0, 0, -160
+AddPartSlideRotLG = -2.7782, 0.7148, -0.6192,  -4.4348, 12.4669, -2.7669, 0, 0, 0, 0
+
+AddPartLG = 1.2693, 9.4839, -4.9977, 1, 0, 0, -180, 0, 1, 0, 20
+AddPartLG = -1.2693, 9.4839, -4.9977, 1, 0, 0, -180, 0, 1, 0, -20
+
+AddPartSlideRotLG = 0, -0.55, 0.40,  0, 11.5680, 0.6990, 0, 0, 0, 0
+
+AddPartWing = 1.0512, 11.0323, 1.2288, 0, 1, 0, -90
+AddPartWing = -1.0512, 11.0323, 1.2288, 0, 1, 0, 90
+VariableSweepWing = true
+SweepWingSpeed = 10.0
+
+
+
+BoundingBox =  0.0, 9.8, 0.0,  3.5, 4.0
+BoundingBox =  2.7, 11.4, 0.0,  2.0, 1.0
+BoundingBox =  -2.7, 11.4, 0.0,  2.0, 1.0
+
+AddRack = bcy-vob,  0.0, 11.46, -1.0043,  0.0, 11.46, -3.5043,  5.0, 1

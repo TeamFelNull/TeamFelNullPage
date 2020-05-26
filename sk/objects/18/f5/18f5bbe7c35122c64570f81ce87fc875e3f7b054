@@ -1,0 +1,21 @@
+DisplayName = 15.5cm Canon
+Type = MachineGun1
+ModelBullet = 91ap
+Power = 60
+Acceleration = 6
+Explosion = 5
+ExplosionBlock = 3
+ExplosionInWater = 4
+Flaming = false
+Sight = MoveSight
+Delay = 0
+Round = 3
+ReloadTime = 140
+SoundDelay = 4
+SoundPitch = 0.3
+Sound = cannon_1_snd
+
+MaxAmmo = 60
+SuppliedNum = 20
+Item =  6, iron_ingot
+Item =  6, gunpowder

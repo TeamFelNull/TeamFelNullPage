@@ -1,0 +1,17 @@
+DisplayName = 051ANNR
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 40
+Acceleration = 10
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 10
+Round = 30
+ReloadTime = 30
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 240
+SuppliedNum = 30
+Item =  2, iron_ingot
+Item =  2, gunpowder

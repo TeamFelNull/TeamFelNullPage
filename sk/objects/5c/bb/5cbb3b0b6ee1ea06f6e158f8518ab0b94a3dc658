@@ -1,0 +1,20 @@
+DisplayName = GAU-8 Avenger
+Type = MachineGun1
+Power = 30
+Acceleration = 6.0
+Explosion = 3
+ExplosionBlock = 1
+Flaming = false
+Sight = MoveSight
+Delay = 0
+ReloadTime = 150
+Round = 30
+SoundDelay = 3
+SoundPitch = 1.0
+Sound = gun_h5_snd
+Accuracy = 2.0
+
+MaxAmmo = 1200
+SuppliedNum = 200
+Item =  3, iron_ingot
+Item =  2, gunpowder

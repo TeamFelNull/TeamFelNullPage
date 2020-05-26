@@ -1,0 +1,103 @@
+DisplayName =  BCY-Lisa
+AddDisplayName = BCY-Lisa
+ItemID = 32296
+Speed = 2.0
+Sound = plane
+StepHeight = 2.5
+
+AddRecipe = "XGX",  "RXR",  "YXY",  X, iron_block, Y, iron_ingot, G, dye,1, R, dye,2
+
+CameraPosition = 0.0, 11.14, 0.50, true
+HUD = heli
+
+AddSeat = 0.00,  8.35,  0.00
+HideEntity = true
+
+EnableGunnerMode = false
+EnableNightVision = false
+EnableEntityRadar = true
+
+
+MobilityYaw = 20.0
+MobilityPitch = 10.0
+MobilityRoll = 2.0
+MinRotationPitch = -90
+MaxRotationPitch =  90
+MinRotationRoll  = -40
+MaxRotationRoll  =  40
+
+ThrottleUpDown = 40.0
+DamageFactor = 0.01
+ArmorDamageFactor = 0.1
+ArmorMinDamage = 1
+
+Float  = false
+MaxHp = 377
+
+MaxFuel         = 1200
+FuelConsumption = 1.0
+
+AddWeapon = lisashotgun, -2.4034, 8.0837, 0.2558, -3, -2, true, 1, 0,-30,70, -70,80
+AddWeapon = lisarifle,  2.4109, 8.0888, 0.2558,  3, -2, true, 1, 0,-70,30, -70,80
+
+AddWeapon = lisachain,  1.6090, 11.3608, -0.7145,  2, 0,  true,1,0,0,0, -15,15
+
+
+AddPartWeapon = lisashotgun, false, true, true,  -1.2037, 8.7974, 0.2558
+AddPartWeapon = lisarifle, false, true, true,  1.2037, 8.7974, 0.2558
+
+AddPartWeapon = lisachain, false, true, true,  1.5071, 10.6338, -0.7145
+
+
+AddWeapon = lisamis1,  -2.2785, 10.4833, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis1,  -2.2785, 10.7333, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis1,  -2.2785, 11.9833, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis1,  -2.2785, 11.2333, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+
+AddWeapon = lisamis2,  -2.2785, 10.4833, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis2,  -2.2785, 10.7333, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis2,  -2.2785, 11.9833, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+AddWeapon = lisamis2,  -2.2785, 11.2333, 1.4487,  0, 0,  true,1, 0,0,0, 0,0
+
+AddPartWeaponBay = lisamis1 / lisamis2, -1.2136, 9.5115, -0.7576, 1, 0, 0, 80
+
+
+AddWeapon = aa2, 0, 9.5, 0,  0, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, -35, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  0, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -45, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -90, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  -135, 0, true, 1
+AddWeapon = aa2, 0, 9.5, 0,  180, 0, true, 1
+
+BoundingBox =  0.0, 7.76, 0.0,  3.5, 4.0
+BoundingBox =  2.5, 9.5, 0.2,  1.5, 1.0
+BoundingBox =  -2.5, 9.5, 0.2,  1.5, 1.0
+
+
+AddPartSlideRotLG = -0.0404, -0.1587, -0.6058,  1.5432, 4.9171, 0.7610, 1, 0, 0, -35
+AddPartSlideRotLG = -0.0404, -1.1342, 1.2143,  1.8654, 4.3430, -1.1955, 1, 0, 0, 30
+
+AddPartSlideRotLG = 0.0404, -0.1587, -0.6058,  -1.5432, 4.9171, 0.7610, 1, 0, 0, -35
+AddPartSlideRotLG = 0.0404, -1.1342, 1.2143,  -1.8654, 4.3430, -1.1955, 1, 0, 0, 30
+
+
+AddPartLG = 0.5125, 6.3544, -0.19, 1, 0, 0, 20
+AddPartLG = -0.5125, 6.3544, -0.19, 1, 0, 0, 20

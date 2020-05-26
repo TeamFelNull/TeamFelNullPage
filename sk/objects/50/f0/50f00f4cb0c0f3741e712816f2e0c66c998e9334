@@ -1,0 +1,29 @@
+# Configuration file
+
+fuel {
+    B:consumeFuel=true
+    I:consumedFuelLevel=1
+}
+
+
+upgrade {
+    I:biomeTurtlePID=1106
+    I:danmakuTurtlePID=1301
+    I:dimensionalTurtlePID=1107
+    I:feedingTurtleTID=1003
+    I:fisheryTurtleTID=1005
+    I:fortuneTurtlePID=1102
+    I:lightTurtlePID=1105
+    I:liquidTurtleTID=1001
+    I:lootingTurtlePID=1103
+    I:luckTurtlePID=1104
+    I:maidTurtleTID=1203
+    I:milkingTurtleTID=1004
+    I:projectileTurtlePID=1108
+    I:shearsTurtleTID=1002
+    I:silkTouchTurtlePID=1101
+    I:takeTurtleTID=1201
+    I:tofuTurtleTID=1202
+}
+
+

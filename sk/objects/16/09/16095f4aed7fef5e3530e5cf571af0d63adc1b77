@@ -1,0 +1,17 @@
+DisplayName = AR-0700
+Type = MachineGun1
+ModelBullet = bullet76mm
+Power = 30
+Acceleration = 8
+AccelerationInWater = 5.0
+Sight = MoveSight
+Delay = 6
+Round = 36
+ReloadTime = 14
+SoundDelay = 1
+Sound = gun_h2_snd
+
+MaxAmmo = 180
+SuppliedNum = 36
+Item =  1, iron_ingot
+Item =  2, gunpowder
