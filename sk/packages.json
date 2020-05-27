@@ -49,7 +49,7 @@
       "key" : null,
       "gameVersion" : "1.7.10",
       "server" : {
-        "serverHost" : "felnull.dip.jp",
+        "serverHost" : "play.servg.red",
         "serverPort" : 25565
       },
       "features" : [ ],
