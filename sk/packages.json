@@ -29,19 +29,6 @@
       "priority" : 3
     },
     {
-      "title" : "TestServer",
-      "thumb" : "https://i.gyazo.com/933ae526ab881980197054dd3d4c84f4.png",
-      "name" : "Pack10",
-      "version" : "2020-05-07-13-13-26",
-      "key" : null,
-      "server" : {
-        "serverHost" : "test.servg.red",
-        "serverPort" : 25519
-      },
-      "location" : "pack10.json",
-      "priority" : 3
-    },
-    {
       "name" : "mpack-2",
       "title" : "OldFeliServer",
       "version" : "2020-05-26-21-36-21",
