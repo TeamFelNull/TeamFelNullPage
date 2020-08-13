@@ -1,0 +1,21 @@
+
+#Discord RichPresence Config File
+[Rich-Presence]
+	#First line of Rich Presence
+	Client-Name = "Minecraft 1.16.1"
+	#Placeholders:
+	#%ip%  Server IP
+	Server-Text = "Playing Online "
+	#Setting this to true disables name changing through GUI
+	Disable-Name-changing = false
+	#No placeholders supported, Text that shows when you are in the main menu
+	Main-Menu = "In Main Menu"
+	#Placeholders:
+	#%coords% (X:??? Y:??? Z:???)
+	#%world% World name
+	Singleplayer-Text = "Playing all alone.."
+	#Do you want to use development commands?
+	Dev-Commands = false
+	#Custom client id, see https://github.com/ErdbeerbaerLP/DiscordRichPresence/wiki/Set-up-custom-Icons-(for-Modpacks) for more info
+	client-id = "736699707178614845"
+

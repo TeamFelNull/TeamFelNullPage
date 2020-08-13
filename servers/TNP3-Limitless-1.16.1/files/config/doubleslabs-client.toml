@@ -1,0 +1,10 @@
+
+#General Settings
+[general]
+	#The list of slabs (or tags) which should use the lazy model rendering technique
+	#Lazy model rendering does not physically rotate the original slab model, but applies the same texture to a default vertical slab model
+	#This often yields better looking results with wooden planks and does not necessarily improve the look of all vertical slabs
+	lazy_vertical_slabs = ["#doubleslabs:plank_slabs"]
+	#The list of slabs (or tags) which should not be culled when combined
+	slab_cull_blacklist = ["#minecraft:campfires"]
+

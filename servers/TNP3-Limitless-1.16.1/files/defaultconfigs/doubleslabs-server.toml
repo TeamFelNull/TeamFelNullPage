@@ -1,0 +1,16 @@
+
+#General Settings
+[general]
+	#he list of slabs (or tags) to ignore when creating double slabs
+	#Example: minecraft:purpur_slab
+	slab_blacklist = ["improved-stations:crafting_station_slab", "improved-stations:furnace_slab", "improved-stations:smoker_slab", "improved-stations:blast_furnace_slab", "improved-stations:crafting_table_slab", "improved-stations:jukebox_slab", "improved-stations:loom_slab", "improved-stations:cartography_table_slab"]
+	#The list of slabs (or tags) to ignore when creating vertical slabs
+	#Example: minecraft:purpur_slab
+	vertical_slab_blacklist = ["improved-stations:crafting_station_slab", "improved-stations:furnace_slab", "improved-stations:smoker_slab", "improved-stations:blast_furnace_slab", "improved-stations:crafting_table_slab", "improved-stations:jukebox_slab", "improved-stations:loom_slab", "improved-stations:cartography_table_slab"]
+	#Whether to use the custom double slab when combining slabs of the same type
+	replace_same_slab = true
+	#Whether to disable the placement of vertical slabs from regular horizontal slabs when holding shift
+	disable_vertical_slab_placement = false
+	#Whether to use an alternate system when placing vertical slabs
+	alternate_vertical_slab_placement = true
+

@@ -1,0 +1,78 @@
+
+[Stone_Settings]
+
+	[Stone_Settings.Soapstone]
+		#Range: 0 ~ 100
+		SoapstoneChance = 10
+		#Range: 0 ~ 256
+		SoapstoneMaxY = 30
+		#Range: 0 ~ 35
+		SoapstoneSize = 24
+
+	[Stone_Settings.Scoria_Stone]
+		#Range: 0 ~ 100
+		ScoriaStoneChance = 10
+		#Range: 0 ~ 256
+		ScoriaStoneMaxY = 20
+		#Range: 0 ~ 35
+		ScoriaStoneSize = 24
+
+	[Stone_Settings.Rocky_Stone]
+		#Range: 0 ~ 100
+		RockyStoneSize = 0
+		#Range: 0 ~ 100
+		RockyStoneChance = 4
+		#Range: 0 ~ 256
+		RockyStoneMaxY = 256
+
+#External Biomes. World settings for custom nether/end/byg: https://gist.github.com/CorgiTaco/f5716864bc7b63b04aa547ccfc0e846a
+[Dimension_Settings]
+	#Add external End biomes by their registry names in a commented list.
+	ExternalEndBiomes = ""
+	#Add external Nether biomes by their registry names in a commented list.
+	#Range: 0 ~ 10
+	EndBiomeSize = 3
+	#Add external Nether biomes by their registry names in a commented list.
+	#Range: 0 ~ 10
+	NetherBiomeSize = 3
+	#Add Nether biomes by their registry names(IDs) in a commented list.
+	# Adding a biome several times gives it more weight in generation.
+	# Default: "byg:embur_bog,byg:glowstone_gardens,byg:sythian_torrids,byg:warped_desert,minecraft:basalt_deltas,minecraft:crimson_forest,minecraft:nether_wastes,minecraft:soul_sand_valley,minecraft:warped_forest".
+	NetherBiomes = "byg:embur_bog,byg:glowstone_gardens,byg:sythian_torrids,byg:warped_desert,minecraft:basalt_deltas,minecraft:crimson_forest,minecraft:nether_wastes,minecraft:soul_sand_valley,minecraft:warped_forest"
+
+[Ore_Settings]
+
+	#Pendorite is exclusive to Forest Fault!
+	[Ore_Settings.Pendorite]
+		#Range: 0 ~ 256
+		PendoriteMaxY = 56
+		#Range: 0 ~ 16
+		PendoriteSize = 4
+		#Range: 0 ~ 100
+		PendoriteChance = 10
+
+	#Ametrine is exclusive to Guiana Shield!
+	[Ore_Settings.Ametrine]
+		#Range: 0 ~ 100
+		AmetrineChance = 10
+		#Range: 0 ~ 256
+		AmetrineMaxY = 56
+		#Range: 0 ~ 16
+		AmetrineSize = 4
+
+#BYG WorldType Settings
+[World_Settings]
+	#Vanilla BiomeSounds. Default is true
+	VanillaBiomes = true
+	#Add external COOL biomes by their registry names in a commented list.
+	ExternalCOOLBiomes = ""
+	#Add external ICY biomes by their registry names in a commented list.
+	ExternalICYBiomes = ""
+	#Biome Size, Default 1.
+	#Range: 0 ~ 25
+	BiomeSize = 4
+	#Add external WARM biomes by their registry names in a commented list.
+	ExternalWARMBiomes = ""
+	#Add external HOT biomes by their registry names in a commented list.
+	ExternalHOTBiomes = ""
+

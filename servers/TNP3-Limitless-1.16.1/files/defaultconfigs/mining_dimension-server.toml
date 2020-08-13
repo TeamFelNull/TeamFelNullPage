@@ -1,0 +1,25 @@
+#The dimension from where you can teleport to the mining dimension and back
+overworld_dimension = "minecraft:overworld"
+
+[world_generation]
+	#Range: 0.0 ~ 1.0
+	canyon_percentage = 0.02
+	#If lava should be generated in caves below level 11
+	lava = false
+	#Note that setting this to false can cause players to fall into the void
+	bedrock_floor = true
+	#Note that setting this to false causes the game to spawn mobs on top of the world
+	bedrock_ceiling = true
+	#Range: 0.0 ~ 1.0
+	cave_percentage = 0.15
+
+	[world_generation.lava_lakes]
+		#Range: 0 ~ 1024
+		chance = 0
+		enabled = false
+
+	[world_generation.spawners]
+		#Range: 0 ~ 1024
+		chance = 0
+		enabled = false
+

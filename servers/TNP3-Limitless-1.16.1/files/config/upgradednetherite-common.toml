@@ -1,0 +1,17 @@
+
+["Armor Options"]
+	#Phantom Upgraded Armor effect require to wear full set ?
+	PhantomUpgradedRequireSet = true
+	#Fire Upgraded Armor effect require to wear full set ?
+	FireUpgradedRequireSet = true
+	#Ender Upgraded Armor effect require to wear full set ?
+	EnderUpgradedRequireSet = true
+	#Gold Upgraded Armor effect require to wear full set ?
+	GoldUpgradedRequireSet = true
+	#Water Upgraded Armor effect require to wear full set ?
+	WaterUpgradedRequireSet = true
+	#Poison Upgraded Armor effect require to wear full set ?
+	PoisonUpgradedRequireSet = true
+	#Wither Upgraded Armor effect require to wear full set ?
+	WitherUpgradedRequireSet = true
+

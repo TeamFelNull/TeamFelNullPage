@@ -1,0 +1,130 @@
+
+#'Variant16x' Common Configuration File
+[variant16x]
+
+	#General Settings
+	#NOTE: Changing 'General Settings' WILL OVERRIDE Custom Settings!
+	[variant16x.general]
+		#Enables/Disables ALL Pressure Plate Variants
+		enablePressurePlates = true
+		#Enables/Disables ALL Button Variants
+		enableButtons = true
+		#Enables/Disables ALL Miscellaneous Variants
+		enableMiscellaneous = true
+		#Enables/Disables ALL Stairs Variants
+		enableStairs = true
+		#Enables/Disables ALL Wall Variants
+		enableWalls = true
+		#Enables/Disables ALL Fence Gate Variants
+		enableFenceGates = true
+		#Enables/Disables ALL Fence Variants
+		enableFences = true
+		#Enables/Disables ALL Slab Variants
+		enableSlabs = true
+
+	#Custom Wall Settings
+	[variant16x.walls]
+		#Enables/Disables Stone/Other Wall Variants
+		enableStoneWalls = true
+		#Enables/Disables Obsidian Wall
+		enableObsidianWalls = true
+		#Enables/Disables Glass Wall Variants
+		enableGlassWalls = true
+		#Enables/Disables Wool Wall Variants
+		enableWoolWalls = true
+		#Enables/Disables Terracotta Wall Variants
+		enableTerracottaWalls = true
+		#Enables/Disables Concrete Wall Variants
+		enableConcreteWalls = true
+
+	#Custom Fence Settings
+	[variant16x.fences]
+		#Enables/Disables Wood/Hyphae Fence Variants
+		enableWoodFences = true
+		#Enables/Disables Red Nether Brick Fence
+		enableStoneFences = true
+
+	#Custom Button Settings
+	[variant16x.buttons]
+		#Enables/Disables Stone/Other Button Variants
+		enableStoneButtons = true
+		#Enables/Disables Terracotta Button Variants
+		enableTerracottaButtons = true
+		#Enables/Disables Concrete Button Variants
+		enableConcreteButtons = true
+		#Enables/Disables Obsidian Button
+		enableObsidianButtons = true
+		#Enables/Disables Wood/Hyphae Button Variants
+		enableWoodButtons = true
+		#Enables/Disables Wool Button Variants
+		enableWoolButtons = true
+		#Enables/Disables Glass Button Variants
+		enableGlassButtons = true
+
+	#Custom Miscellaneous Settings
+	[variant16x.miscellaneous]
+		#Enables/Disables Infested Variants
+		enableInfestedStones = true
+		#Enables/Disables Music Disc: C418 - dog
+		enableMusicDiscs = true
+		#Enables/Disables Flower Variants
+		enableSmallFlowers = true
+
+	#Custom Pressure Plate Settings
+	[variant16x.pressurePlates]
+		#Enables/Disables Wood/Hyphae Pressure Plate Variants
+		enableWoodPressurePlates = true
+		#Enables/Disables Wool Pressure Plate Variants
+		enableWoolPressurePlates = true
+		#Enables/Disables Concrete Pressure Plate Variants
+		enableConcretePressurePlates = true
+		#Enables/Disables Stone/Other Pressure Plate Variants
+		enableStonePressurePlates = true
+		#Enables/Disables Obsidian Pressure Plate
+		enableObsidianPressurePlates = true
+		#Enables/Disables Glass Pressure Plate Variants
+		enableGlassPressurePlates = true
+		#Enables/Disables Weighted Pressure Plate Variants
+		enableWeightedPressurePlates = true
+		#Enables/Disables Terracotta Pressure Plate Variants
+		enableTerracottaPressurePlates = true
+
+	#Custom Stairs Settings
+	[variant16x.stairs]
+		#Enables/Disables Wood/Hyphae Stairs Variants
+		enableWoodStairs = true
+		#Enables/Disables Glass Stairs Variants
+		enableGlassStairs = true
+		#Enables/Disables Terracotta Stairs Variants
+		enableTerracottaStairs = true
+		#Enables/Disables Stone/Other Stairs Variants
+		enableStoneStairs = true
+		#Enables/Disables Obsidian Stairs
+		enableObsidianStairs = true
+		#Enables/Disables Wool Stairs Variants
+		enableWoolStairs = true
+		#Enables/Disables Concrete Stairs Variants
+		enableConcreteStairs = true
+
+	#Custom Fence Gate Settings
+	[variant16x.fenceGates]
+		#Enables/Disables Wood/Hyphae Fence Gate Variants
+		enableWoodFenceGates = true
+
+	#Custom Slab Settings
+	[variant16x.slabs]
+		#Enables/Disables Wool Slab Variants
+		enableWoolSlabs = true
+		#Enables/Disables Wood/Hyphae Slab Variants
+		enableWoodSlabs = true
+		#Enables/Disables Terracotta Slab Variants
+		enableTerracottaSlabs = true
+		#Enables/Disables Stone/Other Slab Variants
+		enableStoneSlabs = true
+		#Enables/Disables Concrete Slab Variants
+		enableConcreteSlabs = true
+		#Enables/Disables Obsidian Slab
+		enableObsidianSlabs = true
+		#Enables/Disables Glass Slab Variants
+		enableGlassSlabs = true
+

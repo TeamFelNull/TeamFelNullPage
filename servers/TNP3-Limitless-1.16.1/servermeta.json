@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "TNP3-Limitless (Minecraft 1.16.1)",
+    "description": "TNP3-Limitless Running Minecraft 1.16.1 (Forge v32.0.108)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "709790494020075551",
+      "largeImageText": "TeamFelNullLauncher",
+      "largeImageKey": "general"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "32.0.108"
+  }
+}

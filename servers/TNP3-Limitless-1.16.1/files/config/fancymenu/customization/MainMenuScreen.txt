@@ -1,0 +1,258 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = fancymain/backgroundpack.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-right
+  x = -89
+  action = movebutton
+  y = -48
+}
+
+customization {
+  identifier = %id=502382%
+  width = 90
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = fancymain/quitbuttonhover.png
+  backgroundnormal = fancymain/quitbutton.png
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -81
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=400322%
+  width = 164
+  action = resizebutton
+  height = 23
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = fancymain/mpbuttonhover.png
+  backgroundnormal = fancymain/mpbutton.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -82
+  action = movebutton
+  y = -43
+}
+
+customization {
+  identifier = %id=400298%
+  width = 164
+  action = resizebutton
+  height = 23
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = fancymain/singlebutton.png
+  backgroundnormal = fancymain/spbuttonnormal.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=400382%
+  width = 108
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = fancymain/optionsbuttonhover.png
+  backgroundnormal = fancymain/optionsbutton.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -30
+  action = movebutton
+  y = 62
+}
+
+customization {
+  identifier = %id=400346%
+  width = 57
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = fancymain/modsbuttonhovered.png
+  backgroundnormal = fancymain/modsbutton.png
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -56
+  width = 106
+  action = addbutton
+  y = 41
+  backgroundhovered = fancymain/changelogsbuttnohover.png
+  label = 
+  backgroundnormal = fancymain/changelogsbutton.png
+  value = https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md
+  height = 16
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -57
+  width = 113
+  action = addbutton
+  y = 108
+  backgroundhovered = fancymain/hostserverbuttonhovered.png
+  label = 
+  backgroundnormal = fancymain/hostserverbutton.png
+  value = https://bisecthosting.com/gbergz
+  height = 21
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  centered = false
+  x = 2
+  action = addtext
+  y = -42
+  scale = 1.0
+  value = T§cN§fP §cL§fimit§cl§fess 3
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  centered = false
+  x = 3
+  action = addtext
+  y = -32
+  scale = 1.0
+  value = Pack Version: 0.8.2
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  centered = false
+  x = 3
+  action = addtext
+  y = -22
+  scale = 1.0
+  value = Mods Loaded: 189
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  centered = false
+  x = 3
+  action = addtext
+  y = -12
+  scale = 1.0
+  value = §7Minecraft 1.16.1
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -43
+  width = 82
+  action = addbutton
+  y = 84
+  backgroundhovered = fancymain/discordhover.png
+  label = 
+  backgroundnormal = fancymain/discordnormal.png
+  value = https://discord.gg/G9wwcgQ
+  height = 21
+}
+

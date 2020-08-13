@@ -1,0 +1,15 @@
+
+["spawn chances"]
+	#Spawn rates. Set weight to 0 to disable.
+	#Range: 2 ~ 64
+	min = 2
+	#Range: 2 ~ 64
+	max = 7
+	#Range: 0 ~ 100
+	weight = 20
+
+["spawnable biomes"]
+	#Biomes in which deer spawn and exclusions
+	include = ["FOREST", "SNOWY", "DENSE", "MOUNTAIN", "HILLS"]
+	exclude = ["BEACH", "END", "NETHER", "JUNGLE", "SANDY"]
+

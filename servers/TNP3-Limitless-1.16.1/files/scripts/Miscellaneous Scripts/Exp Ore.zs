@@ -1,0 +1,1 @@
+craftingTable.removeRecipe(<item:exp_ore:block_exp_ore>);

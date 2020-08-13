@@ -1,0 +1,15 @@
+
+["General Category"]
+	#All blocks are spawned under the player (0 false, 1 true)
+	#Range: 0 ~ 1
+	vacuum = 1
+	#Maximum blocks to break with one excavation (Integer)
+	#Range: > 1
+	max = 128
+	#Multiply the default Minecraft block exhaustion by this much (Double)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	exhaustion = 90.0
+	#Does the player need to mine with a valid tool? (0 false, 1 true)
+	#Range: 0 ~ 1
+	tool = 0
+

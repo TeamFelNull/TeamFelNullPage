@@ -1,0 +1,73 @@
+
+["minecraft:gravel"]
+	size = 33
+	count = 8
+	max_height = 256
+	enabled = false
+
+["minecraft:diorite"]
+	size = 33
+	count = 10
+	max_height = 80
+	enabled = false
+
+["minecraft:gold_ore"]
+	size = 9
+	count = 2
+	max_height = 32
+	enabled = true
+
+["minecraft:redstone_ore"]
+	size = 8
+	count = 8
+	max_height = 16
+	enabled = true
+
+["minecraft:andesite"]
+	size = 33
+	count = 10
+	max_height = 80
+	enabled = false
+
+["minecraft:dirt"]
+	size = 33
+	count = 10
+	max_height = 256
+	enabled = false
+
+["minecraft:granite"]
+	size = 33
+	count = 10
+	max_height = 80
+	enabled = false
+
+["minecraft:iron_ore"]
+	size = 9
+	count = 20
+	max_height = 64
+	enabled = true
+
+["minecraft:emerald_ore"]
+	size = 3
+	count = 1
+	max_height = 32
+	enabled = false
+
+["minecraft:coal_ore"]
+	size = 17
+	count = 20
+	max_height = 128
+	enabled = true
+
+["minecraft:diamond_ore"]
+	size = 8
+	count = 1
+	max_height = 16
+	enabled = true
+
+["minecraft:lapis_ore"]
+	size = 7
+	count = 1
+	max_height = 16
+	enabled = true
+

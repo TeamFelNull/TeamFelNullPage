@@ -1,0 +1,41 @@
+{
+  "minecraft": {
+    "crop_progress": true,
+    "comparator": true,
+    "hide_infestations": true,
+    "display_furnace_contents": true,
+    "jukebox": true,
+    "lever": true,
+    "spawner_type": true,
+    "redstone": true,
+    "repeater": true
+  },
+  "harvestability": {
+    "unharvestableonly": false,
+    "toolrequiredonly": true,
+    "harvestlevel.sneakingonly": false,
+    "currentlyharvestable.sneakingonly": false,
+    "shearability.sneakingonly": false,
+    "harvestlevelnum.sneakingonly": false,
+    "harvestlevel": false,
+    "minimal": false,
+    "effectivetool.sneakingonly": false,
+    "oresonly": false,
+    "currentlyharvestable": true,
+    "shearability": true,
+    "effectivetool": true,
+    "harvestlevelnum": false
+  },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "showpasswords": true,
+    "showcustomname": true
+  },
+  "waila": {
+    "show_registry": false,
+    "show_entity_hp": true,
+    "show_states": false,
+    "show_entities": true
+  }
+}

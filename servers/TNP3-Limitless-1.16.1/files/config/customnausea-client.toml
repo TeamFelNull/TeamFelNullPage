@@ -1,0 +1,11 @@
+#A multiplier for the strength of the nausea effect
+#Range: 0.0 ~ 10.0
+nauseaModifier = 1.0
+#A multiplier for the strength of the portal distortion effect
+#Range: 0.0 ~ 10.0
+portalModifier = 1.0
+#NORMAL - Players stumble when moving
+#ADVANCED - Players stumble even when standing still
+#Allowed Values: DISABLED, NORMAL, ADVANCED
+stumbling = "DISABLED"
+
