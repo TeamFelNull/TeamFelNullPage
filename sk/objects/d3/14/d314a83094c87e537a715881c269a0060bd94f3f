@@ -1,0 +1,260 @@
+# Configuration file
+
+general {
+    # Enable AdvancedTools Weapons Jaw Crusher Recipes? [default: true]
+    B:enableAdvancedToolsWeaponsRecipes=true
+
+    # Enable BluePower Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableBluePowerGemsRecipes=true
+
+    # Enable Botania Manasteel and Elementium Tools Recipes? [default: true]
+    B:enableBotaniaMetalsRecipes=true
+
+    # Enable Caveworld Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableCaveworldGemsRecipes=true
+
+    # Enable from Clay(Block) to Clay(Item) Recipe? [default: true]
+    B:enableClayRecipes=true
+
+    # Enable CopperTools Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableCopperToolsGemsRecipes=true
+
+    # Enable AMT2 Jaw Crusher Recipes? [default: true]
+    B:enableCrusherRecipes=true
+
+    # Enable Diamond Tools Jaw Crusher Recipes? [default: true]
+    B:enableDiamondRecipes=true
+
+    # Enable Emerald Tools Jaw Crusher Recipes? [default: true]
+    B:enableEmeraldRecipes=true
+
+    # Enable AMT2 Evaporator Recipes? [default: true]
+    B:enableEvaporatorRecipes=true
+
+    # Enable Stone Tools Recipe with Ex Nihilo? [default: true]
+    B:enableExNihiloStoneRecipes=true
+
+    # Enable Gany's Mod Tools Jaw Crusher Recipes? [default: true]
+    B:enableGanysModIngotsRecipes=true
+
+    # Enable MOres Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableMOresGemsRecipes=true
+
+    # Enable MekanismTools Osmium Tools Jaw Crusher Recipes? [default: true]
+    B:enableMekanismMetalsRecipes=true
+
+    # Enable Metallurgy More Metal Tools Jaw Crusher Recipes? [default: true]
+    B:enableMetallurgy4MetalsRecipes=true
+
+    # Enable AMT2 Strange Slag More Loots? [default: true]
+    B:enableMoreSlagLoots=true
+
+    # Enable SimpleOres 2 Netherrocks Plugin Tools Jaw Crusher Recipes? [default: true]
+    B:enableNetherrocksPluginRecipes=true
+
+    # Enable Other Ores Jaw Crusher Recipes? [default: true]
+    B:enableOreCrusherRecipes=true
+
+    # Enable OresPlus Metal Tools Jaw Crusher Recipes? [default: true]
+    B:enableOresPlusMetalsRecipes=true
+
+    # Enable AMT2 Food Processor Recipes? [default: true]
+    B:enableProcessorRecipes=true
+
+    # Enable Project:Red Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableProjectRedGemsRecipes=true
+
+    # Enable QuantumFlux Titanium Tools Jaw Crusher Recipes? [default: true]
+    B:enableQuantumFluxTitaniumRecipes=true
+
+    # Enable Block of Quartz Jaw Crusher Recipes? [default: true]
+    B:enableQuartzRecipes=true
+
+    # Enable Railcraft Poor Ores Jaw Crusher Recipes? [default: true]
+    B:enableRailcraftPoorOreCrusherRecipes=true
+
+    # Enable Sextiary Sector 2 Ninja Tools Jaw Crusher Recipes? [default: true]
+    B:enableSextiarySector2MetalsRecipes=true
+
+    # Enable Silent's Gems Gem Tools Jaw Crusher Recipes? [default: true]
+    B:enableSilentsGemsGemsRecipes=true
+
+    # Enable SimpleOres 2 Mythril and Adamantium Tools Jaw Crusher Recipes? [default: true]
+    B:enableSimpleOres2IngotsRecipes=true
+
+    # Enable SimpleOres 2 Onyx Tools Jaw Crusher Recipes? [default: true]
+    B:enableSimpleOres2OnyxRecipes=true
+
+    # Enable Steel Industries Titanium Tools Jaw Crusher Recipes? [default: true]
+    B:enableSteelIndustriesTitaniumRecipes=true
+
+    # Enable Thaumcraft4 Thaumium and Void metal Tools Recipes? [default: true]
+    B:enableThaumcraftMetalsRecipes=true
+
+    # Enable Twilight Forest Tools Jaw Crusher Recipes? [default: true]
+    B:enableTwilightForestRecipes=true
+
+    # Enable Utility Other Recipes? [default: true]
+    B:enableUtilRecipes=true
+
+    # Oredict Name:Crusher Type(0:like iron, 1:like gold, 2:gem, 3:crystal):Tier(0~3)
+    S:jawCrusherOreList <
+        Sulfur:0:1
+        Saltpeter:0:1
+        Aluminum:0:2
+        Vinteum:0:1
+        Tungsten:0:1
+        Manganese:1:2
+        Titanium:1:3
+        Cobalt:1:3
+        Ardite:1:3
+        Mithril:1:3
+        Adamantine:1:3
+        Teslatite:1:3
+        Osmium:1:3
+        Endium:1:3
+        Argonite:1:3
+        Fyrite:1:3
+        Illumenite:1:3
+        Malachite:1:3
+        Rutile:1:3
+        Electrotine:1:2
+        Lithium:1:2
+        Alduorite:1:3
+        AstralSilver:1:3
+        Atlarus:1:3
+        Carmot:1:3
+        Ceruclase:1:3
+        DeepIron:1:3
+        Eximite:1:3
+        Ignatius:1:3
+        Kalendrite:1:3
+        Lemurite:1:3
+        Magnesium:0:1
+        Meutoite:1:3
+        Midasium:1:3
+        Orichalcum:1:3
+        Oureclase:1:3
+        Prometheum:1:3
+        Rubracium:1:3
+        Sanguinite:1:3
+        ShadowIron:1:3
+        Vulcanite:1:3
+        Vyroxeres:1:3
+        Amber:2:3
+        Malachite:2:3
+        Tanzanite:2:3
+        Topaz:2:3
+        Onyx:2:3
+        Amethyst:2:3
+        Apatite:2:2
+        Aquamarine:2:3
+        Ashstone:2:3
+        Dragonstone:2:3
+        Emery:2:2
+        Beryl:2:3
+        Chaos:2:3
+        Garnet:2:3
+        Heliodor:2:3
+        Iolite:2:3
+        Morganite:2:3
+        QuartzBlack:2:2
+        BlueTopaz:2:2
+        Chimerite:2:3
+        Moonstone:2:3
+        Sunstone:2:3
+        HexoriumRed:2:3
+        HexoriumBlue:2:3
+        HexoriumGreen:2:3
+        HexoriumBlack:2:3
+        HexoriumWhite:2:3
+        CertusQuartz:3:3
+        Chrome:1:3
+        Uranium:1:3
+        Niter:1:1
+        Tritanium:1:3
+     >
+}
+
+
+"mod integration" {
+    B:"Integrate ActuallyAdditions"=true
+    B:"Integrate AdvancedTools"=true
+    B:"Integrate Aquaculture"=true
+    B:"Integrate Artifice"=true
+    B:"Integrate BambooMod"=true
+    B:"Integrate BiomesOPlenty"=true
+    B:"Integrate Botania"=true
+    B:"Integrate CC2"=true
+    B:"Integrate CopperTools"=true
+    B:"Integrate DP_SimpleFlight"=true
+    B:"Integrate Eln"=true
+    B:"Integrate ExtrabiomesXL"=true
+    B:"Integrate ForgeMicroblock"=true
+    B:"Integrate FunOres"=true
+    B:"Integrate Highlands"=true
+    B:"Integrate IC2"=true
+    B:"Integrate ImmersiveEngineering"=true
+    B:"Integrate Instrumentus"=true
+    B:"Integrate MagicCookie"=true
+    B:"Integrate MagnumOpus"=true
+    B:"Integrate MekanismTools"=true
+    B:"Integrate Metallurgy"=true
+    B:"Integrate Natura"=true
+    B:"Integrate NuclearCraft"=true
+    B:"Integrate OresPlus"=true
+    B:"Integrate ProjRed|Core"=true
+    B:"Integrate ProjRed|Expansion"=true
+    B:"Integrate ProjRed|Exploration"=true
+    B:"Integrate RArm"=true
+    B:"Integrate Railcraft"=true
+    B:"Integrate Schr0sPeelCleaver"=true
+    B:"Integrate SextiarySector"=true
+    B:"Integrate SilentGems"=true
+    B:"Integrate SmashBatsMod"=true
+    B:"Integrate SparksHammers"=true
+    B:"Integrate Steamcraft"=true
+    B:"Integrate SteelIndustries"=true
+    B:"Integrate TSteelworks"=true
+    B:"Integrate Thaumcraft"=true
+    B:"Integrate ThermalFoundation"=true
+    B:"Integrate TofuCraft"=true
+    B:"Integrate TwilightForest"=true
+    B:"Integrate WitchingGadgets"=true
+    B:"Integrate aether"=true
+    B:"Integrate algaecraft"=true
+    B:"Integrate battlegear2"=true
+    B:"Integrate betterbuilderswands"=true
+    B:"Integrate bluepower"=true
+    B:"Integrate caveworld"=true
+    B:"Integrate craftablechain"=true
+    B:"Integrate emeraldobsidianmod"=true
+    B:"Integrate eng_toolbox"=true
+    B:"Integrate exnihilo"=true
+    B:"Integrate exparmory"=true
+    B:"Integrate fusion"=true
+    B:"Integrate ganysend"=true
+    B:"Integrate ganysnether"=true
+    B:"Integrate ganyssurface"=true
+    B:"Integrate hammertime"=true
+    B:"Integrate hbm"=true
+    B:"Integrate jaff"=true
+    B:"Integrate jp-plusplus-fbs"=true
+    B:"Integrate magianaturalis"=true
+    B:"Integrate more"=true
+    B:"Integrate netherrocks"=true
+    B:"Integrate onlysilver"=true
+    B:"Integrate paxelMod"=true
+    B:"Integrate plantmegapack"=true
+    B:"Integrate quantumflux"=true
+    B:"Integrate s0baco.desertexpansion"=true
+    B:"Integrate sgs_metals"=true
+    B:"Integrate sheepmod"=true
+    B:"Integrate simpleores"=true
+    B:"Integrate thaumicbases"=true
+    B:"Integrate weaponmod"=true
+    B:"Integrate yegamolchattels"=true
+    B:"Integrate zombiebearbalkons"=true
+}
+
+

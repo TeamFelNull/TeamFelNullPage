@@ -1,0 +1,108 @@
+﻿DisplayName = Type4Heavy
+AddDisplayName = ja_JP, 四式重戦車
+ItemID = 33898
+MaxHp = 300
+Speed = 0.2
+ThrottleUpDown = 5.0
+Gravity = -0.1
+GravityInWater = -0.5
+DamageFactor = 0.1
+EnableNightVision = false
+EnableEntityRadar = false
+Sound = Tank
+HUD = ww2tank_hud, ww2tank_hud, ww2tank_hud
+WeightType = Tank
+DefaultFreelook = true
+ThirdPersonDist = 12
+
+AddTexture = Type4Heavy1
+AddTexture = Type4Heavy2
+
+AddGunnerSeat = 1.1, 4.0, 0.0,   1.1,   4.0,  0.44,   true,  -20, 10, true
+AddGunnerSeat = 0.5, 1.0, 1.0,   0.7,   3.0,  3.0,    false, -15,  7, false
+AddGunnerSeat = 0.0, 2.0, 0.0,   0.631, 5.4,  0.689,  false, -90, 30, true
+CameraPosition = 1.11, 5.1, 0.0, false
+CameraRotationSpeed = 8
+
+EnableBack = true
+SetWheelPos =  2.3,  -0.24,  6.0, 4.5,  3.0, 1.5, 0.0, -1.5, -3.0, -4.5
+
+SubmergedDamageHeight = 2
+WeightedCenterZ = 0.0
+
+OnGroundPitchFactor = 1.0
+OnGroundRollFactor  = 2.0
+
+MobilityYawOnGround = 1.3
+PivotTurnThrottle = 0.0
+
+StepHeight = 1.5
+InventorySize = 27
+ParticlesScale = 0.1
+SmoothShading = true
+HideEntity = true
+
+ArmorMinDamage = 20
+
+MotionFactor = 0.94
+
+MaxFuel         = 3000
+FuelConsumption = 4
+
+AddTrackRoller =  -2.5,  1.2676, 5.9532
+AddTrackRoller =  -2.5,  0.3765, 4.7048
+AddTrackRoller =  -2.5,  0.3765, 3.8081
+AddTrackRoller =  -2.5,  0.3765, 2.8706
+AddTrackRoller =  -2.5,  0.3765, 1.9739
+AddTrackRoller =  -2.5,  0.3765, 1.0007
+AddTrackRoller =  -2.5,  0.3765, 0.1039
+AddTrackRoller =  -2.5,  0.3765, -1.0023
+AddTrackRoller =  -2.5,  0.3765, -1.8991
+AddTrackRoller =  -2.5,  0.3765, -2.9276
+AddTrackRoller =  -2.5,  0.3765, -3.8244
+AddTrackRoller =  -2.5,  0.3765, -4.8197
+AddTrackRoller =  -2.5,  1.2676, -5.6525
+
+AddTrackRoller =   2.5,  1.2676, 5.9532
+AddTrackRoller =   2.5,  0.3765, 4.7048
+AddTrackRoller =   2.5,  0.3765, 3.8081
+AddTrackRoller =   2.5,  0.3765, 2.8706
+AddTrackRoller =   2.5,  0.3765, 1.9739
+AddTrackRoller =   2.5,  0.3765, 1.0007
+AddTrackRoller =   2.5,  0.3765, 0.1039
+AddTrackRoller =   2.5,  0.3765, -1.0023
+AddTrackRoller =   2.5,  0.3765, -1.8991
+AddTrackRoller =   2.5,  0.3765, -2.9276
+AddTrackRoller =   2.5,  0.3765, -3.8244
+AddTrackRoller =   2.5,  0.3765, -4.8197
+AddTrackRoller =   2.5,  1.2676, -5.6525
+
+AddCrawlerTrack = false, 0.4, -3.0,   1.8/ 5.95, 1.64/ 6.33, 1.27/ 6.48, 0.9/ 6.33, -0.11/ 5.19, -0.24/ 4.75, -0.24/ -4.90, -0.1/ -5.3,  0.89/ -6.05, 1.27/ -6.18, 1.64/ -6.03, 1.8/ -5.65
+AddCrawlerTrack = false, 0.4,  3.0,   1.8/ 5.95, 1.64/ 6.33, 1.27/ 6.48, 0.9/ 6.33, -0.11/ 5.19, -0.24/ 4.75, -0.24/ -4.90, -0.1/ -5.3,  0.89/ -6.05, 1.27/ -6.18, 1.64/ -6.03, 1.8/ -5.65
+
+TrackRollerRot = 20
+
+MinRotationPitch = -15
+MaxRotationPitch = 20
+
+AddTurretWeapon = 14cm3rdYearTypeCannon, 0.0, 3.52, 0.0,  0.0, 0.0, true,1, 0,-360,360, -20, 10
+AddPartWeapon = 14cm3rdYearTypeCannon , false, true, false,  0.0, 3.0, 0.0, 0
+AddPartWeaponChild = false, true, 0.0, 3.52, 2.735
+AddPartWeaponChild = false, true, 0.0, 3.52, 2.735, 0.7
+
+AddWeapon = Type1_37mmTankGun[APHE],  0.6446, 2.37, 3.58,  0.0, 0.0, false,2, 0,-3,3, -15, 7
+AddPartWeapon = Type1_37mmTankGun[APHE], false, true, true,  0.6446, 2.37, 3.58, 0
+AddPartWeaponChild = false, false, 0.6446, 2.37, 3.58, 0.3
+
+AddWeapon = Type97_7_7mmGun1,  0.945, 2.388, 3.58,  0.0, 0.0, false,2, 0,-0,0, -20, 7
+
+AddPartTurretWeapon    = Type97_7_7mmGun2,  false, true, false,  0.631, 5.08, 0.689
+AddPartTurretWeapon    = Type97_7_7mmGun2,  false, true, true,   0.631, 5.08, 0.689
+AddTurretWeapon = Type97_7_7mmGun2,   0.631, 5.08, 0.689,   0.0, 0.0, false, 3, 0, -360,360, -60,20
+
+AddRecipe = "IXD",  "SFS",  "XXX",   I, iron_ingot, X, iron_block, D, dispenser, F, furnace, S, diamond_block
+
+BoundingBox = 0.0, 1.2,  2.8, 5.0, 2.5, 0.5
+BoundingBox = 0.0, 1.2, -3.0, 5.0, 2.5, 1.0
+BoundingBox = 0.0, 2.6, -4.5, 3.0, 0.3, 1.5
+BoundingBox = 0.0, 3.3,  0.0, 4.5, 2.0, 0.7

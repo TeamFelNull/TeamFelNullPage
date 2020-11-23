@@ -1,0 +1,108 @@
+# Configuration file
+
+enchants {
+    # Allow the Auto Smelt enchant to be registered.
+    # [初期値\: true]
+    B:allowAutoSmelt=true
+
+    # Allow the Auto Smelt enchant to work with Fortune.
+    # [初期値\: true]
+    B:allowAutoSmeltWithFortune=true
+
+    # Allow the XP Boost enchant to be registered.
+    # [初期値\: true]
+    B:allowXPBoost=true
+
+    # Enchant ID for the Auto Smelt enchant.
+    # [範囲\: 0～255, 初期値\: 46]
+    I:enchantIDAutoSmelt=46
+
+    # Enchant ID for the XP boost enchant.
+    # [範囲\: 0～255, 初期値\: 45]
+    I:enchantIDXPBoost=45
+}
+
+
+general {
+    # Disabling this option will prevent any crops added to the config json from being right clickable.
+    # [初期値\: true]
+    B:allowCropRC=true
+
+    # Prevent tick speedup (i.e. torcherino) on any TE that uses the base TE class from EnderCore
+    # [初期値\: false]
+    B:allowExternalTickSpeedup=false
+
+    # The max amount of XP levels an anvil recipe can use.
+    # [初期値\: 40]
+    I:anvilMaxLevel=40
+
+    # The way the game should have been made (Yes this is the fireworks thing).
+    # [初期値\: true]
+    B:betterAchievements=true
+
+    # Controls the default sorting on the mod list GUI.
+    # 0 - Default sort (load order)
+    # 1 - A to Z sort
+    # 2 - Z to A sort
+    # [範囲\: 0～2, 初期値\: 1]
+    I:defaultModSort=1
+
+    # Removes all void fog.
+    # 0 = off
+    # 1 = DEFAULT worldtype only
+    # 2 = all world types
+    # [範囲\: 0～2, 初期値\: 1]
+    I:disableVoidFog=1
+
+    # Show durability on item tooltips.
+    # 0 - Off
+    # 1 - Always on
+    # 2 - Only with shift
+    # 3 - Only in debug mode
+    # [範囲\: 0～3, 初期値\: 1]
+    I:showDurabilityTooltips=1
+
+    # Show oredictionary names of every item in its tooltip.
+    # 0 - Off
+    # 1 - Always on
+    # 2 - Only with shift
+    # 3 - Only in debug mode
+    # [範囲\: 0～3, 初期値\: 2]
+    I:showOredictTooltips=2
+
+    # Show item registry names in tooltips.
+    # 0 - Off
+    # 1 - Always on
+    # 2 - Only with shift
+    # 3 - Only in debug mode
+    # [範囲\: 0～3, 初期値\: 3]
+    I:showRegistryNameTooltips=3
+
+    # 0 - Do nothing
+    # 1 - Remove stacktraces, leave 1-line missing texture errors
+    # 2 - Remove all missing texture errors completely.
+    # [範囲\: 0～2, 初期値\: 1]
+    I:textureErrorRemover=1
+}
+
+
+tweaks {
+    B:bookToPaperRecipe=true
+
+    # Makes boats stack to 16
+    # [初期値\: true]
+    B:changeBoatStackSize=true
+
+    # Makes the bed stepSound wool instead of stone
+    # [初期値\: true]
+    B:fixBedSound=true
+
+    # Allows packed ice to be mined with a pickaxe
+    # [初期値\: true]
+    B:fixPackedIceTool=true
+    B:infinibow=true
+    B:shapelessPaperRecipe=true
+    B:slabToBlockRecipes=true
+}
+
+

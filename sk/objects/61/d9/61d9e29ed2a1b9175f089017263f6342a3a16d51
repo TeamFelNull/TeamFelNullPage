@@ -1,0 +1,93 @@
+# Configuration file
+
+##########################################################################################################
+# crafting
+#--------------------------------------------------------------------------------------------------------#
+# Toggling of ability to craft items.
+##########################################################################################################
+
+crafting {
+    # Adds a custom chainmail recipe using chainlink.
+    # [初期値\: false]
+    B:addCustomChainmailRecipe=false
+
+    # [初期値\: true]
+    B:enableCapacitorBaubleCrafting=true
+
+    # [初期値\: true]
+    B:enableEnderiumFluxArmorCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidAxeCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidBattleWrenchCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidPickaxeCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidShovelCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidSickleCrafting=true
+
+    # [初期値\: true]
+    B:enableGelidSwordCrafting=true
+
+    # [初期値\: true]
+    B:enableLumiumArmorCrafting=true
+
+    # [初期値\: true]
+    B:enablePotahoeCrafting=true
+
+    # [初期値\: true]
+    B:enableRedstoneBootsCrafting=true
+
+    # [初期値\: true]
+    B:enableTuberousArmorCrafting=true
+}
+
+
+##########################################################################################################
+# features
+#--------------------------------------------------------------------------------------------------------#
+# Enabling and disabling of mod features.
+##########################################################################################################
+
+features {
+    # Determines whether to allow the axe to spawn lightning.
+    # [初期値\: true]
+    B:enableAxeLightning=true
+
+    # Determines whether to add an AOE effect to empowered axes.
+    # [初期値\: true]
+    B:enableAxeMultiBreak=true
+
+    # Determines whether to allow the axe to clear weather.
+    # [初期値\: true]
+    B:enableAxeWeatherClear=true
+
+    # Determines whether to add magnet mode while blocking with the sword.
+    # [初期値\: true]
+    B:enableSwordSuckage=true
+}
+
+
+##########################################################################################################
+# general
+#--------------------------------------------------------------------------------------------------------#
+# General category for other stuff.
+##########################################################################################################
+
+general {
+    # Nut likes random things so Nut added random things. These won't change gameplay.
+    # [初期値\: true]
+    B:addNutsToys=true
+
+    # Enable environment check console logging.
+    # [初期値\: true]
+    B:enableConsoleLogging=true
+}
+
+

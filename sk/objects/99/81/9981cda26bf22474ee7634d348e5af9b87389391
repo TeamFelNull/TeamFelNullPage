@@ -1,0 +1,61 @@
+# Configuration file
+
+"client specific" {
+    B:"[CC43BF333] Console Loading Info"=true
+    B:"[CCFE5ADF6] Custom/Donator Renders"=true
+    B:"[D3BF5793E] Debug Mode"=false
+    B:"[D3CD9DB0D] Disable Renders For Debug"=false
+    B:"[D596966AF] Disable rain sound and particles"=false
+    B:"[D5D63F267] Disable Hotbar Swapping"=false
+    I:"[D76AFBF66] Debug Overlay Key (LWJGL ID)"=15
+    B:"[EF027A020] Enable Temporally Dependent Amusement Behavior"=true
+    B:"[IC049652B] Increase sound channel count"=true
+    B:"[L5D2B8C28] Log Loading Info To Separate File"=false
+    B:"[L8915AE2A] Log errors to chat"=true
+    I:"[P80623C92] Particle Limit (Vanilla = 4000)"=4000
+    B:"[S46F54312] Show TileEntity NBT when using Debug Key"=false
+    S:"[S77D20F0D] Setting Warning Persistence (EVERYLOAD/SETTINGCHANGE/VERSION/ONCE)"=SETTINGCHANGE
+    B:"[S7A506356] Sort Creative Tabs Alphabetically"=true
+}
+
+
+"control setup" {
+    I:"AFK Timer Threshold (Seconds); Set to 0 to Disable"=120
+    B:"Admins Bypass Permissions"=true
+    B:"Allow charged certus to be recognized as normal certus ore"=false
+    B:"Attempt to Repair Environment Sanity"=false
+    S:"Automatic Collection of Inventories; set to 'NULL' to disable"=LCTRL
+    I:"Automatic Reboot Interval (Seconds)"=-1
+    B:"Biome Humidity Dependent Fire Spread"=true
+    B:"Bytecodeexec command notifies other admins"=false
+    S:"Bytecodeexec command user UUID whitelist" <
+     >
+    B:"Cache Skins"=true
+    B:"Check Environment Sanity"=false
+    B:"Compare mod file hashes between client and server"=true
+    B:"Direct OpenComputers Support"=false
+    B:"Disallow Null-Item ItemStacks to Prevent Crashes"=true
+    I:"Expected Approximate Maximum World Size (Radius)"=5000
+    I:"Expected Approximate World Center Location X"=0
+    I:"Expected Approximate World Center Location Z"=0
+    B:"Extra Block Ticks When Raining"=true
+    B:"Force Gregtech Ore Compatibility"=true
+    B:"Log Sync Packet CME Avoidance"=true
+    B:"Make bonemeal generate biome-correct foliage instead of tall grass"=true
+    B:"Merge XP Orbs Like Items"=true
+    I:"Minimum Delay (ms) for 'Can't Keep Up!' Log Warning"=0
+    B:"Only show update notice to Ops or SSP"=false
+    B:"Only show update notice to pack creator"=false
+    B:"Player-Specific Mob Caps"=false
+    B:"Prevent Mobs From Targeting Players Immediately After Logging In"=true
+    B:"Prevent block spreading near unloaded chunks"=true
+    B:"Reroute Ender Eyes to Stronghold Entrances"=false
+    B:"Restore Obsidian Blast Resistance"=true
+    B:"Restrict profiling abilities to admins"=true
+    B:"Slow Sync Packets - Only use this as a last resort"=false
+    I:"Sync Packet ID"=182
+    B:"Use HashMap for Sound Categories - Only use if necessary"=false
+    I:"Version Change Warning Level (0 = None, 1 = ReikaMods only, 2 = All)"=2
+}
+
+

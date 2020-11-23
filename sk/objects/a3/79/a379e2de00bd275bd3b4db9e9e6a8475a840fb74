@@ -1,0 +1,123 @@
+# Configuration file
+
+client_side_config {
+    #  [default: false]
+    B:disableCarvingGLCompile=false
+
+    #  [default: true]
+    B:enableIndicatorWindowFromStart=true
+
+    #  [default: true]
+    B:enableJointBlockParticle=true
+
+    #  [default: true]
+    B:enableSlaveProcessOrderFix=true
+
+    #  [range: 0 ~ 2, default: 2]
+    I:indicatorWindowPosition=2
+
+    #  [default: true]
+    B:priorReceiveJBPacket=true
+
+    #  [range: 0 ~ 32767, default: 0]
+    I:unitStatusBarOffsetX=0
+
+    #  [range: 0 ~ 32767, default: 0]
+    I:unitStatusBarOffsetY=0
+}
+
+
+common_config {
+    #  [range: 0 ~ 32767, default: 5]
+    I:configVersion=5
+}
+
+
+server_side_config {
+    #  [default: false]
+    B:allowAnyBlockForModel=false
+
+    #  [default: ]
+    S:allowedModelBlocks <
+     >
+
+    #  [default: true]
+    B:bypathPlayerDamageToUnit=true
+
+    #  [default: false]
+    B:disableDisassemble=false
+
+    #  [default: true]
+    B:disableMasterConnectedDisassemble=true
+
+    #  [default: false]
+    B:disableUnitRequirement=false
+
+    #  [range: 0 ~ 3600, default: 0]
+    I:disassemblePenaltyTick=0
+
+    #  [default: true]
+    B:doPartsDestruction=true
+
+    #  [default: true]
+    B:enableCarving=true
+
+    #  [default: true]
+    B:enableDataExport=true
+
+    #  [default: true]
+    B:enableDataImport=true
+
+    #  [range: 64 ~ 256, default: 64]
+    I:entityJointedTrackingRange=64
+
+    #  [default: false]
+    B:fixHealthAndEnergyAtMax=false
+
+    #  [default: false]
+    B:fluctuateUnitHeight=false
+
+    #  [range: 0.0 ~ 256.0, default: 1.0]
+    S:fluctuateUnitHeightThreshold=1.0
+
+    #  [range: 0 ~ 2, default: 1]
+    I:largeUnitAbilityFixType=1
+
+    #  [range: 1 ~ 32767, default: 512]
+    I:maxAssembleCount=512
+
+    #  [range: 1 ~ 255, default: 255]
+    I:maxAssembleMotionCount=255
+
+    #  [range: 0 ~ 64, default: 32]
+    I:maxAssembleXRange=32
+
+    #  [range: 0 ~ 64, default: 32]
+    I:maxAssembleYRange=32
+
+    #  [range: 0 ~ 64, default: 32]
+    I:maxAssembleZRange=32
+
+    #  [range: 2 ~ 16, default: 4]
+    I:maxCarvingDivide=4
+
+    #  [range: 0 ~ 32767, default: 512]
+    I:maxImportablePartsCount=512
+
+    #  [range: 1 ~ 127, default: 5]
+    I:maxInitLayers=5
+
+    #  [range: 10 ~ 32767, default: 10]
+    I:maxRatioedUnitRequirement=10
+
+    #  [range: 50 ~ 32767, default: 1000]
+    I:maxUnitEnergy=1000
+
+    #  [range: 50 ~ 32767, default: 1000]
+    I:maxUnitHealth=1000
+
+    #  [range: 0.01 ~ 1000.0, default: 0.25]
+    S:slaveModeEnergyHealMult=0.25
+}
+
+

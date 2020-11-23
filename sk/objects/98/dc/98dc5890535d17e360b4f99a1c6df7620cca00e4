@@ -1,0 +1,8 @@
+# Configuration file
+
+general {
+    # If true, the bats use 32x resolution textures by ryomaco_514.
+    B:use32xTexture=false
+}
+
+

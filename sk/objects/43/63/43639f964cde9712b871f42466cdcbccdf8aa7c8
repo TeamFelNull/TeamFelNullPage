@@ -1,0 +1,10 @@
+#Mod Configuration
+#Sat Nov 21 14:52:51 GMT+09:00 2020
+blockLimit=2000
+craftBodySize=-1
+blockTarget=
+creativeOnly=false
+blockIgnore=grass, dirt, flowing_water, water, flowing_lava, lava, sand, gravel, tallgrass, deadbush, yellow_flower, red_flower, snow_layer, netherrack, end_stone
+moveKeepTime=60
+blockAppend=
+renderIgnore=

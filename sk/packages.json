@@ -2,230 +2,43 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "name" : "mpack-1",
-      "title" : "FeliNullServer",
-      "location" : "mpack-1.json",
-      "priority" : 3,
-      "version" : "2020-05-29-17-30-56",
-      "thumb" : "https://gyazo.com/d174a93fe9dad269b50ca4ad00d054e2.png",
-      "key" : null,
-      "gameVersion" : "1.7.10",
-      "server" : {
-        "serverHost" : "play.24mod.red",
-        "serverPort" : 25565
-      },
-      "features" : [
-        {
-          "properties" : {
-            "name" : "OptiFine",
-            "description" : "描画改善、処理改善、軽量化・影前提Mod",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/OptiFine_1.7.10_HD_U_E7.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "SignPicture",
-            "description" : "看板で画像を設置できるようになります<br><img alt=\"SignPicture\" src=\"https://i.gyazo.com/87161235877c5f3aa3e1f55f65ab40e1.png\"><br>このModを導入しないとサーバー内で謎文字看板を見ることになります。",
-            "recommendation" : "starred",
-            "selected" : true
-          },
-          "files" : {
-            "include" : [
-              "mods/SignPicture-1.7.10-2.8.0-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "ReAuth",
-            "description" : "マイクラを起動した状態でアカウントに再度ログインすることが可能になります。無効なセッションなどでマイクラを再起動しなくて済みます。",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/ReAuth-3.5.0.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "Stackie",
-            "description" : "ドロップ状態のエンティティ（アイテム、経験値オーブ等）をスタックする。画面に表示されるエンティティ数が減るため、描画が軽減される。",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/LunatriusCore-1.7.10-1.1.2.21-universal.jar",
-              "mods/Stackie-1.7.10-1.6.0.36-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "FastCraft",
-            "description" : "描画改善Mod",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/fastcraft-1.25.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "Emojicord",
-            "description" : "Discordみたいに絵文字がマインクラフトで使えます。",
-            "recommendation" : "starred",
-            "selected" : true
-          },
-          "files" : {
-            "include" : [
-              "mods/Emojicord-1.7.10-1.0.2.15-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        }
-      ],
-      "userFiles" : {
-        "include" : [
-          "options.txt",
-          "optionsshaders.txt"
-        ],
-        "exclude" : [ ]
-      },
-      "launch" : {
-        "flags" : [
-          "-Dfile.encoding=utf-8"
-        ]
-      }
-    },
-    {
-      "name" : "mpack-2",
       "title" : "OldFeliServer",
-      "location" : "mpack-2.json",
-      "priority" : 3,
-      "version" : "2020-05-29-17-31-03",
       "thumb" : "https://gyazo.com/70981671774d8a0d2007f9628ca7243f.png",
-      "key" : null,
-      "gameVersion" : "1.7.10",
+      "name" : "mpack-2",
+      "version" : "2020-11-23-13-49-26",
+      "key" : "MG8853",
       "server" : {
         "serverHost" : "play.servg.red",
         "serverPort" : 25565
       },
-      "features" : [
-        {
-          "properties" : {
-            "name" : "OptiFine",
-            "description" : "描画改善、処理改善、軽量化・影前提Mod",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/OptiFine_1.7.10_HD_U_E7.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "SignPicture",
-            "description" : "看板で画像を設置できるようになります<br><img alt=\"SignPicture\" src=\"https://i.gyazo.com/87161235877c5f3aa3e1f55f65ab40e1.png\"><br>このModを導入しないとサーバー内で謎文字看板を見ることになります。",
-            "recommendation" : "starred",
-            "selected" : true
-          },
-          "files" : {
-            "include" : [
-              "mods/SignPicture-1.7.10-2.8.0-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "ReAuth",
-            "description" : "マイクラを起動した状態でアカウントに再度ログインすることが可能になります。無効なセッションなどでマイクラを再起動しなくて済みます。",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/ReAuth-3.5.0.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "Stackie",
-            "description" : "ドロップ状態のエンティティ（アイテム、経験値オーブ等）をスタックする。画面に表示されるエンティティ数が減るため、描画が軽減される。",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/LunatriusCore-1.7.10-1.1.2.21-universal.jar",
-              "mods/Stackie-1.7.10-1.6.0.36-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "FastCraft",
-            "description" : "描画改善Mod",
-            "recommendation" : null,
-            "selected" : false
-          },
-          "files" : {
-            "include" : [
-              "mods/fastcraft-1.25.jar"
-            ],
-            "exclude" : [ ]
-          }
-        },
-        {
-          "properties" : {
-            "name" : "Emojicord",
-            "description" : "Discordみたいに絵文字がマインクラフトで使えます。",
-            "recommendation" : "starred",
-            "selected" : true
-          },
-          "files" : {
-            "include" : [
-              "mods/Emojicord-1.7.10-1.0.2.15-universal.jar"
-            ],
-            "exclude" : [ ]
-          }
-        }
-      ],
-      "userFiles" : {
-        "include" : [
-          "options.txt",
-          "optionsshaders.txt"
-        ],
-        "exclude" : [ ]
+      "location" : "mpack-2.json",
+      "priority" : 3
+    },
+    {
+      "title" : "FeliNullServer",
+      "thumb" : "https://gyazo.com/d174a93fe9dad269b50ca4ad00d054e2.png",
+      "name" : "mpack-1",
+      "version" : "2020-11-23-13-48-35",
+      "key" : "MG8853",
+      "server" : {
+        "serverHost" : "play.24mod.red",
+        "serverPort" : 25565
       },
-      "launch" : {
-        "flags" : [
-          "-Dfile.encoding=utf-8"
-        ]
-      }
+      "location" : "mpack-1.json",
+      "priority" : 2
+    },
+    {
+      "title" : "FelNull WINTER",
+      "thumb" : "https://i.gyazo.com/3a1c6eb2ca1e1a14c72967c0a282e256.png",
+      "name" : "mpack-3",
+      "version" : "2020-11-23-14-11-03",
+      "key" : null,
+      "server" : {
+        "serverHost" : "play.24mod.red",
+        "serverPort" : 25525
+      },
+      "location" : "mpack-3.json",
+      "priority" : 1
     }
   ]
 }

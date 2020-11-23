@@ -1,0 +1,121 @@
+
+# Cooking Start Voice. Null is no Voice
+se_cookingStart=littleMaidMob.littleMaid_MORU.cookingStart
+
+# Deid Voice. Null is no Voice
+se_death=littleMaidMob.littleMaid_MORU.death
+
+# Attack Voice. Null is no Voice
+se_attack=littleMaidMob.littleMaid_MORU.attack
+
+# Attack Bloodsucker Voice. Null is no Voice
+se_attack_bloodsuck=^
+
+# Laughter Voice. Null is no Voice
+se_laughter=littleMaidMob.littleMaid_MORU.laughter
+
+# shoot Voice. Null is no Voice
+se_shoot=littleMaidMob.littleMaid_MORU.shoot
+
+# burst shoot Voice. Null is no Voice
+se_shoot_burst=littleMaidMob.littleMaid_MORU.shoot_burst
+
+# Adopt a fire Voice. Null is no Voice
+se_sighting=
+
+# Healing Voice. Null is no Voice
+se_healing=littleMaidMob.littleMaid_MORU.healing
+
+# Healing with potion Voice. Null is no Voice
+se_healing_potion=
+
+# Enable TNT-D Voice. Null is no Voice
+se_TNT_D=littleMaidMob.littleMaid_MORU.TNT_D
+
+# Eat Sugar Voice. Null is no Voice
+se_eatSugar=littleMaidMob.littleMaid_MORU.eatSugar
+
+# Eat Sugar to MAX healing Voice. Null is no Voice
+se_eatSugar_MaxPower=
+
+# Get Cake Voice. Null is no Voice
+se_getCake=littleMaidMob.littleMaid_MORU.getCake
+
+# Recontract Voice. Null is no Voice
+se_Recontract=littleMaidMob.littleMaid_MORU.Recontract
+
+# Add Fuel Voice. Null is no Voice
+se_addFuel=littleMaidMob.littleMaid_MORU.addFuel
+
+# Cooking Over Voice. Null is no Voice
+se_cookingOver=littleMaidMob.littleMaid_MORU.cookingOver
+
+# Installation Voice. Null is no Voice
+se_installation=littleMaidMob.littleMaid_MORU.installation
+
+# Collecting snow Voice. Null is no Voice
+se_collect_snow=littleMaidMob.littleMaid_MORU.collect_snow
+
+# Dameged Voice. Null is no Voice
+se_hurt=littleMaidMob.littleMaid_MORU.hurt
+
+# Dameged Voice from snowball. Null is no Voice
+se_hurt_snow=littleMaidMob.littleMaid_MORU.hurt_snow
+
+# Dameged Voice from fire. Null is no Voice
+se_hurt_fire=littleMaidMob.littleMaid_MORU.hurt_fire
+
+# Dameged Voice on Guard. Null is no Voice
+se_hurt_guard=littleMaidMob.littleMaid_MORU.hurt_guard
+
+# Dameged Voice from Fall. Null is no Voice
+se_hurt_fall=littleMaidMob.littleMaid_MORU.hurt_fall
+
+# No Dameged Voice. Null is no Voice
+se_hurt_nodamege=littleMaidMob.littleMaid_MORU.hurt_nodamege
+
+# Find target Normal Voice. Null is no Voice
+se_findTarget_N=
+
+# Find target Bloodsuck Voice. Null is no Voice
+se_findTarget_B=littleMaidMob.littleMaid_MORU.findTarget_B
+
+# Find target Item Voice. Null is no Voice
+se_findTarget_I=
+
+# Find target Darkness Voice. Null is no Voice
+se_findTarget_D=littleMaidMob.littleMaid_MORU.findTarget_D
+
+# Living Voice in Mornig. Null is no Voice
+se_living_morning=littleMaidMob.littleMaid_MORU.living_morning
+
+# Living Voice(Default) in Daytime. Null is no Voice
+se_living_daytime=littleMaidMob.littleMaid_MORU.living_daytime
+
+# Living Voice in Night. Null is no Voice
+se_living_night=littleMaidMob.littleMaid_MORU.living_night
+
+# Living Voice at Whine. Null is no Voice
+se_living_whine=littleMaidMob.littleMaid_MORU.living_whine
+
+# Living Voice at Rain. Null is no Voice
+se_living_rain=^
+
+# Living Voice at Snow. Null is no Voice
+se_living_snow=^
+
+# Living Voice at Cold. Null is no Voice
+se_living_cold=^
+
+# Living Voice at Hot. Null is no Voice
+se_living_hot=^
+
+# Goodmorning Voice. Null is no Voice
+se_goodmorning=
+
+# Goodnight Voice. Null is no Voice
+se_goodnight=mob.ghast.affectionate scream
+
+# Living Voice Rate. 1.0=100%, 0.5=50%, 0.0=0%
+LivingVoiceRate=1.0
+

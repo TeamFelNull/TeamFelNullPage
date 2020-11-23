@@ -1,0 +1,34 @@
+# Configuration file
+
+debug {
+    # Enable debug log.
+    B:debugLog=false
+
+    # Show event log on the game screen.
+    B:showLogInChat=false
+}
+
+
+settings {
+    # Enable ItemDelocalizer
+    B:enable=true
+
+    # Enable old method of judging item name request.
+    B:enableOldMethod=false
+
+    # Show localized item names in Waila.
+    B:integrateWaila=true
+
+    # Key strings(regexp) to force translation into en_US.
+    S:keyFilters <
+        ^this\.is\.sample\..*
+     >
+
+    # Show localized item names.
+    B:showLocalizedItemName=true
+
+    # Process entity translation strictly.
+    B:strictly=false
+}
+
+
