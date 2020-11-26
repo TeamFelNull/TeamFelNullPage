@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "TEST1 (Minecraft 1.12.2)",
+    "description": "TEST1 Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "709790494020075551",
+      "largeImageText": "TeamFelNullLauncher",
+      "largeImageKey": "general"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2854"
+  }
+}

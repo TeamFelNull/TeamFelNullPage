@@ -1,3 +1,18 @@
 {
-  "forgeVersion": "31.1.87"
+  "meta": {
+    "version": "1.0.0",
+    "name": "Valhelsia2 (Minecraft 1.15.2)",
+    "description": "Valhelsia2 Running Minecraft 1.15.2 (Forge v31.2.46)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "709790494020075551",
+      "largeImageText": "TeamFelNullLauncher",
+      "largeImageKey": "general"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "31.2.46"
+  }
 }
