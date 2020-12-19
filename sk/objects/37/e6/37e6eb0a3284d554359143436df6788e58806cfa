@@ -1,0 +1,74 @@
+# Configuration file
+
+"base damage" {
+    # If BaseDamage is set to true, all mobs will deal 1.0 piercing damage (ignores armor).
+    S:" "= 
+    B:BaseDamage=true
+}
+
+
+general {
+    # Spawn Rate. Set to 0 to disable mob from spawning. Recommended: 10> Day, <100 Night
+    S:" "= 
+    I:SpawnRateAnubis=6
+    I:SpawnRateBanshee=6
+    I:SpawnRateBaphomet=2
+    I:SpawnRateBoneKnight=8
+    I:SpawnRateCentaur=4
+    I:SpawnRateCobbleGolem=4
+    I:SpawnRateCobblestoneGolem=6
+    I:SpawnRateCockatrice=2
+    I:SpawnRateCreep=8
+    I:SpawnRateCyclops=2
+    I:SpawnRateDhampir=6
+    I:SpawnRateDryad=4
+    I:SpawnRateDullahan=8
+    I:SpawnRateEnderDragonGirl=2
+    I:SpawnRateEnderEye=8
+    I:SpawnRateFleshLich=6
+    I:SpawnRateFutakuchiOnna=8
+    I:SpawnRateGryphon=3
+    I:SpawnRateHarpy=2
+    I:SpawnRateHunter=4
+    I:SpawnRateJorogumo=8
+    I:SpawnRateMermaid=6
+    I:SpawnRateMimic=6
+    I:SpawnRateMinotaur=4
+    I:SpawnRateMinotaurus=6
+    I:SpawnRateNaga=2
+    I:SpawnRateNineTails=6
+    I:SpawnRateSahuagin=8
+    I:SpawnRateSatyr=4
+    I:SpawnRateSelkie=2
+    I:SpawnRateShaman=6
+    I:SpawnRateSharko=6
+    I:SpawnRateSiren=4
+    I:SpawnRateSpawnKobold=4
+    I:SpawnRateSpawnMandragora=2
+    I:SpawnRateSphinx=4
+    I:SpawnRateSpriggan=6
+    I:SpawnRateSuccubus=4
+    I:SpawnRateSwamper=6
+    I:SpawnRateValkyrie=2
+    I:SpawnRateVampire=4
+    I:SpawnRateWerecat=8
+    I:SpawnRateWitch=5
+    I:SpawnRateWitherCow=2
+    I:SpawnRateYeti=4
+    I:SpawnRateYukiOnna=4
+    I:SpawnSludgeGirl=8
+}
+
+
+modifier {
+    # Percentage amount. Default value: 100
+    S:" "= 
+    I:Tier1attackDamage=200
+    I:Tier1maxHealth=200
+    I:Tier2attackDamage=500
+    I:Tier2maxHealth=400
+    I:Tier3attackDamage=1000
+    I:Tier3maxHealth=800
+}
+
+

@@ -1,0 +1,11 @@
+# Configuration file
+
+setting {
+    # Arrow clear bedrocks by build ticket.
+    B:ArrowClearBedrock=false
+
+    # Use Another texture for Meal Shop and Transaction Box.
+    B:UseAnotherTexture=false
+}
+
+
